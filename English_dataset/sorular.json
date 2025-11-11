@@ -1,0 +1,2600 @@
+[
+    {
+        "id": 1,
+        "konu": "Friendship",
+        "soru_metni": "George : I'm planning a surprise birthday party for mum. Hannah : I love surprise parties! I promise I won't tell it to anybody. George : Thanks. I know I can ---- you.",
+        "secenekler": {
+            "A": "back up",
+            "B": "count on",
+            "C": "get on well",
+            "D": "come along"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 2,
+        "konu": "Friendship",
+        "soru_metni": "Ken : Amy and I are going to a concert tomorrow ----? Pete : Cool! I'd love to.",
+        "secenekler": {
+            "A": "Fancy joining us",
+            "B": "Can I count on you",
+            "C": "Shall I bring some food",
+            "D": "Can you make it to my party"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 3,
+        "konu": "Friendship",
+        "soru_metni": "Sam : What're you doing tonight? Would you like to drink something at a café? Carl :----. Sam : No matter. Well, maybe tomorrow.",
+        "secenekler": {
+            "A": "Yes, I'd like to.",
+            "B": "I'll pick you up at about 8",
+            "C": "No, not at all. I'm not going to do anything",
+            "D": "I'm sorry, I can't. I'm going to help mom then"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 4,
+        "konu": "Friendship",
+        "soru_metni": "Nina : My mom cooked some delicious chocolate cakes. Would you like to have some? Tom : Thanks, but - - - -.",
+        "secenekler": {
+            "A": "I'm really full",
+            "B": "you are so kind",
+            "C": "I can have some more",
+            "D": "I love chocolate cake"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 5,
+        "konu": "Friendship",
+        "soru_metni": "Jonathan: We're meeting with friends for a coffee at one o'clock tomorrow. Why don't you join us? Cindy : Sorry, - -- -. I have a tennis match then.",
+        "secenekler": {
+            "A": "I hope I'll",
+            "B": "see you soon",
+            "C": "I can't make it",
+            "D": "that sounds fun"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 6,
+        "konu": "Friendship",
+        "soru_metni": "Ashley : What about watching a movie tonight? Ceren :----. Ashley : Yes, I bought a new comedy DVD.",
+        "secenekler": {
+            "A": "Great idea! Do you have something in your mind?",
+            "B": "Awesome! What types of movies do you have?",
+            "C": "Sorry, I'm busy all night. I must help my dad.",
+            "D": "I'd love to, but I have to study for a test."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 7,
+        "konu": "Friendship",
+        "soru_metni": "I. Would you like to join and have fun with us? II. Love, Lara. III. Dear friends, IV. I'm going to have a party tomorrow. Yukarıda karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "III-I-III-IV",
+            "B": "III-IV-I-II",
+            "C": "I-II-IV-III",
+            "D": "IV-III-II-I"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 8,
+        "konu": "Friendship",
+        "soru_metni": "A friend of yours invites you to dinner. What do you say to refuse the invitation?",
+        "secenekler": {
+            "A": "Yes. Sounds good.",
+            "B": "Cool! See you there.",
+            "C": "I'd love to but I can't.",
+            "D": "I'll definitely be there."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 9,
+        "konu": "Friendship",
+        "soru_metni": "What do you say to invite a friend to your house? Choose the correct option.",
+        "secenekler": {
+            "A": "Would you like to join us?",
+            "B": "Shall we meet this Saturday?",
+            "C": "Why don't you make new friends?",
+            "D": "How about coming to my place tonight?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 10,
+        "konu": "Friendship",
+        "soru_metni": "(I) Great buddies always back each other up. (II) They are always there when you are in trouble. (III) You have nothing in common. (IV) You count on him / her because they are reliable. Friendship is one mind in two bodies. Yukarıdaki paragrafta numaralanmış cümlelerden anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
+        "secenekler": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 11,
+        "konu": "Friendship",
+        "kontext": "Dear Friends, I'm turning 15 and having a party at home. Would you like to join? It's on Tuesday, 29th September at 7 pm. I hope you know the address. (It's 22, Cornhill Street) Love Jane P.S: You can bring some music CDs you like.",
+        "soru_metni": "What is the invitation about?",
+        "secenekler": {
+            "A": "Music contest",
+            "B": "Birthday party",
+            "C": "Sleepover",
+            "D": "Picnic"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 12,
+        "konu": "Friendship",
+        "kontext": "Dear Friends, I'm turning 15 and having a party at home. Would you like to join? It's on Tuesday, 29th September at 7 pm. I hope you know the address. (It's 22, Cornhill Street) Love Jane P.S: You can bring some music CDs you like.",
+        "soru_metni": "When is the party?",
+        "secenekler": {
+            "A": "On 29th September",
+            "B": "In Cornhill street",
+            "C": "At Jane's home",
+            "D": "With friends"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 13,
+        "konu": "Friendship",
+        "soru_metni": "Nancy : Hey, Lydia. Why don't you ---- me if you aren't busy. I need your help. Lydia : All right. I'll come over in the afternoon. [cite: 1]",
+        "secenekler": {
+            "A": "invite",
+            "B": "back up",
+            "C": "count on",
+            "D": "get on well"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 14,
+        "konu": "Friendship",
+        "soru_metni": "Mike : Amy is coming tomorrow night. Would you like to come? Kate :----, thanks. Shall I bring some food. Mike : You don't need to bring anything. I'm going to make some sandwiches. [cite: 2]",
+        "secenekler": {
+            "A": "I'm sorry",
+            "B": "I'd love to",
+            "C": "I can't make it",
+            "D": "Another time, maybe"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 15,
+        "konu": "Friendship",
+        "soru_metni": "Lily : There is a great movie on TV tonight. Would you like to see it with me? Mia : Oh, I love movies. - - - -? Lily : At 9 p.m. Come over at about half past eight. Mia : OK. So, see you in the evening. [cite: 3]",
+        "secenekler": {
+            "A": "What time does it start",
+            "B": "Why don't you come along",
+            "C": "How about a slumber party",
+            "D": "What are you doing tonight"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 16,
+        "konu": "Friendship",
+        "soru_metni": "Janet : Would you like to come to my party on Saturday? Emma :----. I'll definitely be there. Janet : See you on Saturday then. [cite: 4]",
+        "secenekler": {
+            "A": "I must help my dad",
+            "B": "Thanks for inviting me",
+            "C": "I hope you'll have a great party",
+            "D": "I want to invite you to my party"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 17,
+        "konu": "Friendship",
+        "soru_metni": "William :----? Mark : It's on 28th September. [cite: 5]",
+        "secenekler": {
+            "A": "Shall we go for a walk",
+            "B": "How about a slumber party",
+            "C": "When is your barbecue party",
+            "D": "What are you doing this weekend"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 18,
+        "konu": "Friendship",
+        "soru_metni": "Dear Thomas, I'm writing to invite you to my birthday party. It's on Sunday at 3 pm. Love, Anna. ---- [cite: 6]",
+        "secenekler": {
+            "A": "We get on well",
+            "B": "It's a chance for you",
+            "C": "That sounds fantastic",
+            "D": "I hope you can make it"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 19,
+        "konu": "Friendship",
+        "soru_metni": "Sandra : We're watching a DVD at my house this evening. - - - -? Robert : Cool! That sounds great. Karşılıklı konuşmada boş bırakılan yere hangi seçenek getirilemez? [cite: 7]",
+        "secenekler": {
+            "A": "What time is it",
+            "B": "Fancy joining us",
+            "C": "Why don't you come along",
+            "D": "Would you like to come over"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 20,
+        "konu": "Friendship",
+        "soru_metni": "One of your friends has two tickets for a concert next Sunday. He invites you to the concert. What do you say to refuse politely? Choose the correct option. [cite: 8]",
+        "secenekler": {
+            "A": "Thanks. I'll definitely be there.",
+            "B": "Yes, I'd love to. What time is it?",
+            "C": "Great! It's going to be a fantastic event.",
+            "D": "I'm sorry, but I can't. I'm going to help my mom."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 21,
+        "konu": "Friendship",
+        "soru_metni": "I. Nothing special. Why? II. Hey, Pete. What are you doing tonight? III. Yeah, I'd like to. IV. Would you like to come over for a drink? Yukarıda karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz. [cite: 11]",
+        "secenekler": {
+            "A": "IV-III-II-I",
+            "B": "IV-III-I-II",
+            "C": "II-I-IV-III",
+            "D": "II-III-I-IV"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 22,
+        "konu": "Friendship",
+        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda [cite: 12]",
+        "soru_metni": "Who can't attend to the party? [cite: 12]",
+        "secenekler": {
+            "A": "Sandra",
+            "B": "Jessica",
+            "C": "Mandy",
+            "D": "Betty"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 23,
+        "konu": "Friendship",
+        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda [cite: 13]",
+        "soru_metni": "---- because she isn't available then. [cite: 13]",
+        "secenekler": {
+            "A": "Mandy will help Sandra",
+            "B": "Betty isn't going to be there",
+            "C": "Amanda will not join the party",
+            "D": "Sandra is giving a birthday party"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 24,
+        "konu": "Friendship",
+        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda [cite: 15]",
+        "soru_metni": "---- accepts the invitation. [cite: 15]",
+        "secenekler": {
+            "A": "Mandy",
+            "B": "Sandra",
+            "C": "Jessica",
+            "D": "Amanda"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 25,
+        "konu": "Teen Life",
+        "soru_metni": "Alex : Cycling is a good exercise and it's my favourite sport. Brad :----. I think, it is healthy and exciting",
+        "secenekler": {
+            "A": "It is a good choice",
+            "B": "That's not right",
+            "C": "This is ridiculous",
+            "D": "I'm afraid. I can't"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 26,
+        "konu": "Teen Life",
+        "soru_metni": "Lucy : How often do you play computer games? Sally : Never. --",
+        "secenekler": {
+            "A": "I don't think so",
+            "B": "That would be great",
+            "C": "That's a good idea",
+            "D": "I'm not into them"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 27,
+        "konu": "Teen Life",
+        "soru_metni": "Alex :----? Mark : Twice a day.",
+        "secenekler": {
+            "A": "How do you go to school",
+            "B": "What time do you go to bed",
+            "C": "How often do you surf the Net",
+            "D": "What do you do after you get up"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 28,
+        "konu": "Teen Life",
+        "soru_metni": "Mary : There is a rock concert in the town. Would you like to come with me? Jack : I know but - - - -. Mary : Oh, come on. It's a famous band. Jack : Sorry, but I can't stand it. Mary : All right. Then I'm going alone.",
+        "secenekler": {
+            "A": "I love their songs",
+            "B": "I don't like it at all",
+            "C": "I'll be there for you",
+            "D": "it is trendy nowadays"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 29,
+        "konu": "Teen Life",
+        "soru_metni": "Donna : What do you think of this dress? Carol :----. You can wear it for the party.",
+        "secenekler": {
+            "A": "It's very pretty and impressive",
+            "B": "I've got a cowboy outfit",
+            "C": "It looks a bit ridiculous",
+            "D": "I love being trendy"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 30,
+        "konu": "Teen Life",
+        "soru_metni": "Bill : Do you prefer wearing fashion clothes or casual clothes? Mike : I prefer casual clothes because .-. Bill : I agree with you. I always prefer jeans and a t-shirt.",
+        "secenekler": {
+            "A": "they are not popular clothes",
+            "B": "uniforms are more suitable at school",
+            "C": "they are more comfortable and I feel relaxed",
+            "D": "fashion clothes are more trendy and I look handsome"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 31,
+        "konu": "Teen Life",
+        "soru_metni": "Jeremy spends a lot of money on clothes because - - - -.",
+        "secenekler": {
+            "A": "he likes being trendy",
+            "B": "it isn't a formal party",
+            "C": "he is very impressive",
+            "D": "it isn't in fashion nowadays"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 32,
+        "konu": "Teen Life",
+        "soru_metni": "(I)I usually get up at 7 a.m. (II) We usually have cheese, olives, eggs and tea. (III) I have breakfast with my family at about 8 a.m. (IV) Then, I have a shower and brush my teeth. Yukarıdaki paragrafta hangi iki cümle yer değiştirirse anlam bütünlüğü sağlanmış olur?",
+        "secenekler": {
+            "A": "I-II",
+            "B": "I-III",
+            "C": "I-IV",
+            "D": "II - III"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 33,
+        "konu": "Teen Life",
+        "soru_metni": "(I) Cycling is my favourite sport. (II) Mudguards protect you and your bike from mud and water. (III) I often go cycling to the riverside or to the park near my neighbourhood. (IV) I usually go with my brother or friends. Numaralanmış cümlelerden paragrafın anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
+        "secenekler": {
+            "A": "Ι.",
+            "B": "II.",
+            "C": "III.",
+            "D": "IV."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 34,
+        "konu": "Teen Life",
+        "kontext": "Hi, my name is Ali and I am fourteen. I always get up at 7 a.m. Then I wash my face and brush my teeth. I have breakfast at about 7.30. I usually have milk for breakfast. I usually take the bus to school but sometimes my parents take me, too. After school, I arrive home at about 3.30 pm. When I get home, I rest for a while. Then I usually do my homework or surf on the Net. We have dinner at about 7 pm. I often watch movies or listen to music in the evenings. I rarely stay up late and usually go to bed before 11 pm.",
+        "soru_metni": "Ali comes home after school at - - - -.",
+        "secenekler": {
+            "A": "7.30 am.",
+            "B": "3.30 pm.",
+            "C": "7 pm.",
+            "D": "11 pm."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 35,
+        "konu": "Teen Life",
+        "kontext": "Hi, my name is Ali and I am fourteen. I always get up at 7 a.m. Then I wash my face and brush my teeth. I have breakfast at about 7.30. I usually have milk for breakfast. I usually take the bus to school but sometimes my parents take me, too. After school, I arrive home at about 3.30 pm. When I get home, I rest for a while. Then I usually do my homework or surf on the Net. We have dinner at about 7 pm. I often watch movies or listen to music in the evenings. I rarely stay up late and usually go to bed before 11 pm.",
+        "soru_metni": "Which one is false according to the text?",
+        "secenekler": {
+            "A": "Ali rarely goes to bed after 11 p.m.",
+            "B": "Ali always goes to the school by bus.",
+            "C": "Ali brushes his teeth after he wakes up.",
+            "D": "Ali watches movies or listens to music in the evenings."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 36,
+        "konu": "Teen Life",
+        "kontext": "Hi, my name is Ali and I am fourteen. I always get up at 7 a.m. Then I wash my face and brush my teeth. I have breakfast at about 7.30. I usually have milk for breakfast. I usually take the bus to school but sometimes my parents take me, too. After school, I arrive home at about 3.30 pm. When I get home, I rest for a while. Then I usually do my homework or surf on the Net. We have dinner at about 7 pm. I often watch movies or listen to music in the evenings. I rarely stay up late and usually go to bed before 11 pm.",
+        "soru_metni": "Aşağıdaki sorulardan hangisinin cevabı metinde yoktur?",
+        "secenekler": {
+            "A": "How old is Ali?",
+            "B": "What time does Ali get up?",
+            "C": "What does Ali have for breakfast?",
+            "D": "When does Ali have a lunch break?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 37,
+        "konu": "Teen Life",
+        "soru_metni": "It will be a formal meeting. Don't wear - - - clothes.",
+        "secenekler": {
+            "A": "nerd",
+            "B": "casual",
+            "C": "trendy",
+            "D": "stylish"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 38,
+        "konu": "Teen Life",
+        "soru_metni": "Lisa : Do you like pop music? Paul :----. I prefer jazz.",
+        "secenekler": {
+            "A": "Not really",
+            "B": "Hardly ever",
+            "C": "Out of fashion",
+            "D": "Yes, sometimes"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 39,
+        "konu": "Teen Life",
+        "soru_metni": "Judy : What do you think about the movie, Adam? Adam :----. Thanks for inviting me. Judy : Good to hear that.",
+        "secenekler": {
+            "A": "A terrible performance",
+            "B": "Mostly horror films",
+            "C": "It's a great movie",
+            "D": "You're right"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 40,
+        "konu": "Teen Life",
+        "soru_metni": "Charles :----? Donna : Travelling by plane. It's faster and less tiring.",
+        "secenekler": {
+            "A": "Which one do you prefer",
+            "B": "How often do you travel",
+            "C": "What type of clothes do you like",
+            "D": "Where do you go at the weekend"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 41,
+        "konu": "Teen Life",
+        "soru_metni": "Amelia :----? Olivia : Well, when I get home, I rest for a while. Then, I do my homework.",
+        "secenekler": {
+            "A": "What kind of sports do you do",
+            "B": "What do you have for breakfast",
+            "C": "What time do you usually go to bed",
+            "D": "What do you usually do after school"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 42,
+        "konu": "Teen Life",
+        "soru_metni": "Mary :----? Patricia : It's very pretty. I love it.",
+        "secenekler": {
+            "A": "What do you think of this dress",
+            "B": "How often do you go shopping",
+            "C": "What is your favourite activity",
+            "D": "How do you go to school"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 43,
+        "konu": "Teen Life",
+        "soru_metni": "One of your friends invites you to a rock concert. But you aren't into it. Because you think it's too loud. So you apologize to your friend and refuse it politely. What do you say?",
+        "secenekler": {
+            "A": "Sorry, but I can't hang out with you. Don't ask again.",
+            "B": "I prefer rock to heavy metal. It's more energetic.",
+            "C": "I'm sorry, but I can't. I think it's noisy.",
+            "D": "That would be very nice. Why not?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 44,
+        "konu": "Teen Life",
+        "soru_metni": "Tim always gets up early. Tim never leaves room untidy. Tim sometimes reads a book. Tim never listens to music. Which one is false according to the table?",
+        "secenekler": {
+            "A": "Tim never gets up late.",
+            "B": "Tim rarely listens to music.",
+            "C": "Tim sometimes reads a book.",
+            "D": "Tim always tidies up his room"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 45,
+        "konu": "Teen Life",
+        "soru_metni": "I. In the afternoon, I usually do my homework. II. I always get up at 7 a.m. III. After dinner, I often listen to music or watch TV. IV. After breakfast, I go to school. Yukarıda karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "II-I-IV-III",
+            "B": "I-II-IV III",
+            "C": "II-IV-I-III",
+            "D": "I-III-II-IV"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 46,
+        "konu": "Teen Life",
+        "kontext": "Hi, everybody! I'm Elliot. Saturday is my favourite day. I usually get up at 10 o'clock. I have a big breakfast with my family. Then I go to swimming pool. In the afternoon I always meet with friends and we have lunch at our favourite café. I usually have a cheese sandwich. After lunch, we usually go to the cinema. If the weather is bad we hang out at the mall. We love looking at the shop windows but we rarely do shopping together. I always stay at home on Saturday evenings and do my homework. After I finish my homework, I often watch a DVD with mum and dad. We like comedy movies. Before I go to bed I always listen to some relaxing music.",
+        "soru_metni": "Elliot never ---",
+        "secenekler": {
+            "A": "listens to music before going to bed",
+            "B": "goes out on Saturday evenings",
+            "C": "meets with friends for lunch",
+            "D": "goes to the swimming pool"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 47,
+        "konu": "Teen Life",
+        "kontext": "Hi, everybody! I'm Elliot. Saturday is my favourite day. I usually get up at 10 o'clock. I have a big breakfast with my family. Then I go to swimming pool. In the afternoon I always meet with friends and we have lunch at our favourite café. I usually have a cheese sandwich. After lunch, we usually go to the cinema. If the weather is bad we hang out at the mall. We love looking at the shop windows but we rarely do shopping together. I always stay atat home on Saturday evenings and do my homework. After I finish my homework, I often watch a DVD with mum and dad. We like comedy movies. Before I go to bed I always listen to some relaxing music.",
+        "soru_metni": "What do Elliot and his friends do if the weather isn't good?",
+        "secenekler": {
+            "A": "They usually go to the cinema.",
+            "B": "They have a big breakfast together.",
+            "C": "They spend time at the shopping mall.",
+            "D": "They have lunch at their favourite café."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 48,
+        "konu": "Teen Life",
+        "kontext": "Hi, everybody! I'm Elliot. Saturday is my favourite day. I usually get up at 10 o'clock. I have a big breakfast with my family. Then I go to swimming pool. In the afternoon I always meet with friends and we have lunch at our favourite café. I usually have a cheese sandwich. After lunch, we usually go to the cinema. If the weather is bad we hang out at the mall. We love looking at the shop windows but we rarely do shopping together. I always stay at home on Saturday evenings and do my homework. After I finish my homework, I often watch a DVD with mum and dad. We like comedy movies. Before I go to bed I always listen to some relaxing music.",
+        "soru_metni": "Metne göre doğru ifadeyi işaretleyiniz.",
+        "secenekler": {
+            "A": "He always goes shopping with his friends.",
+            "B": "He usually gets up late on Saturday morning.",
+            "C": "He always meet with friends at the shopping mall.",
+            "D": "He often watches comedy movies with his parents."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 49,
+        "konu": "Cooking",
+        "soru_metni": "Beshbarmak is the national dish of Turkmenistan and it consists of",
+        "secenekler": {
+            "A": "country in the South Central Asia",
+            "B": "meat, noodles and onion sauce",
+            "C": "a popular dessert in Turkey",
+            "D": "a fast food like hamburger"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 50,
+        "konu": "Cooking",
+        "soru_metni": "Deborah: How much sugar do you have in your tea? Kimberly I have some. ----? Deborah: I stopped taking sugar in my tea and coffee.",
+        "secenekler": {
+            "A": "What's in it",
+            "B": "Why is that",
+            "C": "How about you",
+            "D": "Where is the sugar"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 51,
+        "konu": "Cooking",
+        "soru_metni": "Robert : Let me taste the sauce. Sue : Go ahead, honey. Robert : Mmm, it's very tasty. - - - -? Sue : Garlic, onion, tomato and some olive oil.",
+        "secenekler": {
+            "A": "Why do you put butter in the sauce",
+            "B": "When do you usually eat it",
+            "C": "How do you make it",
+            "D": "What is there in it"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 52,
+        "konu": "Cooking",
+        "soru_metni": "Waiter : Hello. What would you like to have, sir? Customer: Steak with mushroom sauce, please. Waiter : How would you like to have your steak? Customer: Waiter : Alright, sir.",
+        "secenekler": {
+            "A": "Cook it well, please",
+            "B": "Actually, I'm a vegetarian",
+            "C": "I'm sorry, but I hate sea food",
+            "D": "No, thanks. I'm not very hungry"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 53,
+        "konu": "Cooking",
+        "soru_metni": "John : Do you like eating out? Susan : Yeah. Why do you ask? John :----? Susan : That would be great.",
+        "secenekler": {
+            "A": "Are you good at cooking meals",
+            "B": "Can you tell me the ingredients of pasta",
+            "C": "Do you know how to make yoghurt at home",
+            "D": "Would you like to go somewhere special tonight"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 54,
+        "konu": "Cooking",
+        "soru_metni": "Steven : What's your favourite snack? Edward : It's toast. Steven :----? Edwar : Unfortunately not. My mom always makes it for me.",
+        "secenekler": {
+            "A": "How often do you have it",
+            "B": "Are you good at making it",
+            "C": "Do you think it is really tasty",
+            "D": "Would you like tea with your toast"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 55,
+        "konu": "Cooking",
+        "soru_metni": "Ernst : Do you often have fish and chips? Arnold : Yes, I often have it when I eat out. Ernst :----? Arnold : Really delicious.",
+        "secenekler": {
+            "A": "How does it taste",
+            "B": "When do you cook it",
+            "C": "Why is it so expensive",
+            "D": "What are the ingredients"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 56,
+        "konu": "Cooking",
+        "soru_metni": "Your mother will cook eggs for the breakfast. She asks how you want your egg. You'd like to have an omelette that morning. What do you say?",
+        "secenekler": {
+            "A": "I'm sorry, but I won't have breakfast today.",
+            "B": "Just boil the eggs for 5 minutes, please.",
+            "C": "Well, I prefer boiled egg to omelette.",
+            "D": "Today, I feel like eating an omelette."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 57,
+        "konu": "Cooking",
+        "soru_metni": "I. First, put 3 tablespoons of oil on the pan. II. Then, heat the oil. III. After that, keep shaking the pan to keep corns from burning. IV. Next, add the corns to the pan and cover it. V. Finally, wait for the final pops and pour the popcorns into a bowl. Verilen listede hangi iki cümle yer değiştirirse anlamlı bir tarif olur?",
+        "secenekler": {
+            "A": "II - IV",
+            "B": "II - V",
+            "C": "III - IV",
+            "D": "III - V"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 58,
+        "konu": "Cooking",
+        "soru_metni": "You should first - - - - after you pour the water into the pan.",
+        "secenekler": {
+            "A": "serve it hot and immediately",
+            "B": "add some salt and pepper",
+            "C": "chop the vegetables",
+            "D": "stir it very well"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 59,
+        "konu": "Cooking",
+        "soru_metni": "Which is not an ingredient?",
+        "secenekler": {
+            "A": "carrot",
+            "B": "garlic",
+            "C": "oil",
+            "D": "tomato"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 60,
+        "konu": "Cooking",
+        "soru_metni": "Metinde numaralanmış yerlere gelmesi gereken kelimeler hangi seçenekte doğru verilmiştir. | | | | | :-: | :-----: | :----: | | | 1 | 2 | | A) | Melt | fry | | B) | Boil | serve | | C) | Spread | beat | | D) | Knead | add |",
+        "secenekler": {
+            "A": "Melt, fry",
+            "B": "Boil, serve",
+            "C": "Spread, beat",
+            "D": "Knead, add"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 61,
+        "konu": "Cooking",
+        "soru_metni": "Sue : What should I do after I put orzo in a saucepan? Chef : Well, before the orzo turns brown, - - - -",
+        "secenekler": {
+            "A": "add the rice and cook for 2 minutes",
+            "B": "let the rice cool down and serve it immediately",
+            "C": "pour the hot water into the pan",
+            "D": "melt the butter in a saucepan"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 62,
+        "konu": "Cooking",
+        "soru_metni": "George : A Turkish breakfast starts with a nice cup of tea, however - - - -",
+        "secenekler": {
+            "A": "it is a tasty choise for dinner",
+            "B": "I really love traditional Turkish tea cups",
+            "C": "I always prefer orange juice in my trip to İstanbul",
+            "D": "Turkish people love it very much"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 63,
+        "konu": "Cooking",
+        "soru_metni": "Ruth : I'd like to cook a vegetable pizza but - - - -. Can you help me with it? Linda : Sure. I'm good at making it.",
+        "secenekler": {
+            "A": "there is nothing better to eat",
+            "B": "I don't know anything about it",
+            "C": "it can be a tasty lunch or dinner",
+            "D": "I don't have any sausages in the fridge"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 64,
+        "konu": "Cooking",
+        "soru_metni": "Sam : - - - -? Can : I usually roast it. I sometimes grill it, too.",
+        "secenekler": {
+            "A": "How do you usually cook meat",
+            "B": "How can I cook a delicious pizza",
+            "C": "What are the ingredients of Mantı",
+            "D": "What do you usually have for dinner"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 65,
+        "konu": "Cooking",
+        "soru_metni": "Jack has a sweet tooth so he likes - - - -.",
+        "secenekler": {
+            "A": "pasta and rice",
+            "B": "fish and chips",
+            "C": "desserts and cakes",
+            "D": "fruit and vegetables"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 66,
+        "konu": "Cooking",
+        "soru_metni": "Betty : Would you like to have a cup of tea? Helen : - - - -. Betty : What about orange juice then? Helen : That's better.",
+        "secenekler": {
+            "A": "No, thanks. I'm not hungry",
+            "B": "Sounds good. I really like it",
+            "C": "I feel like having something cold",
+            "D": "Yes, I'd like to"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 67,
+        "konu": "Cooking",
+        "soru_metni": "I usually - - - - potatoes in a pan.",
+        "secenekler": {
+            "A": "bake",
+            "B": "fry",
+            "C": "grill",
+            "D": "roast"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 68,
+        "konu": "Cooking",
+        "soru_metni": "(I) Ashure (Turkish: Aşure or AşurA) is a traditional Turkish pudding. (II) Ashure consists of grains, dried fruits and nuts. (III) Pudding is a kind of dessert and it is easy to make. (IV) There are no animal products like butter, milk or cheese in it. Numaralanmış cümlelerden paragrafın anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
+        "secenekler": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 69,
+        "konu": "Cooking",
+        "soru_metni": "I. Next, melt some butter on a pan and pour the mixture. II. First, crack two eggs in a bowl. III. Here is an easy recipe for omelette. IV. Add some salt and beat them well. V. Finally, cook your omelette for 3-5 minutes. Karışık olarak verilmiş cümleleri anlamlı bir yemek tarifi oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "IV-I-V-III - II",
+            "B": "III-IV-I-II - V",
+            "C": "II-III-IV-V-I",
+            "D": "III-II-IV-I-V"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 70,
+        "konu": "Cooking",
+        "soru_metni": "Take-away food means - - - -",
+        "secenekler": {
+            "A": "eating a meal at a restaurant or cafe",
+            "B": "heating the food before you eat it again",
+            "C": "ordering a larger portion of dish in a restaurant",
+            "D": "getting the food in a pocket and eating it out of the restaurant"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 71,
+        "konu": "Cooking",
+        "soru_metni": "People can eat fish and chips - - - -",
+        "secenekler": {
+            "A": "with a little vinegar or salt",
+            "B": "only for breakfast or lunch",
+            "C": "on their picnics or barbecue parties",
+            "D": "on special days like New Years' Day"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 72,
+        "konu": "Cooking",
+        "soru_metni": "Which one is false according to the text?",
+        "secenekler": {
+            "A": "The potatoes of fish and chips are larger than French fries.",
+            "B": "There are more than one kind of fish for fish and chips.",
+            "C": "Fish and chips contains sliced potatoes and fish fillet.",
+            "D": "Fish and chips is popular only in France."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 73,
+        "konu": "Communication",
+        "soru_metni": "I usually to my friends.",
+        "secenekler": {
+            "A": "speak face-to-face",
+            "B": "leave voicemails",
+            "C": "send emails",
+            "D": "write letters"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 74,
+        "konu": "Communication",
+        "soru_metni": "Teenagers usually use their PCs, tablets or smart phones to -- with their friends.",
+        "secenekler": {
+            "A": "keep in touch",
+            "B": "leave a message",
+            "C": "hang on a minute",
+            "D": "speak face-to-face"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 75,
+        "konu": "Communication",
+        "soru_metni": "is a way of communication by using hands and other parts of the body.",
+        "secenekler": {
+            "A": "Sign language",
+            "B": "Exhibition",
+            "C": "Voicemail",
+            "D": "Receiver"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 76,
+        "konu": "Communication",
+        "soru_metni": "Peter :----? Mr. Brown: No, son. I don't have any accounts. I prefer socializing with my friends.",
+        "secenekler": {
+            "A": "Do you have any plans for this afternoon",
+            "B": "Are you a member of any social networks",
+            "C": "Are you worried about the negative effects of mobile phones",
+            "D": "Do you speak face-to-face to keep in touch with your buddies"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 77,
+        "konu": "Communication",
+        "soru_metni": "Secretary: Hello, Mrs. Jones speaking. Judy : Hello, could I speak to Mr. Taylor, please? Secretary : Judy : Judy Roberts. Secretary: OK, Mrs Roberts, could you hold on a moment, please?",
+        "secenekler": {
+            "A": "I'll call back later.",
+            "B": "One moment, please.",
+            "C": "Could I ask who is calling?",
+            "D": "Could you please repeat that?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 78,
+        "konu": "Communication",
+        "soru_metni": "Jack : Is Steve there? Carol :---- I can't hear you. Jack : Is Steve at home? I'm Steve's friend, Jack.",
+        "secenekler": {
+            "A": "He's not available at the moment.",
+            "B": "I'm sorry, there is too much noise.",
+            "C": "Would you like to leave a message?",
+            "D": "Who are you going to go there with?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 79,
+        "konu": "Communication",
+        "soru_metni": "Teens mostly write text messages by using short combinations of numbers, words and symbols. For example,",
+        "secenekler": {
+            "A": "they prefer talking on landlines",
+            "B": "languages are changing fast",
+            "C": "they are fast and fun",
+            "D": "number 2 means \"to\""
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 80,
+        "konu": "Communication",
+        "soru_metni": "Carol : How about hanging out this evening? Doris : Carol : No matter. We'll meet up later.",
+        "secenekler": {
+            "A": "I hope you feel better soon",
+            "B": "I can't hear you well. It's a bad line",
+            "C": "That would be great, but I have some guests tonight",
+            "D": "Sounds good. I'm not going to do anything tonight"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 81,
+        "konu": "Communication",
+        "soru_metni": "You want to invite one of your friends to your party but she didn't answer the phone. So you'd like to leave a voicemail. What do you say?",
+        "secenekler": {
+            "A": "Hello, Sarah. This is Martin. I'm having a party tonight. Would you like to join us?",
+            "B": "Hello, Sarah. This is Martin. I'm busy that night. I have to stay home.",
+            "C": "Hi, Sarah. This is Martin. Thanks for inviting me to my party. I'm going to be there.",
+            "D": "Hi, Sarah. This is Martin. I can't hear you well. I guess it's a bad line."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 82,
+        "konu": "Communication",
+        "kontext": "Hi, Helen Jeff and I are going to the bookstore on Sunday. You know we are learning computer programming and we are going to buy a book about it. I know you are also interested in computer programming. Would you like to join us? Let me know if you can make it. We are going to leave home at 10 a.m. We can go to the cinema or eat at a restaurant after shopping. I hope you can come. Donald",
+        "soru_metni": "Yukarıdaki metinde aşağıdaki sorulardan hangisinin cevabı yoktur?",
+        "secenekler": {
+            "A": "Who will Donald go to the bookstore with?",
+            "B": "What time are they going to leave home?",
+            "C": "What kind of a book will they buy?",
+            "D": "How will they go to the bookstore?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 83,
+        "konu": "Communication",
+        "kontext": "Hi, Helen Jeff and I are going to the bookstore on Sunday. You know we are learning computer programming and we are going to buy a book about it. I know you are also interested in computer programming. Would you like to join us? Let me know if you can make it. We are going to leave home at 10 a.m. We can go to the cinema or eat at a restaurant after shopping. I hope you can come. Donald",
+        "soru_metni": "Jeff and Donald want to buy a book about ----",
+        "secenekler": {
+            "A": "computer games",
+            "B": "the history of cinema",
+            "C": "computer programming",
+            "D": "the ways of communication"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 84,
+        "konu": "Communication",
+        "kontext": "Hi, Helen Jeff and I are going to the bookstore on Sunday. You know we are learning computer programming and we are going to buy a book about it. I know you are also interested in computer programming. Would you like to join us? Let me know if you can make it. We are going to leave home at 10 a.m. We can go to the cinema or eat at a restaurant after shopping. I hope you can come. Donald",
+        "soru_metni": "Imagine that you are Helen. You can't join them and make an excuse. What do you say?",
+        "secenekler": {
+            "A": "Of course, I will. Where is the bookstore?",
+            "B": "I'd love to come, but I'm too busy on Sunday.",
+            "C": "Cinema? I love it. Did you choose the film?",
+            "D": "Yeah, sure. Thanks for inviting me."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 85,
+        "konu": "Communication",
+        "soru_metni": "Paul : Hello, Paul speaking. I'm so busy now, TTYL. Sharon : Hi, Paul. This is Sharon. Can I talk to Betty? Paul :---- I'll get her. Sharon : Thanks, Paul.",
+        "secenekler": {
+            "A": "She isn't available now.",
+            "B": "Don't hang up the phone.",
+            "C": "Could you please repeat that?",
+            "D": "Can I take your name and number?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 86,
+        "konu": "Communication",
+        "soru_metni": "Isla : Would you like to come to the cinema with me? Ava :----? Isla : We can meet at five in front of the shopping mall. Ava : OK.",
+        "secenekler": {
+            "A": "Maybe later. How about having dinner instead",
+            "B": "Do you have a movie in your mind",
+            "C": "Yes, I'd love to. When and where",
+            "D": "Do we have another choice"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 87,
+        "konu": "Communication",
+        "soru_metni": "Many teachers are worried about the negative effects of text language and abbreviations, however - - - - .",
+        "secenekler": {
+            "A": "people mostly prefer face-to-face communication",
+            "B": "most of the teachers still continue using computers",
+            "C": "text messages aren't popular among teenagers because they are not fast and fun",
+            "D": "most of the teenagers continue to write text messages using short combinations"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 88,
+        "konu": "Communication",
+        "soru_metni": "Jane : What does TTYL mean? Mary :---- Jane : Okay, dear. HAND",
+        "secenekler": {
+            "A": "Talk to you later",
+            "B": "Okay, dear. HAND",
+            "C": "Thanx 4 invitation.",
+            "D": "Why do you ask?"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 89,
+        "konu": "Communication",
+        "soru_metni": "I. No, that's okay. I'll call back later. II. Hello, can I talk to Mr. Williams, please? III. OK. Bye for now. IV. I'm afraid, he's out. Would you like to leave a message? V. Hello, Mr. Williams office. Karışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "V-I-III-IV-II",
+            "B": "V-II-IV-I-III",
+            "C": "V-III-I-II-IV",
+            "D": "V-IV-II-III"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 90,
+        "konu": "Communication",
+        "soru_metni": "(I) An SMS or short message service is a type of communication used in mobile phones. (II) They are usually called \"text messages\". (III) With SMS, someone can send a text message to another person. (IV) People communicate in many different ways. Verilen metinde anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
+        "secenekler": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 91,
+        "konu": "Communication",
+        "soru_metni": "Which one is true according to the chart?",
+        "secenekler": {
+            "A": "All teens enjoy exchanging emails daily.",
+            "B": "No teenagers write letters to their friends",
+            "C": "Half of teens prefer text messages to communicate",
+            "D": "Most of the teens make or receive voice calls every day."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 92,
+        "konu": "Communication",
+        "soru_metni": "Your landline phone is ringing. You answered it. Someone wants to talk to your father but he's not at home. What do you say?",
+        "secenekler": {
+            "A": "I have another call coming through. I have to hang up the phone.",
+            "B": "Thanks, could you tell him to call Sam when he gets in?",
+            "C": "I'm sorry he's not here now. Can you call again later?",
+            "D": "Hang on a minute, please. I'll get my father."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 93,
+        "konu": "Communication",
+        "soru_metni": "\"52% of teens use social networks to exchange messages daily.\" Verilen cümleye anlamca en yakın olan seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "More than half of the teens use social networks to exchange messages daily.",
+            "B": "4 in 10 teens exchange messages daily by using social networks.",
+            "C": "Nearly all of the teens exchange messages daily through social networks.",
+            "D": "6 in 10 teens say they never use social networking sites."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 94,
+        "konu": "Communication",
+        "soru_metni": "A smartphone - - - -.",
+        "secenekler": {
+            "A": "is bigger than a computer",
+            "B": "is small enough to fit in hand",
+            "C": "isn't as small as a computer",
+            "D": "isn't suitable for surfing on the Net"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 95,
+        "konu": "Communication",
+        "soru_metni": "The text is about the - - - - of smartphones.",
+        "secenekler": {
+            "A": "negative effects",
+            "B": "high prices",
+            "C": "functions",
+            "D": "history"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 96,
+        "konu": "Communication",
+        "soru_metni": "Which one is not mentioned in the text?",
+        "secenekler": {
+            "A": "You can send emails by using smartphones.",
+            "B": "Smartphones function like computers today.",
+            "C": "You can make or receive calls with a smartphone.",
+            "D": "Smartphones are more popular than computers."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 97,
+        "konu": "Communication",
+        "soru_metni": "Secretary: Hello, Mrs. Thomas speaking. Joseph : Hi, can I order two large pizzas, please? Secretary: -- Joseph : I'm really sorry. Bye.",
+        "secenekler": {
+            "A": "I'm sorry but here is a gym.",
+            "B": "How do you like your pizza?",
+            "C": "Hold the line, I'll put you through.",
+            "D": "I'm sorry but you have called the gym."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 98,
+        "konu": "Communication",
+        "soru_metni": "Robert : Hello, Robert speaking. Sue : Hi, Robert, it's me Sue. Do you have any plans for tonight? Robert : Sorry, Sue. I'm at the office now. Can we talk after work? Sue : OK, no problem. - - - -",
+        "secenekler": {
+            "A": "Thanks for calling",
+            "B": "One moment, please",
+            "C": "I will call you back later again",
+            "D": "I'm not available at the moment"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 99,
+        "konu": "Communication",
+        "soru_metni": "Tom : Hello, Tom speaking. Cathy : Hi, Tom, it's me Cathy. - - - -? Tom : Great. Thanks. Cathy : Are you at home tonight? Tom : Yeah. Why don't you come over here tonight?",
+        "secenekler": {
+            "A": "What is your plan for tonight",
+            "B": "Are you free tonight",
+            "C": "When is the party",
+            "D": "How is it going"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 100,
+        "konu": "Communication",
+        "soru_metni": "Eric : Why don't you answer my voicemails, Jill? Jill : I'm sorry but ---- Eric : Then, I will send text messages to keep in touch with you.",
+        "secenekler": {
+            "A": "I never send text messages",
+            "B": "I prefer using text messages",
+            "C": "I use voicemails to keep in touch",
+            "D": "I never check my voicemails"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 101,
+        "konu": "Communication",
+        "soru_metni": "Tom : We are having a party tonight. Would you like to join us? Robin : I'm sorry but I can't. I don't feel well today. Tom : That's so bad. ---- . Robin : Thanks.",
+        "secenekler": {
+            "A": "I hope you enjoy it",
+            "B": "I hope you feel better soon",
+            "C": "I'm sorry, I'm not available now",
+            "D": "I prefer face-to-face communication"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 102,
+        "konu": "Communication",
+        "soru_metni": "Michael : There is a great match tonight. Why don't we go and watch it at the stadium together? Edward : I'm afraid, I'm not available tonight. Michael : OK, no problem.",
+        "secenekler": {
+            "A": "My grandparents are going to visit me tonight",
+            "B": "I'm planning to buy two tickets for the match",
+            "C": "My team is going to win the match",
+            "D": "I'm really into football matches"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 103,
+        "konu": "Communication",
+        "soru_metni": "Carol :----? Kaan : Almost everyday. Because I often use my mobile phone to keep in touch with friends.",
+        "secenekler": {
+            "A": "What is your favorite social network",
+            "B": "Do you often watch movies at home",
+            "C": "How often do you send text messages",
+            "D": "Do you prefer sending emails to text messages"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 104,
+        "konu": "Communication",
+        "soru_metni": "Jack : Don't forget to buy some meat and bread. You know ----.",
+        "secenekler": {
+            "A": "my friends often use abbreviations in text messages",
+            "B": "we are going to have lunch at a restaurant together",
+            "C": "I often send emails to keep in touch with friends",
+            "D": "we are going to have dinner with friends tonight"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 105,
+        "konu": "Communication",
+        "soru_metni": "I. Could I ask who's calling? II. Hello, Peter, is Mark there? III. I'm sorry, this is his friend William. IV. Hello, Peter speaking. V. I'm sorry William, but he is not at home now. Karışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralandığı seçeneği işaretleyi- niz.",
+        "secenekler": {
+            "A": "II-IV-I-III - V",
+            "B": "IV-II-I-III - V",
+            "C": "II-IV-VIII - 1",
+            "D": "IV-I-II-V - III"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 106,
+        "konu": "Communication",
+        "soru_metni": "You want to hang out with your best friend after school. You invite him but he doesn't accept your invitation because he doesn't feel well today. You want to express your sympathy and concern. What do you say?",
+        "secenekler": {
+            "A": "I think you are ill today.",
+            "B": "I hope you feel better soon.",
+            "C": "I hope you have great time.",
+            "D": "I think you are available now."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 107,
+        "konu": "Communication",
+        "soru_metni": "Smartphone Q1 ----.",
+        "secenekler": {
+            "A": "has 16 GB storage",
+            "B": "is too big to fit in your pocket",
+            "C": "has a screen smaller than 5 inch",
+            "D": "is a program to find information on the Net"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 108,
+        "konu": "Communication",
+        "soru_metni": "Which one is false about the gadget?",
+        "secenekler": {
+            "A": "You can take photos with its 16 megapixel camera",
+            "B": "You can surf on the Net fast with this phone",
+            "C": "It can't recognize your handwriting",
+            "D": "It has a touchscreen display"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 109,
+        "konu": "Communication",
+        "soru_metni": "Teens mostly prefer more than voice calls to communicate with each other because they are cheap and fast.",
+        "secenekler": {
+            "A": "writing invitations",
+            "B": "sending text messages",
+            "C": "using their dictionaries",
+            "D": "having face-to-face communication"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 110,
+        "konu": "Communication",
+        "soru_metni": "Mike : Hello, Daryl. We're going to the cinema tonight. Would you like to join us? Daryl : Hello, Mike. It would be great but my mom doesn't feel well and I have to stay with her today. Mike : I'm sorry to hear that. I hope - - - -. See you later, then. Daryl : Thanks for calling. See you.",
+        "secenekler": {
+            "A": "I can stay with you",
+            "B": "she feels better soon",
+            "C": "she can come with us",
+            "D": "I can go to the cinema"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 111,
+        "konu": "Communication",
+        "soru_metni": "Frank : Hello, Frank speaking. Brad : Hello, Frank. This is Brad. Do you want to drink something at the café? Frank : I'm sorry, I feel tired. I'm going to rest all day. Brad : No matter.",
+        "secenekler": {
+            "A": "You can join me now",
+            "B": "I hope you can be there",
+            "C": "We'll meet up later, then",
+            "D": "Thank you for your invitation"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 112,
+        "konu": "Communication",
+        "soru_metni": "Rosa : Hello, Rosa speaking. Kate : Hello, this is Kate. Can I speak to Jill, please? Rosa : Hello, Kate. I'm afraid, she is not in at the moment. She will be at home in the afternoon. Kate : - - - - Have a nice day. Rosa : Thanks. Bye.",
+        "secenekler": {
+            "A": "I will get her",
+            "B": "It is a bad line",
+            "C": "She has gone out",
+            "D": "I'll call back later"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 113,
+        "konu": "Communication",
+        "soru_metni": "Secretary: Hello, Mrs. Peterson's office. Matt : Hello, could I speak to her, please? Secretary:----, please? Matt : It's Matt Brown, her friend.",
+        "secenekler": {
+            "A": "May I ask who is calling",
+            "B": "Could you repeat that",
+            "C": "Can you hold on a moment",
+            "D": "Would you like to leave a message"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 114,
+        "konu": "Communication",
+        "soru_metni": "Fred : Hello, Fred speaking. Sam : Hello, Fred. It's Sam. How are you? Fred : I'm fine, Sam. Thank you. Sam :----? We are going to watch a movie with Jason. Would you like to join us? Fred : Actually, not at all. I will be there.",
+        "secenekler": {
+            "A": "Are you going to join the party",
+            "B": "Is your brother in at the moment",
+            "C": "Do you have any plans for tonight",
+            "D": "Does your father like watching movies"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 115,
+        "konu": "Communication",
+        "soru_metni": "I. Hello, could I speak to Mr. Harry, please? II. OK. I will inform him about your calling. III. I'm afraid he isn't available at the moment. IV. Could you tell him to contact with Mrs. Shine? V. Hello. Mr Harry's office Karışık olarak verilen cümlelerin anlamlı bir diyalog olacak şekilde sıralandığı seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "V-I-III IV - II",
+            "B": "V-II-IV III - I",
+            "C": "V-III-I- II - IV",
+            "D": "V-IV-II-I-III"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 116,
+        "konu": "Communication",
+        "soru_metni": "(I) Jeremy wants to buy a laptop. (II) He is going to buy a new laptop for his father as a birthday gift. (III) Jeremy likes playing computer games with friends. (IV) His father is going to be forty next Saturday. Verilen metinde anlam bütünlüğünü bozan cümle se- çeneklerden hangisidir?",
+        "secenekler": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 117,
+        "konu": "Communication",
+        "kontext": "Alice's weekend plans | What: Do sports | When: On Saturday | What time: At ten a.m. | Where: At the gym",
+        "soru_metni": "Choose the incorrect option according to the table above?",
+        "secenekler": {
+            "A": "Alice is going to do sports at 10 a.m.",
+            "B": "She is going to do sports at the gym.",
+            "C": "She is going to do sports on weekend.",
+            "D": "Alice is going to do sports on Friday."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 118,
+        "konu": "Communication",
+        "kontext": "Hi, girls. I'm having friends over tonight. Would you like to join us? We can sit and chit-chat. Mary I'd like to but I am not feeling well today. I'm sorry. Talk to you soon. Ruth Sure! That's a good idea. Tell me if you need anything. I can bring something to drink. Bye for now. Susan Hi. That would be great. My cousin is staying with us. Shall we come together? She is really a funny girl.",
+        "soru_metni": "Which one is true about the messages above?",
+        "secenekler": {
+            "A": "Ruth is offering to bring some drinks.",
+            "B": "Mary is going to Lisa's place tonight.",
+            "C": "Susan invites her friends to her house.",
+            "D": "Lisa refuses the invitation because she's ill."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 119,
+        "konu": "Communication",
+        "kontext": "Hi, girls. I'm having friends over tonight. Would you like to join us? We can sit and chit-chat. Mary I'd like to but I am not feeling well today. I'm sorry. Talk to you soon. Ruth Sure! That's a good idea. Tell me if you need anything. I can bring something to drink. Bye for now. Susan Hi. That would be great. My cousin is staying with us. Shall we come together? She is really a funny girl.",
+        "soru_metni": "---- wants to attend to the event with one of her relatives.",
+        "secenekler": {
+            "A": "Lisa",
+            "B": "Mary",
+            "C": "Ruth",
+            "D": "Susan"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 120,
+        "konu": "Communication",
+        "kontext": "Hi, girls. I'm having friends over tonight. Would you like to join us? We can sit and chit-chat. Mary I'd like to but I am not feeling well today. I'm sorry. Talk to you soon. Ruth Sure! That's a good idea. Tell me if you need anything. I can bring something to drink. Bye for now. Susan Hi. That would be great. My cousin is staying with us. Shall we come together? She is really a funny girl.",
+        "soru_metni": "Who accepts the invitation according to the text?",
+        "secenekler": {
+            "A": "Susan and Mary",
+            "B": "Susan and Ruth",
+            "C": "Lisa and Ruth",
+            "D": "Lisa and Mary"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 121,
+        "konu": "The Internet",
+        "soru_metni": "A is a computer hardware and it helps your computer to connect to the Net.",
+        "secenekler": {
+            "A": "modem",
+            "B": "monitor",
+            "C": "mouse",
+            "D": "microphone"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 122,
+        "konu": "The Internet",
+        "soru_metni": "Martin : Do you use social networking sites? Harry : Sure. Martin : What do you usually do on these sites? Harry : ----",
+        "secenekler": {
+            "A": "I always prefer using my desktop",
+            "B": "There is a connection sign on the screen",
+            "C": "You will have some connection problems",
+            "D": "I use them to keep in touch with my friends"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 123,
+        "konu": "The Internet",
+        "soru_metni": "A is a type of website that helps us find information on the Net.",
+        "secenekler": {
+            "A": "live chat",
+            "B": "web browser",
+            "C": "search engine",
+            "D": "mobile device"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 124,
+        "konu": "The Internet",
+        "soru_metni": "Paul :----? Steven : I usually read newspaper or magazines. I sometimes communicate with friends, too.",
+        "secenekler": {
+            "A": "How often are you online",
+            "B": "What do you usually do online",
+            "C": "How often do you play online games",
+            "D": "What's the best thing about the Internet"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 125,
+        "konu": "The Internet",
+        "soru_metni": "Kimberly:----? Michelle: Certainly, my sister. She is a couch potato and nearly always online.",
+        "secenekler": {
+            "A": "How many hours a day do you spend on the Net",
+            "B": "What do you do first after you come back home",
+            "C": "Who uses the Internet most in your family",
+            "D": "Why do you prefer doing online shopping"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 126,
+        "konu": "The Internet",
+        "soru_metni": "Robert: I forgot my and can't log on my account.",
+        "secenekler": {
+            "A": "attachment",
+            "B": "password",
+            "C": "comment",
+            "D": "wireless"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 127,
+        "konu": "The Internet",
+        "soru_metni": "INTERNET SAFETY RULES: Choose strong passwords. Don't give your personal details to strangers. Use an antivirus program. ----",
+        "secenekler": {
+            "A": "Download files from any sites that you like",
+            "B": "Meet your online friends in person",
+            "C": "Open every email attachments",
+            "D": "Be careful with what you share"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 128,
+        "konu": "The Internet",
+        "soru_metni": "Imagine that you have an Internet connection problem. You see that some of the lights on your modem are off. You call the customer service. What do you say?",
+        "secenekler": {
+            "A": "I have a cable modem and I want to replace it with a wireless one.",
+            "B": "I can't connect to the Net and some lights are off on my modem.",
+            "C": "I don't prefer using a wireless modem because I use a desktop.",
+            "D": "I want to buy new modem lights because some of them are off."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 129,
+        "konu": "The Internet",
+        "soru_metni": "I. Really? Could you send them to me? II. Could you find any information on the Net about the conquest of İstanbul? III. Sure. I will attach them to the email. IV. Yes. I found some photos and maps. Karışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralandığı seçeneği işaretleyi- niz.",
+        "secenekler": {
+            "A": "III-IV-I-II",
+            "B": "III-II-IV-I",
+            "C": "III-I-II-IV",
+            "D": "II-IV-I-III"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 130,
+        "konu": "The Internet",
+        "soru_metni": "According to the text, you should choose the right search engine ----",
+        "secenekler": {
+            "A": "because keywords help you get more specific results",
+            "B": "so Internet is a great place to make new friends",
+            "C": "after you search the list and find information",
+            "D": "if you want to learn how to search on the Net"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 131,
+        "konu": "The Internet",
+        "soru_metni": "According to the text, if you can't find information through a search engine, you can - .",
+        "secenekler": {
+            "A": "look it up in books or other materials",
+            "B": "use social networks to get help from others",
+            "C": "try another one and follow the steps again",
+            "D": "press the \"Enter\" key on the keyboard"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 132,
+        "konu": "The Internet",
+        "soru_metni": "What can be the best title for the text?",
+        "secenekler": {
+            "A": "How to search on the Net?",
+            "B": "How to make online friends?",
+            "C": "How do search engines work?",
+            "D": "How can the Internet be harmful?"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 133,
+        "konu": "The Internet",
+        "soru_metni": "If you want to listen to music while using your computer, you should buy some - - - -",
+        "secenekler": {
+            "A": "speakers",
+            "B": "monitors",
+            "C": "keyboards",
+            "D": "printers"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 134,
+        "konu": "The Internet",
+        "soru_metni": "If you want to use safe sites on the Net, you - - - -.",
+        "secenekler": {
+            "A": "should have a social network account",
+            "B": "need to take and share photos on the Net",
+            "C": "can get help from your teachers and parents",
+            "D": "can give out your personal information to everyone"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 135,
+        "konu": "The Internet",
+        "soru_metni": "Everyone loves the Internet because - - - -",
+        "secenekler": {
+            "A": "you must be careful with strange e-mails.",
+            "B": "it's a great place to keep in touch with friends",
+            "C": "you can spend too much time and become an addict",
+            "D": "it has some disadvantages, too"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 136,
+        "konu": "The Internet",
+        "soru_metni": "Sharon has many Internet friends but - - - -.",
+        "secenekler": {
+            "A": "they aren't members of social networking sites",
+            "B": "she has accounts in different social networks",
+            "C": "she doesn't meet her real friends very often",
+            "D": "they can chat and play online games"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 137,
+        "konu": "The Internet",
+        "soru_metni": "Noah : Do you have a social network account? Liam : Yeah. Noah : - - - -? Liam : Photos, songs, funny videos etc.",
+        "secenekler": {
+            "A": "Do you send e-mails",
+            "B": "Do you play online games",
+            "C": "What's your favourite website",
+            "D": "What do you usually share"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 138,
+        "konu": "The Internet",
+        "soru_metni": "James : How about hanging out tonight? David : - - - - James : See you later, then. David : Take care, bye.",
+        "secenekler": {
+            "A": "Sounds good. What time shall we meet?",
+            "B": "No, not at all. I'm not doing anything tonight.",
+            "C": "That would be great. What are you planning?",
+            "D": "I'm sorry but my cousin is going to visit me tonight."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 139,
+        "konu": "The Internet",
+        "soru_metni": "One of your friends invites you to the cinema. You accept the invitation and state that you love watching movies. What do you say?",
+        "secenekler": {
+            "A": "I'm afraid, I can't. My aunt is going to visit us today.",
+            "B": "Great idea! You know I'm really into movies.",
+            "C": "No, thanks. I have got lots of homework.",
+            "D": "I'm too busy. Another time, maybe."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 140,
+        "konu": "The Internet",
+        "soru_metni": "(I) A search engine is a type of website that helps someone find information on the Internet. (II) You must enter one or more words into the search engine. (III) Google is the most popular search engine website. (IV) When you finish your search, you see the results on the screen. Verilen metinde anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
+        "secenekler": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 141,
+        "konu": "The Internet",
+        "soru_metni": "I. Sure. What is the problem? II. I think I have a problem with my computer. Can you help me, please? III. Well, I can't open new pages on the Internet. IV. Close all the pages and then try to open a new one. Karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "II-I-III-IV",
+            "B": "III-IV-II-I",
+            "C": "I-III-IV-II",
+            "D": "IV-II-I-III"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 142,
+        "konu": "The Internet",
+        "soru_metni": "According to the text, one of the negative effects of social networks is - - - -.",
+        "secenekler": {
+            "A": "sharing photos",
+            "B": "making friends",
+            "C": "communication",
+            "D": "addiction"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 143,
+        "konu": "The Internet",
+        "soru_metni": "Which one is false according to text?",
+        "secenekler": {
+            "A": "You can meet people with the same interests through social networking sites.",
+            "B": "People mostly use social networking sites to steal other users' information.",
+            "C": "There are both positive and negative sides of social networking sites.",
+            "D": "Meeting an online friend in person can be very risky and dangerous."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 144,
+        "konu": "The Internet",
+        "soru_metni": "Which can be the best title for the text?",
+        "secenekler": {
+            "A": "Making Friends Through Social Networks",
+            "B": "Learning English Through the Internet",
+            "C": "Social Networks and Their Bad Sides",
+            "D": "Technology and Communication"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 145,
+        "konu": "The Internet",
+        "soru_metni": "I sometimes - - - - photos on social networks because I like reading my friends' ideas about them.",
+        "secenekler": {
+            "A": "connect",
+            "B": "practice",
+            "C": "upload",
+            "D": "log on"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 146,
+        "konu": "The Internet",
+        "soru_metni": "A computer - - - - shows pictures or information and it often looks similar to televisions.",
+        "secenekler": {
+            "A": "printer",
+            "B": "monitor",
+            "C": "mouse",
+            "D": "keyboard"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 147,
+        "konu": "The Internet",
+        "soru_metni": "A - - - - is a software for finding web pages with the information you want.",
+        "secenekler": {
+            "A": "search engine",
+            "B": "service provider",
+            "C": "chat room",
+            "D": "page"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 148,
+        "konu": "The Internet",
+        "soru_metni": "Isabel :----? Tilly : I usually use my mobile but I sometimes use my computer, too.",
+        "secenekler": {
+            "A": "What do you usually do on the Net",
+            "B": "How often do you check your e-mails",
+            "C": "What is the best thing about the Internet",
+            "D": "How do you usually connect to the Internet"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 149,
+        "konu": "The Internet",
+        "soru_metni": "Michelle : Do you do online shopping? Kimberly: No. I think, it isn't safe. Michelle :----. I think it's safe if you do shopping on safe sites.",
+        "secenekler": {
+            "A": "Thank you anyway",
+            "B": "I'm sorry, I can't",
+            "C": "I don't think so",
+            "D": "I'm very busy"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 150,
+        "konu": "The Internet",
+        "soru_metni": "Sam :----? Tim : Sure. Here you are. Sam : Thank you. Tim : You're welcome.",
+        "secenekler": {
+            "A": "Do you often listen to music",
+            "B": "Do you use the Internet at home",
+            "C": "Are you good at fixing computers",
+            "D": "Can you lend me your speakers"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 151,
+        "konu": "The Internet",
+        "soru_metni": "Samuel : What is the best thing about the Internet? Natalie : To make new friends. Samuel :----? Natalie : Sure. I have two accounts.",
+        "secenekler": {
+            "A": "Are you a member of any social networks",
+            "B": "Do you often read online newspapers",
+            "C": "How many hours a day do you use the Internet",
+            "D": "What is the problem with your Internet connection"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 152,
+        "konu": "The Internet",
+        "soru_metni": "I. I cannot connect to the Internet. II. Your modem may be offline. III. I have a problem with my computer. IV. What do you mean? Karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
+        "secenekler": {
+            "A": "II-I-III-IV",
+            "B": "III-IV-I-II",
+            "C": "I-II-III-IV",
+            "D": "IV-III-II-I"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 153,
+        "konu": "The Internet",
+        "soru_metni": "(I) Internet addicts think and talk about the Internet all the time and they cannot organize their lives. (II) The Internet is a term for the worldwide communication network of computers. (III) You can send information quickly between computers around the world. (IV) It's used for many things such as electronic mail, online chat, file transfer, web pages etc. Verilen metinde anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
+        "secenekler": {
+            "A": "I",
+            "B": "II",
+            "C": "III",
+            "D": "IV"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 154,
+        "konu": "The Internet",
+        "soru_metni": "According to the text, if you spend too much time on the Internet, you - - - -",
+        "secenekler": {
+            "A": "can never access the Net",
+            "B": "can search for information",
+            "C": "cannot have many passwords and accounts",
+            "D": "cannot have enough time for your real friends"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 155,
+        "konu": "The Internet",
+        "soru_metni": "There is a lot of wrong information on the Net because - - - -",
+        "secenekler": {
+            "A": "it is easy to have a password",
+            "B": "anyone can post anything there",
+            "C": "books are important source of information",
+            "D": "you can find many materials for your homework"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 156,
+        "konu": "The Internet",
+        "soru_metni": "Which one is false according to the text?",
+        "secenekler": {
+            "A": "People can get into your computer.",
+            "B": "The Internet makes our lives easier.",
+            "C": "Internet addicts are social people.",
+            "D": "Viruses can harm your computer."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 157,
+        "konu": "The Internet",
+        "soru_metni": "When there is a virus in your computer, it can destroy all your programs or delete information.",
+        "secenekler": {
+            "A": "virus",
+            "B": "file",
+            "C": "conversation",
+            "D": "mouse"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 158,
+        "konu": "The Internet",
+        "soru_metni": "If you want to scan documents and photos into your computer, you need a scanner .",
+        "secenekler": {
+            "A": "modem",
+            "B": "scanner",
+            "C": "printer",
+            "D": "keyboard"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 159,
+        "konu": "The Internet",
+        "soru_metni": "When William arrives at his office in the morning, he first starts up his computer.",
+        "secenekler": {
+            "A": "downloads",
+            "B": "saves",
+            "C": "burns",
+            "D": "starts up"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 160,
+        "konu": "The Internet",
+        "soru_metni": "I can surf the Net when I want because I have the Internet on my mobile.",
+        "secenekler": {
+            "A": "print",
+            "B": "upload",
+            "C": "surf",
+            "D": "chat"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 161,
+        "konu": "The Internet",
+        "soru_metni": "I uploaded new photos and updated my profile last night.",
+        "secenekler": {
+            "A": "updated",
+            "B": "destroyed",
+            "C": "protected",
+            "D": "deleted"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 162,
+        "konu": "The Internet",
+        "soru_metni": "You must visit safe websites to surf the Net safely",
+        "secenekler": {
+            "A": "visit safe websites",
+            "B": "use your real name",
+            "C": "open strange e-mails",
+            "D": "give out personal information"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 163,
+        "konu": "The Internet",
+        "soru_metni": "Jeremy is a social networking site addict. He logs on to it every day to chat with his online friends .",
+        "secenekler": {
+            "A": "deactivated his accounts on those sites",
+            "B": "is usually offline at the school time",
+            "C": "was careful with the person he was talking to",
+            "D": "logs on to it every day to chat with his online friends"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 164,
+        "konu": "The Internet",
+        "soru_metni": "If you don't want to be an Internet addict you must be careful about the time you spend online .",
+        "secenekler": {
+            "A": "you can use the Internet for fun and for your homework",
+            "B": "you can create a blog to share your hobbies and interests",
+            "C": "you must be careful about the time you spend online",
+            "D": "you must have enough time to design your own website"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 165,
+        "konu": "The Internet",
+        "soru_metni": "Sam: Why do you use the Internet ? Alicia: To search for information and to play online games.",
+        "secenekler": {
+            "A": "How often do you use the Internet",
+            "B": "Why do you use the Internet",
+            "C": "How many hours do you use the Internet",
+            "D": "Where do you use the Internet most"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 166,
+        "konu": "The Internet",
+        "soru_metni": "Ann: How long do you use the Internet every day ? Tim: I spend about two hours a day on the Net.",
+        "secenekler": {
+            "A": "What do you like doing online most",
+            "B": "Where do you use the Internet most",
+            "C": "How long do you use the Internet every day",
+            "D": "What time do you use the Internet"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 167,
+        "konu": "The Internet",
+        "soru_metni": "Ethan: Why don't we play online games tonight? Mell: I'm sorry, but I can't . I have a problem with the Internet.",
+        "secenekler": {
+            "A": "I'm sorry, but I can't",
+            "B": "Great idea",
+            "C": "Yes, sure",
+            "D": "I'd love to, thanks"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 168,
+        "konu": "The Internet",
+        "soru_metni": "Gwen: I'm addicted to the Internet. Halle: What do you mean ? Gwen: Well, I have to surf the Internet every day for hours. I feel worried if I'm offline for more than a few hours.",
+        "secenekler": {
+            "A": "What time are you online",
+            "B": "What do you mean",
+            "C": "How often do you join a chat room",
+            "D": "When do you shop online"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 169,
+        "konu": "Friendship",
+        "kontext": "Read the opinions of four people about their friends. Alex: Tim doesn't forget to organize parties for my birthdays. Fred: I don't like spending time with Joe. Jill: I don't trust Betty, so I don't share my secrets with her. Sally: Ashley doesn't support me when I need her.",
+        "soru_metni": "According to the information above, who says something positive about his/her friend?",
+        "secenekler": {
+            "A": "Alex",
+            "B": "Fred",
+            "C": "Jill",
+            "D": "Sally"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 170,
+        "konu": "Teen Life",
+        "kontext": "Clara is going to buy some books for her friends. She knows that Robert loves reading about architecture. Lisa reads magazines about water sports. Mary usually buys books on health and Jack is interested in cooking.",
+        "soru_metni": "According to the information above, which of the following books is Clara NOT going to buy?",
+        "secenekler": {
+            "A": "BEST RAFTING PLACES IN THE WORLD",
+            "B": "MODERN BUILDINGS",
+            "C": "SECRET HISTORY OF THE TELEPHONE",
+            "D": "DISEASES FROM PAST TO THE FUTURE"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 171,
+        "konu": "Chores",
+        "kontext": "Keep your classroom tidy. SCHOOL RULES: Be quiet while your teacher is talking. Return the books to the library.",
+        "soru_metni": "Which of the following does NOT fill in the blank above?",
+        "secenekler": {
+            "A": "Don't talk to each other during the lessons",
+            "B": "Don't be noisy in the school library",
+            "C": "Come to school on time",
+            "D": "Help your parents with the chores"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 172,
+        "konu": "In The Kitchen",
+        "kontext": "In an English lesson, the teacher asks the students to put the words into two groups. Group 1 is about cooking methods and Group 2 is about kitchen tools. Group 1: Cooking Methods Bake Bowl Fry Group 2: Kitchen Tools Boil Pan Teaspoon",
+        "soru_metni": "According to the information above, which two words should change places to be in the correct group?",
+        "secenekler": {
+            "A": "Bake - Boil",
+            "B": "Bowl - Boil",
+            "C": "Fry - Pan",
+            "D": "Fry - Teaspoon"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 173,
+        "konu": "On The Phone",
+        "kontext": "Below, you see some parts of four different phone conversations. Charles 1: Can I speak to Mr Brown, please? Secretary: Sure, he is waiting for your call. Tony 2: This is Tony calling. Can I speak to Mr Jordan, please? Secretary: Just a minute, please. I'll get him for you. Ted 3: May I speak to Mr Logan, please? Secretary: He is in a meeting now, but he'll call you back after the meeting. Peter 4: Could you put me through to Mr Miller, please? Secretary: Yes, hold on a minute, please.",
+        "soru_metni": "According to the conversations above, who is DEFINITELY NOT available at the moment?",
+        "secenekler": {
+            "A": "Mr Brown",
+            "B": "Mr Jordan",
+            "C": "Mr Logan",
+            "D": "Mr Miller"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 174,
+        "konu": "Personal Life",
+        "kontext": "Prof. Gazi YAŞARGİL He was born in 1925 in Diyarbakır. He has two brothers and two sisters. He has three children: Leyla, Ceylan and Can. After his graduation from Ankara Atatürk High School, he studied medicine in Basel and Zurich. He developed new methods and special tools in medicine. He published lots of articles and he is the writer of many books. There is also a \"Yaşargil\" lab in Oxford.",
+        "soru_metni": "Which of the following headings does NOT match with any of the three texts given above?",
+        "secenekler": {
+            "A": "Hobbies",
+            "B": "Education",
+            "C": "Personal Life",
+            "D": "Achievements"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 175,
+        "konu": "Teen Life",
+        "kontext": "Susan had some messages from her friends. Carol: I have two tickets for the concert at City Park. Why don't we go together? Jason: Hey, Susan! We are going on a picnic on Saturday. Would you like to come with us? Liz: Thanks for the invitation. 8 p.m. is okay for me, too. See you there. Mandy: Jane, Linda and I are having a movie night on Monday. It will be great if you join us.",
+        "soru_metni": "According to the information above, who did NOT invite Susan to an event?",
+        "secenekler": {
+            "A": "Carol",
+            "B": "Jason",
+            "C": "Liz",
+            "D": "Mandy"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 176,
+        "konu": "The Internet",
+        "kontext": "Mike has written a new book about extreme sports. On the Internet, there are many comments about Mike's book. Below, you see four of them. Joe: Thanks to this book, I have learned a lot of interesting things about extreme sports. Kelly: The first part of the book especially includes some very important information. Mary: If you are interested in extreme sports, you should read this book. Nancy: If you really want to learn about extreme sports, go and buy another book.",
+        "soru_metni": "Who does NOT think Mike's book is useful?",
+        "secenekler": {
+            "A": "Joe",
+            "B": "Kelly",
+            "C": "Mary",
+            "D": "Nancy"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 177,
+        "konu": "Tourism",
+        "kontext": "Below, you see some information about different tourist destinations. The Romans built the Colosseum in Italy. Thousands of people went there to watch events. Babur Shah built the Taj Mahal in the city of Agra. You can enjoy its beautiful gardens when you visit it. Adrasan is a small town in Antalya, Türkiye. You can go there by car. You can go to Rize to try rafting on the River Fırtına.",
+        "soru_metni": "Which of the following questions has the answer in all four texts above?",
+        "secenekler": {
+            "A": "Who built it?",
+            "B": "What can you do there?",
+            "C": "How can you go there?",
+            "D": "Where is it?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 178,
+        "konu": "Adventures",
+        "kontext": "Below, you see the map of \"Cycling Tour August 2025\". Cycling Tour August 2025 - Start: Wednesday, 9 a.m. August 13 - Finish: Saturday, August 16 - Part 1: 20 km - Part 2: 10 km - Part 3: 15 km - Part 4: 15 km - Camping areas where you have to stay at night during the tour after you complete each part.",
+        "soru_metni": "According to the map above, which of the following is false?",
+        "secenekler": {
+            "A": "You have to ride your bike for more than 50 km to finish the whole tour.",
+            "B": "You spend less than three nights at the camping areas during the tour.",
+            "C": "The tour takes less than a week to complete.",
+            "D": "The particular starting time of the tour is given on the map."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 179,
+        "konu": "Revision - 1",
+        "soru_metni": "1. A set of clothes that we wear together is called - - - -.",
+        "secenekler": {
+            "A": "an outfit",
+            "B": "fashion",
+            "C": "trendy",
+            "D": "a dress"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 180,
+        "konu": "Revision - 1",
+        "soru_metni": "2. I'm on a diet. So I don't eat - - - - food. It's too fattening.",
+        "secenekler": {
+            "A": "burned",
+            "B": "boiled",
+            "C": "fried",
+            "D": "spicy"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 181,
+        "konu": "Revision - 1",
+        "soru_metni": "3. We first need to - - - - bread to make a sandwich.",
+        "secenekler": {
+            "A": "melt",
+            "B": "slice",
+            "C": "mash",
+            "D": "mix"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 182,
+        "konu": "Revision - 1",
+        "soru_metni": "4. You should be careful when you download pictures and games. Because you can - - - -.",
+        "secenekler": {
+            "A": "get a virus",
+            "B": "surf the Net safely",
+            "C": "get an anti-virus program",
+            "D": "always update it"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 183,
+        "konu": "Revision - 1",
+        "soru_metni": "5. - - - -. She stays at home all day and relax.",
+        "secenekler": {
+            "A": "Amanda always goes to the cinema on Sunday afternoon",
+            "B": "Ceyda usually meets with friends at the weekend",
+            "C": "Sarah always visits her grandparents on Saturday",
+            "D": "Selin never goes out on Sundays"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 184,
+        "konu": "Revision - 1",
+        "soru_metni": "6. Susan : Hello, is George there? Michael : I'm not sure. - - - -, I'll check.",
+        "secenekler": {
+            "A": "hang up",
+            "B": "hold on",
+            "C": "pick up",
+            "D": "call back"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 185,
+        "konu": "Revision - 1",
+        "soru_metni": "7. Clara : We're having a barbecue party at my house on Sunday. Tim : Yes. Sounds good.",
+        "secenekler": {
+            "A": "Why not?",
+            "B": "I'm sorry, I can't.",
+            "C": "Fancy joining us?",
+            "D": "Cool! I'd love to."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 186,
+        "konu": "Revision - 1",
+        "soru_metni": "8. Janet : - - - -? Why don't you come along for a coffee? Anne : I'm sorry but I can't. I'm helping mum with the housework.",
+        "secenekler": {
+            "A": "How do you go to school",
+            "B": "What are you doing on Sunday",
+            "C": "How often do you do the housework",
+            "D": "What do you think of that café over there"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 187,
+        "konu": "Revision - 1",
+        "soru_metni": "9. Amy : How about coming to my house tonight? Jennifer : - - - -. Shall I bring anything to eat? Amy : No, you don't need to. I'll get some pizzas and crisps.",
+        "secenekler": {
+            "A": "Sorry, but I can't make it",
+            "B": "Another time maybe",
+            "C": "I'd love to but I can't",
+            "D": "Yeah, sounds good"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 188,
+        "konu": "Revision - 1",
+        "soru_metni": "10. Karen : - - - -? Timothy: I usually do my homework and read a book.",
+        "secenekler": {
+            "A": "How often do you go shopping",
+            "B": "What do you do in the evenings",
+            "C": "What time do you do your homework",
+            "D": "Where do you usually have lunch"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 189,
+        "konu": "Revision - 1",
+        "soru_metni": "11. - - - - sometimes goes shopping.",
+        "secenekler": {
+            "A": "Jack",
+            "B": "Jim",
+            "C": "Tina",
+            "D": "Lisa"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 190,
+        "konu": "Revision - 1",
+        "soru_metni": "12. Tina never - - - -.",
+        "secenekler": {
+            "A": "plays computer games",
+            "B": "does the housework",
+            "C": "goes shopping",
+            "D": "plays basketball"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 191,
+        "konu": "Adventures",
+        "soru_metni": "Adventure lovers prefer extreme sports because they are",
+        "secenekler": {
+            "A": "easy and embarrassing",
+            "B": "safe and amusing",
+            "C": "boring and disappointing",
+            "D": "fast and challenging"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 192,
+        "konu": "Adventures",
+        "soru_metni": "Martha :----? Darren : Three times a month.",
+        "secenekler": {
+            "A": "When do you go cycling",
+            "B": "What is your favorite sport",
+            "C": "How often do you go rafting",
+            "D": "Do you go climbing on weekdays"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 193,
+        "konu": "Adventures",
+        "soru_metni": "Joe :----? Emily : Because it's fascinating and amusing.",
+        "secenekler": {
+            "A": "Why do you like motor racing",
+            "B": "Do you want to dive with sharks",
+            "C": "How often do you go bungee jumping",
+            "D": "Do you think windsurfing is fun"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 194,
+        "konu": "Adventures",
+        "soru_metni": "Berth : In my opinion, canoeing is easier and more entertaining than rafting. Camilla : --. Berth : Let's do it next week! Camilla : Of course. I'd love to.",
+        "secenekler": {
+            "A": "I disagree with you",
+            "B": "I think it's a bad idea",
+            "C": "You're right",
+            "D": "You're joking"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 195,
+        "konu": "Adventures",
+        "soru_metni": "John : I think caving is boring. Sam :- -. John : Why? Sam : I tried and really enjoyed it.",
+        "secenekler": {
+            "A": "I don't think so",
+            "B": "Unfortunately",
+            "C": "Sure",
+            "D": "Cool"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 196,
+        "konu": "Adventures",
+        "soru_metni": "Mustafa: Why don't we go and try skydiving at the weekend? Bruce : Well, it is really dangerous. - - - -. It's safer and fun.",
+        "secenekler": {
+            "A": "Skydiving always attracts me",
+            "B": "I prefer swimming to skydiving",
+            "C": "My favorite sport is skydiving",
+            "D": "To me skydiving is unbearable"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 197,
+        "konu": "Adventures",
+        "soru_metni": "Kate : Which sports do you usually do during summer holidays? Ally :----. Kate : So, you are not into extreme sports like parachuting.",
+        "secenekler": {
+            "A": "I never miss joining in rafting activities in summer",
+            "B": "I try different extreme sports like adrenalin junkies",
+            "C": "I spend most of my time trying ice climbing",
+            "D": "I prefer easy sports like swimming and cycling"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 198,
+        "konu": "Adventures",
+        "soru_metni": "I don't think of myself as an adrenalin junkie. Verilen cümleyi söyleyen bir kişinin hangi aktiviteyi yapması beklenemez?",
+        "secenekler": {
+            "A": "A",
+            "B": "B",
+            "C": "C",
+            "D": "D"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 199,
+        "konu": "Adventures",
+        "soru_metni": ".---- rafting is an entertaining sport. This summer, we are planning to go to Alanya to do rafting. Verilen cümle aşağıdaki ifadelerden hangisi ile tamamlanamaz?",
+        "secenekler": {
+            "A": "In my opinion",
+            "B": "I'm afraid",
+            "C": "I think",
+            "D": "To me"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 200,
+        "konu": "Adventures",
+        "soru_metni": "Yasemin didn't like bungee jumping because it was",
+        "secenekler": {
+            "A": "dangerous",
+            "B": "fascinating",
+            "C": "entertaining",
+            "D": "thrilling"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 201,
+        "konu": "Adventures",
+        "soru_metni": "According to the text, Yasemin",
+        "secenekler": {
+            "A": "likes extreme sports",
+            "B": "is not an adventure lover",
+            "C": "doesn't have any plans about activities",
+            "D": "is interested in rafting"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 202,
+        "konu": "Adventures",
+        "soru_metni": "During her holiday, Yasemin didn't do any activities with her ----.",
+        "secenekler": {
+            "A": "brother",
+            "B": "friends",
+            "C": "mum",
+            "D": "dad"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 203,
+        "konu": "Adventures",
+        "soru_metni": "Sam : Are you an adrenalin junkie? Tim : Yes, I'm. ----",
+        "secenekler": {
+            "A": "I'm crazy about extreme sports",
+            "B": "I prefer playing chess",
+            "C": "I'm interested in knitting",
+            "D": "I like surfing the Net"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 204,
+        "konu": "Adventures",
+        "soru_metni": "Jack : I think rafting is challenging and more entertaining than caving. - - - -? Jones : You're right. Rafting on the water is really enjoyable. You feel the freedom.",
+        "secenekler": {
+            "A": "Who are you talking to",
+            "B": "What do you think",
+            "C": "How often do you do sport",
+            "D": "Where do you go trekking"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 205,
+        "konu": "Adventures",
+        "soru_metni": "Brian : Do you love skateboarding? Nancy : Sure. -",
+        "secenekler": {
+            "A": "I think it's really fun",
+            "B": "I'll never try it again",
+            "C": "I don't care",
+            "D": "I don't think so"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 206,
+        "konu": "Adventures",
+        "soru_metni": "Ahmet : I would like to try hang gliding this summer. Where should I go? Robert : I think Antalya ---- You can also find many other sports activities there.",
+        "secenekler": {
+            "A": "is the best place to try new dishes",
+            "B": "has many traditional dishes",
+            "C": "has great hotels for holiday",
+            "D": "is a suitable city for it"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 207,
+        "konu": "Adventures",
+        "soru_metni": "Tim : Why do adrenalin junkies prefer dangerous sports to others? Sue :---- because they enjoy forcing themselves.",
+        "secenekler": {
+            "A": "In my opinion dangerous sports are really boring",
+            "B": "Adrenalin junkies like less challenging sports mostly",
+            "C": "I think they want to see how far they can go",
+            "D": "I guess those people hate taking risks"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 208,
+        "konu": "Adventures",
+        "soru_metni": "Jack : Have you ever tried any extreme sports? Bill : Yeah. I went rafting last year. Jack :----? Bill : It was an amazing experience.",
+        "secenekler": {
+            "A": "What is the aim of it",
+            "B": "What do you think",
+            "C": "What do you mean",
+            "D": "What was it like"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 209,
+        "konu": "Adventures",
+        "soru_metni": "Pete : What do you need to do rafting safely? Dave : What do you mean? Pete : Well.-? Dave : Sure. We should wear a helmet.",
+        "secenekler": {
+            "A": "Do people prefer rafting to other sports",
+            "B": "Do you take any special equipment with you",
+            "C": "Do you need much time to do it",
+            "D": "Do people think rafting is easier"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 210,
+        "konu": "Adventures",
+        "soru_metni": "Sam : I think rafting is easier than kayaking. Anna :----. To me, rafting is more difficult. Because it's faster and more dangerous.",
+        "secenekler": {
+            "A": "I don't think so",
+            "B": "I think I'm right",
+            "C": "I agree with you",
+            "D": "I'm sorry, I can't"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 211,
+        "konu": "Adventures",
+        "soru_metni": "George :----? Sandra : I don't think I can do it. Because it's dangerous and risky. I prefer safer sports.",
+        "secenekler": {
+            "A": "Are you interested in jogging",
+            "B": "When did you first try camel riding",
+            "C": "What do you think about skydiving",
+            "D": "Can you teach me how to do bungee jumping"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 212,
+        "konu": "Adventures",
+        "soru_metni": "Verilen eşleştirmelerden yanlış olanı işaretleyiniz.",
+        "secenekler": {
+            "A": "Bungee Jumping",
+            "B": "Ice climbing",
+            "C": "Windsurfing",
+            "D": "Rafting"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 213,
+        "konu": "Adventures",
+        "kontext": "•Are you an adrenalin junkie? •Do you like challenging and thrilling activities? •Do you want to see the wonderful view of Antalya from the sky? •This activity is definitely for you. You should try it. •Time: Every day from 10.00 to 17.00 •Price: $ 15",
+        "soru_metni": "The sport in the text is ----.",
+        "secenekler": {
+            "A": "rafting",
+            "B": "hang-gliding",
+            "C": "windsurfing",
+            "D": "ice climbing"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 214,
+        "konu": "Adventures",
+        "kontext": "•Are you an adrenalin junkie? •Do you like challenging and thrilling activities? •Do you want to see the wonderful view of Antalya from the sky? •This activity is definitely for you. You should try it. •Time: Every day from 10.00 to 17.00 •Price: $ 15",
+        "soru_metni": "Adrenalin junkies do this sport because",
+        "secenekler": {
+            "A": "it is cheaper than other sports",
+            "B": "they can do it every day",
+            "C": "it is an extreme sport",
+            "D": "it is in Antalya"
+        },
+        "dogru_cevap": "C"
+    }
+]
