@@ -258,5 +258,434 @@
             "D": "Lily and Charlie"
         },
         "dogru_cevap": "C"
+    },
+    {
+        "id": 21,
+        "konu": "1. Friendship",
+        "kontext": "[SABRINA'S SPEECH]\nSabrina: \"I have a true friend in my class. She never tells lies and always keeps my secrets. She often makes jokes. We generally get on well with each other because we share the same hobbies. We usually ride a bike and go to the cinema together. I like spending time with her.\"\n\n[FRIENDS' CHARACTERISTICS]\n1. Mary:\n   - Personal quality: generous & honest\n   - Favourite activity: playing team sports\n\n2. Rose:\n   - Personal quality: funny & polite\n   - Favourite activity: going to concerts\n\n3. Sally:\n   - Personal quality: polite & generous\n   - Favourite activity: doing sports\n\n4. Jane:\n   - Personal quality: honest & funny\n   - Favourite activity: watching films",
+        "soru_metni": "According to the information above, who is Sabrina’s best friend?",
+        "secenekler": {
+            "A": "Mary",
+            "B": "Rose",
+            "C": "Sally",
+            "D": "Jane"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 22,
+        "konu": "1. Friendship",
+        "kontext": "Emma answered some questions about her buddies. Here are her answers:\t\n\n1) Who always tells the truth and keeps your secrets?\nAnn and Sophie\n2) Who backs you up when you need help?\nClaire and Jack\n3) Who do you get on really well with?\nClaire\n4) Who always makes jokes and makes you laugh?\nAnn and Jack",
+        "soru_metni": "Emma thinks that - - - -.",
+        "secenekler": {
+            "A": "only one person supports her when she needs help",
+            "B": "Sophie and Claire are helpful and kind",
+            "C": "all of her friends are amusing",
+            "D": "Ann is both funny and honest"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 23,
+        "konu": "1. Friendship",
+        "kontext": "Jack : What do you think of Tim?\n Mary : I think he is the best person in our office because he always supports us.\n George : He never lies to us, so we can count on him.\n Ted : He also says ‘please’ when he wants us to do something.",
+        "soru_metni": "According to the conversation above, which of the following is NOT one of the characteristics of Tim?",
+        "secenekler": {
+            "A": "Amusing",
+            "B": "Helpful",
+            "C": "Honest",
+            "D": "Kind"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 24,
+        "konu": "1. Friendship",
+        "kontext": "[SCENARIO]\nMiss Cooper, an English teacher, and her students prepare a learning wall in their class. Rule: Students can share ONLY their positive opinions about their friends on this wall.\n\n[STUDENTS' NOTES ON THE WALL]\n1. From Tom (to Nancy): \"You are so energetic while learning and trying new things.\"\n2. From Sally (to Debra): \"What a funny girl you are! You always make us smile.\"\n3. From Mike (to Robert): \"You need to be more careful because you sometimes share our secrets with other people.\"\n4. From Sophie (to Kevin): \"You are the most honest person in our class. Your friends can always count on you.\"\n5. From Betty (to Lucy): \"I rarely spend time with you because you are not careful about how you speak to your friends.\"",
+        "soru_metni": "Whose notes should NOT be on the learning wall according to the information above?",
+        "secenekler": {
+            "A": "Tom and Betty’s",
+            "B": "Sally and Mike’s",
+            "C": "Sophie and Sally’s",
+            "D": "Mike and Betty’s"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 25,
+        "konu": "1. Friendship",
+        "kontext": "[SCENARIO]\nJack has two tickets for a jazz concert, and he invites William to join the event with him.\n\n[WILLIAM'S PLANS FOR SUNDAY]\n- 10 am - 12 am: Attend basketball training\n- 1 pm - 3 pm: Do homework\n- 3 pm - 5 pm: Help dad water the garden\n- 6 pm - 8 pm: Have dinner with grandparents\n\n[TICKET DETAILS]\nEvent: JAZZ CONCERT\nLocation: City Concert Hall\nDate: October 24 Sunday\nTime: 7 pm",
+        "soru_metni": "According to the information above, how can William respond to Jack’s invitation?",
+        "secenekler": {
+            "A": "I’m sorry but I can’t come because I have basketball training.",
+            "B": "I’d really love to but we are having dinner with my grandparents.",
+            "C": "Thanks for the invitation but I have to finish my homework then.",
+            "D": "That would be great but I’m going to help my father."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 26,
+        "konu": "1. Friendship",
+        "kontext": "[CONVERSATION]\nDad: Do you have a plan for Saturday, Brian?\nBrian: I’m going to do sports in the morning and then go to a rock concert.\nMom: Are you doing both activities with one of your friends?\nBrian: Yes, ---- is coming with me because we have the same interests.\n\n[BRIAN'S BUDDIES AND THEIR FAVOURITE FREE TIME ACTIVITIES]\n1. Mark: Chatting online, Taking photos\n2. Steve: Going shopping, Riding a bike\n3. Tom: Listening to music, Playing basketball\n4. Nick: Going on a picnic, Attending concerts",
+        "soru_metni": "Which of the following completes the conversation according to the information above?",
+        "secenekler": {
+            "A": "Mark",
+            "B": "Steve",
+            "C": "Tom",
+            "D": "Nick"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 27,
+        "konu": "1. Friendship",
+        "kontext": "Olivia and her friends are looking at a job advertisement. Below you see the job advertisement and some information about the candidates.\n\n[JOB ADVERTISEMENT: SECRETARY WANTED]\nCompany: Dimple Company\n- Age: 25-35 years old\n- Experience: at least 3 years of work experience\n- Personality: nice to people, support people when they need something, pay attention to what s/he is doing (careful).\n\n[CANDIDATES]\n1. Olivia:\n   - Age: 38\n   - Experience: 4 years\n   - Characteristics: Kind, Funny, Honest, Friendly\n\n2. Harry:\n   - Age: 28\n   - Experience: 2 years\n   - Characteristics: Social, Helpful, Serious, Generous\n\n3. George:\n   - Age: 30\n   - Experience: 5 years\n   - Characteristics: Social, Kind, Helpful, Careful\n\n4. Amelia:\n   - Age: 33\n   - Experience: 3 years\n   - Characteristics: Serious, Kind, Honest, Energetic",
+        "soru_metni": "According to the information above, who is the most appropriate person for the job?",
+        "secenekler": {
+            "A": "Olivia",
+            "B": "Harry",
+            "C": "George",
+            "D": "Amelia"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 28,
+        "konu": "1. Friendship",
+        "kontext": "Mr. Walker plans to buy tickets for a play. He says:\nMr. Walker : There is a play at 7 pm on Friday. How about watching it together?\nMrs. Walker : Sure, that would be great.\nOlivia : I’m busy but I can’t say no.\nOliver : It sounds good but I have to attend an online course.\nOwen : Yeah, why not?",
+        "soru_metni": "According to the conversation above, how many tickets is Mr. Walker going to buy?",
+        "secenekler": {
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "2"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 29,
+        "konu": "1. Friendship",
+        "kontext": "A hundred people joined a survey to find the most important characteristics of an ideal friend. Here are the results:\n\n[SURVEY RESULTS: IMPORTANT CHARACTERISTICS]\n- Kind: 45 people\n- Funny: 25 people\n- Generous: 20 people\n- Helpful: 10 people",
+        "soru_metni": "Which of the following statements is NOT correct according to the results above?",
+        "secenekler": {
+            "A": "Telling the truth is the key to an ideal friendship.",
+            "B": "Helping other people is less popular than making jokes.",
+            "C": "Being nice to people is the most important characteristic of a friend",
+            "D": "Sharing things with friends is one of the characteristics of a good friend"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 30,
+        "konu": "1. Friendship",
+        "kontext": "Alice plans a birthday party on Sunday evening and invites her friends. Here are her friends’ answers:\n\nSally: That sounds great but I am going to a jazz concert.\nJulia: I’m sorry but I can’t join you on Sunday night.\nAnna: I love parties, but I can’t. I have to take care of my little sister.\nSophia: It sounds nice but I have to leave before 6 pm.\nRose: I’d love to but my grandparents will visit us at the weekend.\nAlexis: A birthday party? I can’t say no. Do you need any help?",
+        "soru_metni": "Who refuses the invitation by giving an excuse?",
+        "secenekler": {
+            "A": "Alexis, Sally, and Julia",
+            "B": "Julia, Sophia, and Rose",
+            "C": "Anna, Sophia, and Alexis",
+            "D": "Sally, Anna, and Rose"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 31,
+        "konu": "1. Friendship",
+        "kontext": "Mary organizes a graduation party and sends her friends an invitation card. After Laura looks at the invitation, she texts Mary to get some more information about the event.\n\n[INVITATION CARD]\nEvent: JOIN OUR GRADUATION PARTY (Class of 2020)\nDate: Friday 19 June\nLocation: Happy Garden (123 Main Street, 22 Eastmont Drive, CA)\nPrice: $15 Each person",
+        "soru_metni": "According to the information above, which of the following can be Laura’s message to Mary?",
+        "secenekler": {
+            "A": "How much do we have to pay?",
+            "B": "What time is the party going to start?",
+            "C": "Where is the party going to take place?",
+            "D": "When is the event going to be?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 32,
+        "konu": "1. Friendship",
+        "kontext": "[CAROL'S INTERESTS]\n- Listening to music\n- Doing sports\n- Doing outdoor activities\n- Watching new plays\n\n[CONVERSATION]\nAlice: Are you free on Sunday, Carol?\nCarol: Yeah.\nAlice: - - - -?\nCarol: Sure, I really would like that.",
+        "soru_metni": "Keeping in mind Carol’s interests, which of the following does NOT complete the conversation above?",
+        "secenekler": {
+            "A": "Shall we go on a picnic",
+            "B": "What about cycling together",
+            "C": "How about watching a movie",
+            "D": "Would you like to go to a concert"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 33,
+        "konu": "2. Teen Life",
+        "kontext": "The researcher, Professor Barclay, conducts researches about teenagers. His last research was about teenagers’ daily routines. He compared young people in England with those in Korea.\n\n[VISUAL DATA: NUMBER OF TEENAGERS PER ACTIVITY]\n1. English Teenagers (Total 10 people):\n   - Going Online (Blue Icon): 6 people\n   - Doing Sports (Yellow Icon): 2 people\n   - Studying / Reading Books (Pink Icon): 2 people\n   - Artistic Activities (Green Icon): 0 people\n\n2. Korean Teenagers (Total 10 people):\n   - Going Online (Blue Icon): 2 people\n   - Doing Sports (Yellow Icon): 2 people\n   - Artistic Activities (Green Icon): 2 people\n   - Studying / Reading Books (Pink Icon): 4 people",
+        "soru_metni": "Which of the following is CORRECT according to the research results?",
+        "secenekler": {
+            "A": "Korean teens are more interested in sports than English teens are.",
+            "B": "Korean teens spend less time studying than English teens do.",
+            "C": "English teens’ favourite activity is going online.",
+            "D": "English teens prefer artistic activities."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 34,
+        "konu": "2. Teen Life",
+        "kontext": "The researcher, Professor Barclay, conducts researches about teenagers. His last research was about teenagers’ daily routines. He compared young people in England with those in Korea.\n\n[VISUAL DATA: NUMBER OF TEENAGERS PER ACTIVITY]\n1. English Teenagers (Total 10 people):\n   - Going Online (Blue Icon): 6 people\n   - Doing Sports (Yellow Icon): 2 people\n   - Studying / Reading Books (Pink Icon): 2 people\n   - Artistic Activities (Green Icon): 0 people\n\n2. Korean Teenagers (Total 10 people):\n   - Going Online (Blue Icon): 2 people\n   - Doing Sports (Yellow Icon): 2 people\n   - Artistic Activities (Green Icon): 2 people\n   - Studying / Reading Books (Pink Icon): 4 people",
+        "soru_metni": "Which of the following CANNOT be one of the questions in the questionnaire?",
+        "secenekler": {
+            "A": "What do you do at weekends?",
+            "B": "Why do you like going to the movies?",
+            "C": "What is your favourite free time activity?",
+            "D": "Which activities do you do on the Internet?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 35,
+        "konu": "2. Teen Life",
+        "kontext": "The table below shows Helena and Tracy’s likes. They want to attend a course together\n[TABLE]\nHELENA:Playing the guitar,Fishing,Cooking\nTRACY:Preparing traditional dishes,Taking photos,Swimming",
+        "soru_metni": "Which of the following is appropriate for both of them?",
+        "secenekler": {
+            "A": "HUNT THE BIGGEST",
+            "B": "IMPROVE MUSICAL SKILLS",
+            "C": "LEARNERS IN THE KITCHEN",
+            "D": "ART OF CAMERA"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 36,
+        "konu": "2. Teen Life",
+        "kontext": "There was a rock concert of a famous singer last weekend. After the concert, some people wrote notes and threw them\nto the singer. Here are the comments:\n\nSAM:It’s the worst performance I’ve ever\nseen. Your behavior during the concert\nwas insulting\n\nJANE:I think your concert was magnificent.\nAt the end of the concert, I was\nreally happy.\n\nJOHN:Your music is impressive.\nI cannot stop listening to your songs.\n\nMARY:Your concerts are always terrific.\nI am fond of your voice.",
+        "soru_metni": "Whose comment was disappointing for the singer?",
+        "secenekler": {
+            "A": "Sam",
+            "B": "John",
+            "C": "Jane",
+            "D": "Mary"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 37,
+        "konu": "2. Teen Life",
+        "kontext": "The pie chart below shows the results of a study on the favorite free time activities of 100 teens.\n\n[PIE CHART DATA: Favorite Free Time Activities]\n- Use social media: 55%\n- Meet friends: 20%\n- Listen to music: 15%\n- Do sports: 5%\n- Go to the cinema: 5%",
+        "soru_metni": "Which of the following is CORRECT according to the information above?",
+        "secenekler": {
+            "A": "Watching movies is the most favourite activity of the teens.",
+            "B": "Doing exercise is very popular among the teens",
+            "C": "The teens usually spend their time on the Net.",
+            "D": "The teenagers never listen to music."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 38,
+        "konu": "2. Teen Life",
+        "kontext": "Brian and Jenny want to do something different this weekend. Here is the list of their types of interests:\n\n[BRIAN'S INTERESTS]\n- Technology\n- Books\n- Paintings\n\n[JENNY'S INTERESTS]\n- Sculpture\n- Sports\n- Fashion",
+        "soru_metni": "According to the table, which of the following is an appropriate place for them to go?",
+        "secenekler": {
+            "A": "Art exhibition",
+            "B": "Book fair",
+            "C": "Amusement park",
+            "D": "Cinema"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 39,
+        "konu": "2. Teen Life",
+        "kontext": "Alice, David, Mary, and Tom are planning different free time activities for this week.\n\n[PEOPLE'S PLANS]\n- Alice: going to the cinema with her friends.\n- Tom: going to the café with his buddies.\n- David: going to ride a bike in the morning.\n- Mary: going to play bowling after school.\n\n[WEEKLY SCHEDULE]\n- Monday: Doing sports\n- Thursday: Meeting friends\n- Saturday: Cycling\n- Sunday: Watching a movie",
+        "soru_metni": "According to the information above, who is NOT planning an activity for the weekend?",
+        "secenekler": {
+            "A": "Mary and Alice",
+            "B": "Mary and Tom",
+            "C": "David and Tom",
+            "D": "David and Alice"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 40,
+        "konu": "2. Teen Life",
+        "kontext": "[FRANK'S ROUTINE]\nHello. My name is Frank. I’m 14 years old and a student in 8th grade. On weekdays, I get up at 7:30. I wash my hands and face before I have breakfast with my family. I go to school at 8:40. After school, I like reading books and playing chess with my brother, David. I usually read detective books. I don’t like biographical books. My friends and I play basketball on Saturday afternoons. We have lots of fun together. I do my",
+        "soru_metni": "Which of the following does NOT have an answer in the text?",
+        "secenekler": {
+            "A": "What kind of games does Frank like playing?",
+            "B": "What time does he get up on Tuesdays?",
+            "C": "What does he do before the breakfast?",
+            "D": "Where does he play basketball?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 41,
+        "konu": "2. Teen Life",
+        "kontext": "[SCENARIO]\nSimon is planning to go to a book fair on Saturday afternoon with his friends. He sends his friends a message to invite them to the fair.\n\n[FRIENDS' PLANS FOR SATURDAY]\n1. Betty:\n   - Activity: going to a concert with Jane\n   - Time: 4 pm - 7 pm\n\n2. Carl:\n   - Activity: visiting grandparents\n   - Time: 10 am - 1 pm\n\n3. Tom:\n   - Activity: doing sports\n   - Time: 9 am - 12 pm\n\n4. Lily:\n   - Activity: seeing a new play\n   - Time: 3 pm - 7 pm",
+        "soru_metni": "According to the information above, which of the following is NOT an appropriate reply to Simon’s invitation?",
+        "secenekler": {
+            "A": "Hi, buddy.\nThat’s a good\nidea. I can join\nyou after my\nfootball training",
+            "B": "Simon, the\nactivity sounds\na bit boring, but\nI will be there\nafter our family\nbreakfast.",
+            "C": "Hello, Simon.\nThat’s really\nawesome but\nI will go to the\ncinema with my\nsister.",
+            "D": "Hey, that’s cool\nbut in the\nafternoon I will\ngo and listen to\nmy favourite\nband."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 42,
+        "konu": "2. Teen Life",
+        "kontext": "[TIM'S SITUATION]\nTim: I have to stay home to be safe because of COVID-19. Being at home is a bit difficult, so I am trying to do different things every day. Here are my favourite activities for each day:\n\n[TIM'S WEEKLY PLAN]\n- Monday: Listening to my favourite band\n- Tuesday: Practising my French\n- Wednesday: Trying new recipes with my mum\n- Thursday: Playing chess with my dad\n- Friday: Watching a pop concert\n- Saturday: Joining an online drawing course\n- Sunday: Painting",
+        "soru_metni": "Complete the sentence:\nTim - - - -.",
+        "secenekler": {
+            "A": "spends time only with his mum",
+            "B": "listens to music only once a week",
+            "C": "studies two different languages",
+            "D": "does art at the weekend"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 43,
+        "konu": "2. Teen Life",
+        "kontext": "[POSTER: CHESS 2021 TOURNAMENT]\nEvent: CHESS Tournament 2021\nSlogan: Come and Play at a Great Tournament! Invite Friends and Family to Come and Watch! Make New Friends!\nDetails: OPEN TO ALL\nDate: Tuesday, June 16\nLocation: Pine School Sports Hall\nTime: 9 am - 5 pm",
+        "soru_metni": "The poster does NOT have any information about the - - - - of the tournament.",
+        "secenekler": {
+            "A": "date",
+            "B": "place",
+            "C": "reward",
+            "D": "time"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 44,
+        "konu": "2. Teen Life",
+        "kontext": "Gloria loves reading in her free time. She shares her ideas about the books she reads on her blog every month. Here is this month’s blog posts:\n\n[BOOK DESCRIPTIONS]\n1. \"In this book, you can discover amazing places and different cultures.\" (Theme: Travel/Culture)\n2. \"While reading this book, you will feel like you are walking in space.\" (Theme: Space)\n3. \"Do you like trying new things? Then, this book is just for you as it teaches you new and interesting cooking methods.\" (Theme: Cooking)\n4. \"In this awesome book, you will learn how the experiences of a disabled person changed many other people’s lives.\" (Theme: Biography/Life Story)\n\n[BOOK COVERS IN OPTIONS]\n- A) The Challenging Life of a Woman\n- B) A Trip out of the World\n- C) Tasty Recipes\n- D) Dangerous Animals",
+        "soru_metni": "Which of the following is NOT one of the books that Gloria discusses in her blog?",
+        "secenekler": {
+            "A": "The Challenging Life of a Woman",
+            "B": "A Trip out of the World",
+            "C": "Tasty Recipes",
+            "D": "Dangerous Animals"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 45,
+        "konu": "2. Teen Life",
+        "kontext": "[CONVERSATION]\nDaisy: What do you like doing in your free time?\nJanet: I don’t miss any plays. I am also fond of jazz and pop, but I dislike playing an instrument and playing team sports.\nSam: I enjoy buying new things. I also like doing sports. However, painting and seeing a play are unbearable for me.",
+        "soru_metni": "According to the conversation above, which of the following are the most appropriate activities for Janet and Sam?",
+        "secenekler": {
+            "A": "Janet: playing volleyball / Sam: going to the shopping mall",
+            "B": "Janet: watching a play / Sam: going to the theatre",
+            "C": "Janet: swimming / Sam: watching a play",
+            "D": "Janet: listening to music, going to the theatre / Sam: cycling, going shopping"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 46,
+        "konu": "2. Teen Life",
+        "kontext": "We conducted a survey about the music preferences of 100 boys and 100 girls in our school, and here are the results:\n\n[BOYS' PREFERENCES]\n- Classical: 10%\n- Folk: 15%\n- Jazz: 15%\n- Pop: 40%\n- Rap: 20%\n\n[GIRLS' PREFERENCES]\n- Classical: 5%\n- Folk: 15%\n- Jazz: 10%\n- Pop: 55%\n- Rap: 15%",
+        "soru_metni": "Which of the following is CORRECT according to the information above?",
+        "secenekler": {
+            "A": "Girls listen to jazz and folk music more than boys do.",
+            "B": "More than half of the girls prefer listening to pop music.",
+            "C": "Rap music is the most popular kind of music for both groups.",
+            "D": "Both boys and girls like classical music at the same rate."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 47,
+        "konu": "2. Teen Life",
+        "kontext": "The table below shows what Dean and his friends prefer doing at weekends.\n\n[WEEKEND PREFERENCES]\n1. Dean:\n   - Going to a concert\n   - Going to parties\n2. Sam:\n   - Seeing a movie\n   - Doing shopping\n3. Sarah:\n   - Staying at home\n   - Taking piano lessons\n4. Hannah:\n   - Training for the tournament\n   - Going to the cinema",
+        "soru_metni": "According to the information above, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Sarah and Hannah enjoy attending parties.",
+            "B": "Sam and Dean love watching films",
+            "C": "Dean and Sarah are interested in music.",
+            "D": "Hannah and Sam like spending time at home."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 48,
+        "konu": "2. Teen Life",
+        "kontext": "Success High School teachers prepare the following form to find out their students’ interests.\n\n[ACTIVITY FORM]\n- Tuesday: Riding a bicycle, Playing volleyball\n- Thursday: Planting trees, Cleaning up the forest\n- Saturday: Visiting a space station, Working on a DNA model\n- Sunday: Going to the theatre, Visiting a museum",
+        "soru_metni": "According to the information above, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "Students can try extreme sports on Tuesday.",
+            "B": "There will be environmental activities on Thursday.",
+            "C": "Activities on Saturday are related to science.",
+            "D": "Students can take part in cultural activities on Sunday."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 49,
+        "konu": "2. Teen Life",
+        "kontext": "In their English class, students ask each other questions and write down their answers. Below are John’s notes:\n\n[CLASS SURVEY: My friends in the class who...]\n- like camping and trekking: Terry, Harry, Emily (3 people)\n- enjoy going to concerts: Patricia, Sophie\n- love visiting book fairs: Larry\n- dislike arguing with friends: Carl, Alan\n- hate eating fast food: Bobby",
+        "soru_metni": "According to the information above, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Four people enjoy doing outdoor activities.",
+            "B": "Both Patricia and Larry like listening to music.",
+            "C": "Carl and Alan never get on well with their friends.",
+            "D": "Only one person prefers vegetables to hamburgers."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 50,
+        "konu": "2. Teen Life",
+        "kontext": "[BUSY HOURS AT FLOWER RESTAURANT - WEDNESDAY]\n- 9:00 -> Low\n- 12:00 -> High (Busy)\n- 15:00 -> Medium\n- 18:00 -> Very High (Very Busy)\n- 21:00 -> Very Low (Not Busy)\n\n[CONVERSATION]\nClaire: Hello, honey. Shall we go to the Flower Restaurant on Wednesday?\nGabrielle: Great idea! However, because of COVID-19, we should choose a time when there are not many people.\nClaire: Don't worry. I checked, and I know when the busy hours of the restaurant are. I think we should go there - - - -.",
+        "soru_metni": "According to the information, which of the following completes the conversation correctly?",
+        "secenekler": {
+            "A": "for breakfast",
+            "B": "to have dinner after 7 pm",
+            "C": "at about twelve o’clock",
+            "D": "between 1 and 3 pm"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 51,
+        "konu": "2. Teen Life",
+        "kontext": "Kimberly, Matthew, Laura, and Vincent want to attend a teen camp. They try to find a camp matching their interests.\n\n[BROCHURE: SUMMER CAMPS]\n1. Technology Camp (24-30 June)\n2. Language Camp (1-30 July)\n3. Adventure Camp (6-18 August)\n4. Forests Clean-up Camp (12-21 August)\n\n[STUDENTS' INTERESTS]\n- Kimberly: spending time in nature, trekking, climbing mountains.\n- Matthew: exploring other cultures and learning Spanish.\n- Laura: teaching children, saving the environment.\n- Vincent: theatre, music, and dance.",
+        "soru_metni": "Which student’s interests do NOT match any of the camps on the brochure?",
+        "secenekler": {
+            "A": "Kimberly",
+            "B": "Matthew",
+            "C": "Laura",
+            "D": "Vincent"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 52,
+        "konu": "2. Teen Life",
+        "kontext": "[ALICE'S WEEKLY PLAN]\n- Monday: Going to the hospital at 3 pm\n- Tuesday: Meeting friends at the cafe\n- Wednesday: Volleyball training\n- Thursday: Doing shopping with mum\n- Friday: Emily’s birthday party",
+        "soru_metni": "Which of the following does NOT have an answer in Alice’s weekly plan?",
+        "secenekler": {
+            "A": "When is Alice going to be in the hospital?",
+            "B": "Where is Alice going to see her friends?",
+            "C": "Who is going to take Alice after training?",
+            "D": "What is Alice going to do on Thursday?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 53,
+        "konu": "2. Teen Life",
+        "kontext": "[SCENARIO]\nMr. and Mrs. Clark have two children, Jack and Julia. As a family, they spend the weekends together and always do the activities that their children love.\n\n[CHILDREN'S PREFERENCES]\n1. Jack:\n   - Likes: Nature, Every kind of sports\n   - Dislikes: Music\n\n2. Julia:\n   - Likes: Different kinds of music, Outdoor activities\n   - Dislikes: Watching films",
+        "soru_metni": "Which of the following CANNOT be the list of the activities for this weekend?",
+        "secenekler": {
+            "A": "Saturday: Cleaning up the forest / Sunday: Camping",
+            "B": "Saturday: Climbing a mountain / Sunday: Riding a horse",
+            "C": "Saturday: Cycling / Sunday: Trekking",
+            "D": "Saturday: Having a picnic / Sunday: Attending a concert"
+        },
+        "dogru_cevap": "D"
     }
 ]
