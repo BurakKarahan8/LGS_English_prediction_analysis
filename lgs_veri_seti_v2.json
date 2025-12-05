@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "konu": "1. Friendship",
+        "kontext": "HAPPY\nFRIENDSHIP\nDAY\n‘‘ A best friend backs you up,\ngets on well with you and loves\nyou all the time.’’\nWe are organizing\na meeting for Friendship Day.\nIt is very exciting because\nfriends will be together.\nWe will have a lot of fun.\nJoin us!!\nFor more information: Sophia Bandley\n(Maths Teacher)\n-05011234567\nFuture Schools\nTuesday, July 30\n5:00 p.m. to 8:00 p.m.",
+        "soru_metni": "Classmates come together on July 30 because - - - -.",
+        "secenekler": {
+            "A": "some of them like activities",
+            "B": "they like playing games together",
+            "C": "their teachers want to organize a party",
+            "D": "there is an organization on Friendship Day"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 2,
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "According to the saying on the card, your best friend can count on you because - - - -.",
+        "secenekler": {
+            "A": "you always support him/her",
+            "B": "you can organize a meeting together",
+            "C": "you have a lot of fun with your teachers",
+            "D": "your friends come together on Friendship Day"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 3,
+        "konu": "1. Friendship",
+        "kontext": "Do you know Mark Twain and Nikola Tesla? I’m sure you do!\nMark Twain (1835-1910) wrote many books, and Nikola Tesla (1856-1943)\nwas a famous scientist. They met in New York in 1880s. They spent\na lot of time together, and they shared a lot of ideas. When they were\nin different countries, they wrote letters to each other to keep in touch.\nTesla loved Twain’s books, and Twain respected Tesla’s scientific work.\nTesla invited Twain to his lab for a special day when he conducted\nan important experiment",
+        "soru_metni": "We can understand from the text that Mark Twain and Nikola Tesla - - - -.",
+        "secenekler": {
+            "A": "had the same jobs",
+            "B": "were good friends",
+            "C": "usually argued",
+            "D": "rarely met"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 4,
+        "konu": "1. Friendship",
+        "kontext": "We are leaving school and organizing a great event.\nWe hope to see all of you there!\nThere is food, music, dance, and lots of fun!\nDate: Sunday, July 7\nTime: 9 p.m. to 11 p.m.\nLocation: City Hotel,\n Bridge Street\nContact person: Jack Smith\n(jack_smith@jmail.com)\nTicket price: $25 per person",
+        "soru_metni": "The invitation card is for a/an - - - -.",
+        "secenekler": {
+            "A": "school lunch",
+            "B": "birthday party",
+            "C": "graduation party",
+            "D": "online exhibition"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 5,
+        "konu": "1. Friendship",
+        "kontext": "We are leaving school and organizing a great event.\nWe hope to see all of you there!\nThere is food, music, dance, and lots of fun!\nDate: Sunday, July 7\nTime: 9 p.m. to 11 p.m.\nLocation: City Hotel,\n Bridge Street\nContact person: Jack Smith\n(jack_smith@jmail.com)\nTicket price: $25 per person",
+        "soru_metni": "The event will be - - - -.",
+        "secenekler": {
+            "A": "in the afternoon",
+            "B": "at the weekend",
+            "C": "$25 for 2 students",
+            "D": "in the school garden"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 6,
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "If students want to ask for more information, they should - - - -.",
+        "secenekler": {
+            "A": "call Jack by phone",
+            "B": "meet Jack on July 7",
+            "C": "visit Jack at the hotel",
+            "D": "send an e-mail to Jack"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 7,
+        "konu": "1. Friendship",
+        "kontext": "Nathalie: Hi, Sophie. How are you?\nSophie: Thank you, Nathalie. What about you?\nNathalie: We are meeting at a café for Jane’s birthday on Sunday evening. Can you come?\nSophie: I am really busy but I will be there. I don’t know where the café is. Can you text me its address, please?\nNathalie: Sure.",
+        "soru_metni": "According to the conversation, Sophie ---.",
+        "secenekler": {
+            "A": "tells Nathalie what she is doing now",
+            "B": "makes an excuse for not going there",
+            "C": "cannot go there because she is busy",
+            "D": "asks for some details about the event"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 8,
+        "konu": "1. Friendship",
+        "kontext": "[ROSA'S PERSONALITY TRAITS]\n- Honest\n- Responsible\n- Adventurous\n- Generous\n- Kind",
+        "soru_metni": "Which of the following is NOT related to Rosa’s personality?",
+        "secenekler": {
+            "A": "She always says “please” and tells the truth.",
+            "B": "She buys presents for her friends.",
+            "C": "She likes doing extreme sports.",
+            "D": "She never changes her mind."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 9,
+        "konu": "1. Friendship",
+        "kontext": "[ARTHUR'S WEEKLY PLAN]\nMonday (6 pm - 8 pm): Going to the tennis course\nTuesday (7 pm - 9 pm): Attending John’s party\nWednesday (5 pm - 8 pm): Taking care of my brother\nThursday (4 pm - 6 pm): Training for the tournament\n\n[CONVERSATION]\nBlake: We are planning to gather on Monday. Will you come?\nArthur: What time?\nBlake: At 4 pm.\nArthur: - - - -.",
+        "soru_metni": "Which of the following completes the conversation?",
+        "secenekler": {
+            "A": "It is awesome but I will be at John’s party",
+            "B": "I’d love to but I have to leave before six",
+            "C": "That sounds great but I have to train for the tournament",
+            "D": "I am sorry but I am taking care of my brother at that time"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 10,
+        "konu": "1. Friendship",
+        "kontext": "mountain\nbike\nriding\n10th April 2020 / 07:30 a.m.\n\nFree sandwiches and fruit juice!\nHelmet is necessary.\nFor more information, please contact Maggie at:\n0855 581 12 45/ maggie06@net.info.com",
+        "soru_metni": "Which of the following does NOT have an answer in the poster?",
+        "secenekler": {
+            "A": "How long is the trip?",
+            "B": "Is there anything to eat?",
+            "C": "How can we learn details?",
+            "D": "Which equipment do we need?"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 11,
+        "konu": "1. Friendship",
+        "kontext": "Celebrate the 5th birthday of\nPAUL\nWe are having a party for our son.\n\n24.11.2019\nThe Apple Garden\n12 West Brooke Drive, San Diego, CA\n\nFor more information,\ncall Carol: 00123 987 654",
+        "soru_metni": "Which of the following does NOT have an answer in the invitation?",
+        "secenekler": {
+            "A": "Who is the party for?",
+            "B": "What time are they meeting?",
+            "C": "Where is the party going to be?",
+            "D": "How can they learn about the details of the event?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 12,
+        "konu": "1. Friendship",
+        "kontext": "Dean is organizing a chess tournament on Sunday. He sent messages to his friends to invite them. Here are their\nresponses:\nTina : I will definitely be there. You have no chance to win.\nSam : That sounds great, but I will be out of the town at the weekend.\nClark : That’s a good idea. Text me about the time.\nPeter : I’d love to join, but I have football training. I can join you after it.",
+        "soru_metni": "According to the conversation above, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Tina isn’t interested in playing chess.",
+            "B": "Sam has to attend a course, so he can’t join the tournament.",
+            "C": "Clark needs extra information about the event.",
+            "D": "Peter is available all day on Sunday."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 13,
+        "konu": "1. Friendship",
+        "kontext": "[BACKGROUND INFO]\nSarah likes comedy films and science fiction movies. However, she finds dramas unbearable. Her 14 year old son, Tim, is fond of watching action movies and comedies. He also thinks science fiction movies are interesting. Sarah wants to go to the cinema on Sunday morning with her son. She wants to find a movie that is appropriate for both of their preferences.\n\n[WEBSITE: MOVIE LIST]\n1. Ridiculous Man\n   - Genre: Comedy\n   - Age: 6+\n   - Sessions: 10:30 am / 9 pm\n\n2. Out of the World\n   - Genre: Science fiction\n   - Age: 10+\n   - Sessions: 4 pm / 11 pm\n\n3. Impressive Life\n   - Genre: Drama\n   - Age: 13+\n   - Sessions: 10 am / 10 pm\n\n4. Last Two Hours\n   - Genre: Action\n   - Age: 16+\n   - Sessions: 10:30 am / 11:30 pm",
+        "soru_metni": "According to the information above, which of the following is an appropriate movie for Sarah and Tim?",
+        "secenekler": {
+            "A": "Ridiculous Man",
+            "B": "Out of the World",
+            "C": "Impressive Life",
+            "D": "Last Two Hours"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 14,
+        "konu": "1. Friendship",
+        "kontext": "Alice invites her friends for some activities. Here is the table of invitations and answers:\n\n1. Activity: Going trekking\n   - Day: Monday\n   - Invitee: Sally\n   - Answer: \"I’d love to but I can’t.\"\n\n2. Activity: Cycling\n   - Day: Wednesday\n   - Invitee: Jane\n   - Answer: \"Yeah, why not?\"\n\n3. Activity: Drinking something at a cafe\n   - Day: Saturday\n   - Invitee: Mary\n   - Answer: \"Sure, it sounds great.\"",
+        "soru_metni": "Which of the following does NOT have an answer in the table above?",
+        "secenekler": {
+            "A": "Which activity is at the weekend?",
+            "B": "When does Alice want to ride a bike ?",
+            "C": "Who refuses the offer giving a reason?",
+            "D": "How many people accept the invitation?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 15,
+        "konu": "1. Friendship",
+        "kontext": "[SUMMER CAMP POSTER]\nTitle: SUMMER CAMP\nSlogan: Great Fun\nDate: 3-12 July\nAge Group: For Ages 7-14\nEquipment Requirement: Bring your compass!\n\n[ACTIVITIES]\n- Trekking\n- Fishing\n- Sitting around the fire\n- Playing board games",
+        "soru_metni": "Which of the following does NOT have an answer in the poster?",
+        "secenekler": {
+            "A": "Which equipment do we need?",
+            "B": "Which activities can we do?",
+            "C": "Where do we meet?",
+            "D": "How long is the camp?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 16,
+        "konu": "1. Friendship",
+        "kontext": "Alice’s best friend, Sally, invites her to an art exhibition on Sunday. She really wants to go, but her mother’s birthday\nparty is on the same day. So, Alice sends her a message to apologize and explain why she cannot attend the event.",
+        "soru_metni": "Which of the following CANNOT be Alice’s message?",
+        "secenekler": {
+            "A": "Thanks for the invitation. I’d love to\nbut I can’t make it. I’m busy\nat the weekend. Have a great time!",
+            "B": "Hey Sally, I was so happy to receive your\ninvitation. I always have fun at exhibitions,\nbut on that day, I have to be at a birthday party",
+            "C": "Thanks a lot! I cannot refuse your invitation\nbecause I love you and I love art. I will text\nyou to learn the details in the evening.",
+            "D": "Dear Sally, that's very kind of you! I really want\nto come, but I am afraid I cannot. I must join\nanother special event on that da."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 17,
+        "konu": "1. Friendship",
+        "kontext": "[POSTER]\nLET’S GO BACK TO\nSCHOOL(CLASS of 2015)\nTicket : $15 (food included)\nDate : October, 23rd\nTime : 7 p.m.\nPlace : Shine Café\nFor details: 055098765430 (Dean)",
+        "soru_metni": "Which of the following is CORRECT according to the poster above?",
+        "secenekler": {
+            "A": "You have to bring your own food.",
+            "B": "For more information, you can call Dean.",
+            "C": "If you want to attend the event, you must pay $50.",
+            "D": "To join, you should be at Shine Café in the morning."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 18,
+        "konu": "1. Friendship",
+        "kontext": "[TABLE NAME] : Personal characteristics of Charlotte’s close friends\n[TABLE]\nAnabel:generous,helpful,amusing\nBritney:honest,serious,kind\n[CONVERSATION]\nDaisy : Does Anabel back you up when you need her?\nCharlotte : Yes, she does. (I) She always supports me. (II) I think she is also a funny girl, and she likes making jokes.\nDaisy : What about Britney?\nCharlotte : (III) I think she is so nice to her friends. (IV) However, she rarely tells the truth, so I don’t think that I can\ncount on her.",
+        "soru_metni": "Which sentence(s) in the conversation does NOT match the personal characteristics in the Table 1?",
+        "secenekler": {
+            "A": "Only I",
+            "B": "I and IV",
+            "C": "II and III",
+            "D": "Only IV"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 19,
+        "konu": "1. Friendship",
+        "kontext": "[CONVERSATION]\nGary : I am organizing a movie night at home on Sunday evening. Who wants to join?\nJenny : Great idea. I don’t have any plans on that day.\nAmy : That sounds awesome, unfortunately, I do not think I can come.\nJoe : Thanks for inviting me, but my brother is coming on that day.",
+        "soru_metni": "Which of the following is NOT correct according to the conversation above?",
+        "secenekler": {
+            "A": "Gary is having a birthday party",
+            "B": "Jenny is going to attend the event.",
+            "C": "Amy refuses the invitation without making an excuse.",
+            "D": "Joe will be with a guest on Sunday."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 20,
+        "konu": "1. Friendship",
+        "kontext": "[CONVERSATION]\nDean: I want to laugh when I watch a film, so I like funny films.\nSam: Movies about the future and space are my favourite ones.\nLily: I like movies about other planets.\nCharlie: I prefer watching movies about difficult situations in real life.",
+        "soru_metni": "According to the conversation above, who likes the same type of movies?",
+        "secenekler": {
+            "A": "Dean and Sam",
+            "B": "Dean and Charlie",
+            "C": "Sam and Lily",
+            "D": "Lily and Charlie"
+        },
+        "dogru_cevap": "C"
+    }
+]
