@@ -1,0 +1,587 @@
+[
+    {
+        "id": 1,
+        "konu": "3. In The Kitchen",
+        "kontext": "[RECIPE: How to Make a Cupcake]\nFirst, heat the oven at 200 °C.\nMix two eggs with a cup of sugar.\nNext, add some milk, flour, oil, and powder.\nThen, mix all the ingredients and pour the mixture into the cups.\nFinally, put the cups into the oven and bake for 30 minutes.\nCupcakes are ready. Enjoy.",
+        "soru_metni": "Which picture shows the step after mixing the ingredients?",
+        "secenekler": {
+            "A": "Whisking eggs",
+            "B": "Pouring the mixture into cups",
+            "C": "Putting the tray into the oven",
+            "D": "Ready cupcakes"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 2,
+        "konu": "3. In The Kitchen",
+        "kontext": "Charlotte is baking a brownie today. Here is her recipe:\n[RECIPE: BROWNIE]\nFirst, mix ½ cup of oil, 1 cup of sugar, and 1 teaspoon of vanilla in a bowl.\nSecond, add some flour, 1/3 cup of cocoa, and ¼ teaspoon of baking powder into mixture.\nThen, whisk 2 eggs, and pour it into the bowl.\nMix all the ingredients (I use a mixer. It is easier ☺) and then, pour it into the cake pan.\nFinally, bake it in a preheated oven to 250 °C about 20 minutes.\nLet it cool before cutting into slices. Enjoy it!\nP.s.: Use eggs at room temperature for better taste.",
+        "soru_metni": "Which tool will NOT Charlotte use while baking the brownie?",
+        "secenekler": {
+            "A": "A metal spatula",
+            "B": "A spoon",
+            "C": "An electric mixer",
+            "D": "A cake pan"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 3,
+        "konu": "3. In The Kitchen",
+        "kontext": "Charlotte is baking a brownie today. Here is her recipe:\n[RECIPE: BROWNIE]\nFirst, mix ½ cup of oil, 1 cup of sugar, and 1 teaspoon of vanilla in a bowl.\nSecond, add some flour, 1/3 cup of cocoa, and ¼ teaspoon of baking powder into mixture.\nThen, whisk 2 eggs, and pour it into the bowl.\nMix all the ingredients (I use a mixer. It is easier ☺) and then, pour it into the cake pan.\nFinally, bake it in a preheated oven to 250 °C about 20 minutes.\nLet it cool before cutting into slices. Enjoy it!\nP.s.: Use eggs at room temperature for better taste.",
+        "soru_metni": "You will have a more delicious cake if you - - - -.",
+        "secenekler": {
+            "A": "don’t bake it in an oven you heated before",
+            "B": "break the eggs into the baking powder",
+            "C": "cut it into the slices after it cools",
+            "D": "don’t use cold eggs"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 4,
+        "konu": "3. In The Kitchen",
+        "kontext": "[IMAGE: ICE CREAM MACHINE FLAVORS]\nThe buttons on the machine are numbered as follows:\nCherry\nVanilla\nBanana\nLemon\nMint\nBlueberry\nChocolate\nWalnut\n[SCENARIO]\nRosa and Troy want to buy ice cream. Rosa loves only sour flavors, but Troy likes ice cream with fruits. They have little money, and they can buy only one cup of ice cream.",
+        "soru_metni": "Which numbers should they press on the machine to buy a cup that reflects both of their preferences?",
+        "secenekler": {
+            "A": "3 - 7 - 8",
+            "B": "2 - 3 - 4",
+            "C": "1 - 5 - 7",
+            "D": "1 - 4 - 6"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 5,
+        "konu": "3. In The Kitchen",
+        "kontext": "[MENU BOARD: Time & Price]\nPizza: 25 min | $8\nSandwich: 5 min | $9\nGrilled meatballs: 10 min | $8\nChicken: 15 min | $9\n[SCENARIO]\nJane had $20. She came to a shopping mall to watch a movie. She paid $12 for the ticket. The film is going to start twenty minutes later. She wants to eat something quickly before the film begins.",
+        "soru_metni": "Keeping in mind how much money and time Jane has, what should she choose?",
+        "secenekler": {
+            "A": "Grilled meatballs",
+            "B": "Sandwich",
+            "C": "Chicken",
+            "D": "Pizza"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 6,
+        "konu": "3. In The Kitchen",
+        "kontext": "Kingston family is in the kitchen. They are talking about their dinner. They want to eat chicken.\n[DIALOGUE]\nDaughter: I don’t like fatty food. I think it is unhealthy.\nDad: We can’t have a barbecue because it is rainy outside.\nSon: I don’t like baked chicken. It is too dry.\nMom: OK, I know how to cook it. Don’t worry.",
+        "soru_metni": "Which of the following cooking methods is suitable for all the family members?",
+        "secenekler": {
+            "A": "roasting",
+            "B": "grilling",
+            "C": "boiling",
+            "D": "frying"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 7,
+        "konu": "3. In The Kitchen",
+        "kontext": "Claire is a chef at a famous restaurant. It is not suitable for the people who like meat and pasta. Today, Claire is cooking the speciality of the restaurant.\n[RECIPE]\nHere is the recipe: First, heat the oil in a large pot. Then, chop the onion, the carrot, and some garlic. Next, fry them and add sliced tomatoes and potatoes. After that, pour two glasses of water into the pot and boil them. Cook the mixture for 5 minutes after boiling. Finally, put a leaf of basil in it. Serve hot. Enjoy!",
+        "soru_metni": "According to the recipe above, in which restaurant does Claire work as a chef?",
+        "secenekler": {
+            "A": "SPAGHETTI HOUSE",
+            "B": "CITY OF FISH",
+            "C": "TACOS KITCHEN",
+            "D": "VEGETABLE WORLD"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 8,
+        "konu": "3. In The Kitchen",
+        "kontext": "Nick is playing a game. He should choose the correct moves and find Mary’s favourite food.\n[FLOWCHART]\nStart: \"Mary likes homemade food because she thinks it is good for her body.\"\nLeft Path (Fast Food): \"She would like to eat fried vegetables.\" -> Outcomes: Sausages / Potato Chips\nRight Path (Healthy Food): \"She would rather eat baked food.\" -> Outcomes: Lentil Soup / Fish",
+        "soru_metni": "Mary’s favourite food is - - - -.",
+        "secenekler": {
+            "A": "fish",
+            "B": "lentil soup",
+            "C": "potato chips",
+            "D": "sausages"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 9,
+        "konu": "3. In The Kitchen",
+        "kontext": "Mary, Tom, Lisa, and John met at a restaurant. They all ordered what they like most.\n[PREFERENCES]\nMary never eats meat.\nTom prefers eating only vegetables.\nLisa enjoys eating sweets with fruit.\nJohn likes white meat and cold desserts.",
+        "soru_metni": "According to the information above, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "Mary ordered pasta as a main course.",
+            "B": "Tom chose salad and meatballs.",
+            "C": "Lisa ate a slice of strawberry cake.",
+            "D": "John had both grilled chicken and ice cream."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 10,
+        "konu": "3. In The Kitchen",
+        "kontext": "[DIALOGUE]\nPhilip: Hi, mom. I need your help. - - - -?\nMom: Sure, honey.\nPhilip: - - - -?\nMom: You need a cup of red lentil, a carrot, a potato, an onion, a tablespoon of olive oil, four cups of water and a pinch of salt.\nPhilip: They’re ready. - - - -?\nMom: First, peel and cut the carrot, potato and onion. Second, wash the lentil. Put all of them into a pot. Then add water and cook them. After that, mix it with a blender. Finally, add olive oil and salt.\nPhilip: Thanks mom.",
+        "soru_metni": "Which of the following does NOT complete the conversation?",
+        "secenekler": {
+            "A": "Can you give me a recipe for lentil soup",
+            "B": "How long does it take to cook",
+            "C": "What are the preparation steps",
+            "D": "What are the ingredients"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 11,
+        "konu": "3. In The Kitchen",
+        "kontext": "Sam invites his friend, Tom, to dinner. He wants to prepare meals according to Tom's preferences. Here is some information about Tom's food preferences:\nTom prefers meat to fish.\nHe dislikes green vegetables.\nHe isn't keen on cold desserts.",
+        "soru_metni": "According to the information above, which of the following is the most appropriate menu for Tom?",
+        "secenekler": {
+            "A": "Potato Soup, Meatball, Ice Cream",
+            "B": "Parsley Soup, Grilled Chicken, Cake",
+            "C": "Lentil Soup, Fish, Pudding",
+            "D": "Tomato Soup, Steak, Hot Cocoa Rolls"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 12,
+        "konu": "3. In The Kitchen",
+        "kontext": "Vegetable soup is very healthy and easy to prepare. You can make it at home in nearly\n40 minutes.\nFirst, peel an onion, two carrots, a potato and rinse them under water. Then, rinse a red\npepper and broccoli under water. Second, chop the onion and dice the other vegetables.\nPut four tablespoons of olive oil in a large pot and heat it for half a minute. Then, add\nthe onion and carrots. After cooking them for 5 minutes, add half a cup of flour and stir\nthem for 2 minutes. Then, add the other vegetables and 5 glasses of water. After that,\nsprinkle a teaspoon of salt and cook for around 20 minutes over low heat. Finally, add\n1/2 teaspoon of black pepper and your vegetable soup is ready to eat. Serve it hot.\nGood appetite!",
+        "soru_metni": "According to the text, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Making vegetable soup takes less than an hour.",
+            "B": "Adding some milk to the soup makes it tastier.",
+            "C": "There is sugar and honey in the soup.",
+            "D": "We don’t need any onions for the soup."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 13,
+        "konu": "3. In The Kitchen",
+        "kontext": "My parents are going to have some guests for a party at home tonight. We are all very excited. All of us are doing something. We are helping each other. My mother is baking the chicken, and my father is preparing the salad. I am making the desserts, and my sister is setting the table.",
+        "soru_metni": "Which of the following has an answer in the text?",
+        "secenekler": {
+            "A": "Why are they having a party?",
+            "B": "When is the party going to be?",
+            "C": "Who is preparing the drinks?",
+            "D": "Which desserts is Mike making?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 14,
+        "konu": "3. In The Kitchen",
+        "kontext": "Amy and Pam want to join a cooking course together. They both like preparing different desserts and salads. Both of them want to spend less than $70 for the course. Amy is available between 5th and 12th July. Pam has to be at school on 10th July.\n[TABLE: KITCHEN SKILLS COURSES]\nCourse 1: Ice Cream Master | $75 for each person | July 3 - 7\nCourse 2: Pasta House | $50 for each person | July 5 - 9\nCourse 3: Chocolate World | $40 for each person | July 6 - 8\nCourse 4: Vegetable Garden | $60 for each person | July 7 - 11",
+        "soru_metni": "According to the information above, which of the following should they choose?",
+        "secenekler": {
+            "A": "Course 1",
+            "B": "Course 2",
+            "C": "Course 3",
+            "D": "Course 4"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 15,
+        "konu": "3. In The Kitchen",
+        "kontext": "Alice and Thomas meet at a restaurant for dinner. After looking at the menu, Alice orders white meat, a fruit dessert, and a hot drink. Thomas orders a bowl of vegetable soup, red meat, and a cold dessert.\n[MENU: Small House Restaurant]\nSOUPS: Tomato $3, Lentil $3, Chicken $3\nSALADS: Carrot $5, Green $4, Tomato $5\nDRINKS: Coffee $3, Tea $3, Lemonade $4, Fruit juice $5\nMEALS: Pasta $7, Fish $13, Hamburger $10, Meatballs $8, Chicken $10, Steak $15\nDESSERTS: Baked bananas $6, Pudding $7, Chocolate cake $5, Ice cream $5",
+        "soru_metni": "According to the information above, which of the following is their order?",
+        "secenekler": {
+            "A": "Tomato soup, Chicken, Fish, Pudding, Chocolate cake, Fruit juice",
+            "B": "Chicken soup, Hamburger, Pasta, Pudding, Baked bananas, Lemonade",
+            "C": "Tomato soup, Chicken, Steak, Ice cream, Baked bananas, Tea",
+            "D": "Lentil soup, Meatballs, Fish, Ice cream, Chocolate cake, Coffee"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 16,
+        "konu": "3. In The Kitchen",
+        "kontext": "A restaurant does a survey about the food preferences of its customers. The purpose is to find the most popular meals and to prepare a different menu according to the preferences of the customers. Here is some information about the results of the survey:\n[SURVEY RESULTS]\nVegetable soups are more popular than the other soups.\nOnly a few people dislike eating meat. (Meaning: Most people like meat)\nMost of the people like having a dessert after their meal.",
+        "soru_metni": "Which of the following should the restaurant prepare according to the information above?",
+        "secenekler": {
+            "A": "Spicy carrot soup, Steak, Green salad",
+            "B": "Tomato soup, Grilled chicken, Brownie",
+            "C": "Potato soup, Pasta with tomato sauce, Carrot balls",
+            "D": "Chicken soup, Meatballs, Apple pie"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 17,
+        "konu": "3. In The Kitchen",
+        "kontext": "[LUNCH MENU FOR OUR STUDENTS]\nMonday: Baked fish / Lemonade\nTuesday: Grilled chicken / Fruit juice\nWednesday: Fried carrots with rice / Apple\nThursday: Steak / Ice cream\nFriday: Pasta with tomato sauce / Green salad\n[CONVERSATION]\nLily: Did you see the lunch menu for this week, Tom?\nTom: Yes, I think I am going to prepare my meal at home and bring it to school on - - - -.\nLily: Why?\nTom: I really love meat, but I dislike eating vegetables.",
+        "soru_metni": "Which of the following completes the conversation above?",
+        "secenekler": {
+            "A": "Monday and Tuesday",
+            "B": "Tuesday and Thursday",
+            "C": "Wednesday and Friday",
+            "D": "Thursday and Friday"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 18,
+        "konu": "3. In The Kitchen",
+        "kontext": "Alice wants to take her family to a restaurant for dinner. She wants to find a quiet and cheap place. Now, she is searching on the Internet and reading other people’s comments about some of the restaurants in her town:\n[REVIEWS]\nStar Restaurant (Joe S.): Every Friday, we come here to listen to pop music. The band's music is crazy, and you can dance here after dinner.\nNew Restaurant (Ellie H.): The menu of the restaurant is very rich. The steaks here are the best, but the bill is too high.\nMoon Restaurant (Brad R.): A lot of people visit this place every day because it is famous for its desserts. You should definitely try them.\nSun Restaurant (Hannah P.): Sun restaurant has a beautiful garden, and the restaurant is comfortable and calm. The prices are not expensive.",
+        "soru_metni": "According to the information above, which of the following restaurants should Alice choose?",
+        "secenekler": {
+            "A": "Star Restaurant",
+            "B": "New Restaurant",
+            "C": "Moon Restaurant",
+            "D": "Sun Restaurant"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 19,
+        "konu": "3. In The Kitchen",
+        "kontext": "[INTERVIEW: Radio News]\nJack: I am Jack from Radio News. We are with Carlos from Brazil. What does a traditional breakfast include in Brazil, Carlos?\nCarlos: Well! Bread, fruit and some milk.\nJack: Sounds healthy! - - - -?\nCarlos: It's Japanese food, especially Sushi.\nJack: - - - -?\nCarlos: Twice a week.\nJack: And one last question! - - - -?\nCarlos: Not me, definitely! It is my sister.",
+        "soru_metni": "Which question does NOT Jack ask Carlos?",
+        "secenekler": {
+            "A": "How often do you eat Japanese food?",
+            "B": "Why do Japanese people like Sushi?",
+            "C": "Who cooks well in your family?",
+            "D": "What is your favorite food?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 20,
+        "konu": "3. In The Kitchen",
+        "kontext": "[POSTER: Suggestions for a healthy life during COVID-19]\nEat fresh and homemade foods and drink enough water every day.\nDo not use too much salt and sugar.\nPrefer white meat to red meat.\nStop eating out.\n(Source: World Health Organization)",
+        "soru_metni": "Who does NOT follow one of the suggestions offered by World Health Organization?",
+        "secenekler": {
+            "A": "Oliver: I usually make a salad at home and bring it to work for my lunch.",
+            "B": "Emily: I like every kind of dessert, but I eat less sweet and salty foods these days.",
+            "C": "Daniel: I try to eat grilled fish two times a week as it is healthier than red meat.",
+            "D": "Isabella: I always prefer going to restaurants because I dislike cooking."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 21,
+        "konu": "3. In The Kitchen",
+        "kontext": "Mrs. Thomson asked 100 teenagers about their food preferences. Here are the results of her study:\n[CHART: PREFERENCES]\nIndian Food: 5%\nJapanese Food: 15%\nMexican Food: 20%\nAmerican Food: 25%\nTurkish Food: 35%",
+        "soru_metni": "Using the information above, which of the following questions can you answer?",
+        "secenekler": {
+            "A": "Which food is cheaper than the others?",
+            "B": "What kind of food is healthier than the others?",
+            "C": "Why don’t the teenagers prefer Indian food?",
+            "D": "What is the most popular food among the teenagers?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 22,
+        "konu": "3. In The Kitchen",
+        "kontext": "Peter goes to a dietician to learn about healthy eating. The dietician asks Peter to fill in a form about his eating habits.\n[FORM: EATING HABITS]\n1.Do you eat lots of fruits and vegetables every day? -> YES\n2.Do you usually go to a restaurant? -> YES\n3.Do you eat fish at least once a week? -> NO\n4.Do you always eat desserts after meals? -> YES\n5.Do you eat pizza or hamburger three or four times a week? -> YES\n6.Do you usually add extra salt to your meals? -> YES\n7.Do you drink enough water every day? -> NO",
+        "soru_metni": "According to the information above, Peter - - - -.",
+        "secenekler": {
+            "A": "hates fast food and drinks too much water",
+            "B": "eats fruits, vegetables, and fish every week",
+            "C": "generally prefers eating out",
+            "D": "dislikes sweet and salty food"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 23,
+        "konu": "3. In The Kitchen",
+        "kontext": "The visuals below show Shirley and her friends’ favourite foods:\n[VISUALS]\nAlan: Hamburger and fried potatoes\nShirley: Chicken soup\nRalph: Steak\nMary: Chocolate cake",
+        "soru_metni": "Which of the following statements does NOT match Shirley and any of her friends’ preferences?",
+        "secenekler": {
+            "A": "I am crazy about desserts. Eating sweet things makes me happy.",
+            "B": "I know it is fast food, but I cannot stop myself when I see them.",
+            "C": "I always prefer red meat to white meat as it is more delicious.",
+            "D": "I prefer baking vegetables and serving them with different sauces."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 24,
+        "konu": "3. In The Kitchen",
+        "kontext": "Amy wants to order dinner from the Star Restaurant. She likes white meat and vegetables, but she can't decide what to order. She reads some of the comments about the food in the restaurant and tries to decide what to order. Here are the comments:\n[COMMENTS]\n1. \"I ordered fish and green salad yesterday. They are fine. The fish is hot and well cooked.\"\n2. \"Sushi is delicious, but carrots aren't cooked enough. They are also too spicy.\"\n3. \"The grilled chicken and cabbage rolls are delicious. Try them!\"\n4. \"The meatballs are just perfect. They are hot, tasty, and cheap. Five stars from me.\"\n5. \"Chicken wings are cold and too salty. I will never order them again.\"\n6. \"I tried pasta with tomato sauce. It tastes good, but it is nothing special.\"",
+        "soru_metni": "According to the comments above, which of the following can be a good choice for Amy?",
+        "secenekler": {
+            "A": "1 and 3",
+            "B": "1, 4 and 6",
+            "C": "2, 3 and 4",
+            "D": "2 and 5"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 25,
+        "konu": "3. In The Kitchen",
+        "kontext": "[POSTER: START YOUR DAY WITH BREAKFAST]\nBreakfast:\nkeeps you healthy\nmakes you more active during the day\nhelps you pay attention to the lessons\nmakes you happier and more positive\nText: \"For a healthy start, you may have cheese, eggs, and olives every day.\"",
+        "soru_metni": "According to the poster above, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "Breakfast makes it easier to succeed at school.",
+            "B": "Drinking milk with honey is an important part of the breakfast.",
+            "C": "Having breakfast will give you more energy during the day.",
+            "D": "The poster shows that eating breakfast helps you feel better."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 26,
+        "konu": "3. In The Kitchen",
+        "kontext": "[SMARTPHONE SCREEN: RESTAURANT SEARCH]\nFilters: Near me | Open now | Highest rating\nMap Locations & Ratings:\nGrilled Fish Restaurant (5.0)\nBurger House (5.0)\nVegetable World (4.8)\nSalad Garden (4.0)\nScenario:\nNoah wants to order food for lunch. He dislikes meat and never eats fast food. He checks the restaurants near his office. He decides to order from the one with the highest rating given by customers.",
+        "soru_metni": "According to the information above, which place is Noah going to order from?",
+        "secenekler": {
+            "A": "Grilled Fish Restaurant",
+            "B": "Salad Garden",
+            "C": "Burger House",
+            "D": "Vegetable World"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 27,
+        "konu": "4. On The Phone",
+        "kontext": "[LARISSA'S WEEKLY PLANS]\nMonday: Shopping with my sister\nTuesday: Watching a movie\nWednesday: Going to the concert\nThursday: Meeting friends\nFriday: Visiting the library\nSaturday: Swimming\nSunday: Helping mother with the housework\n[PHONE CONVERSATION]\nWendy: Hey Larissa. It’s Wendy. Are you free this weekend?\nLarissa: Hi Wendy! Why are you asking?\nWendy: I want to go to the new Chinese restaurant with you in the afternoon.\nLarissa: - - - -.",
+        "soru_metni": "Which of the following completes the conversation?",
+        "secenekler": {
+            "A": "My sister and I will go shopping together",
+            "B": "I’m sorry, I have to finish my homework",
+            "C": "I’d love to but I have things to do",
+            "D": "Of course, I will be there on time"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 28,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\n[Visual: A mechanic on the phone with tools, and a man standing next to a car with its hood open.]\nMr. Cullingham: Hello, Mr. Archlair. My car is not working. I don’t know the problem.\nMr. Archlair: Hi, Mr. Cullingham. Oh, I am sorry to hear that.\nMr. Cullingham: And I have a meeting at ten o’clock.\nMr. Archlair: OK, Tell me where you are and - - - -.",
+        "soru_metni": "Which of the following completes the conversation?",
+        "secenekler": {
+            "A": "I hope you will be more careful when you drive",
+            "B": "I will send someone to take you and your car",
+            "C": "I will see your car if you come to the garage",
+            "D": "I will go to the meeting if you really want"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 29,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nAgent: This is Angela speaking. How can I help you?\nCustomer: I would like to make a reservation from Germany to Turkey on August 3.\nAgent: There is a flight at 11 o’clock in the morning and one at 2 o’clock in the afternoon.\nCustomer: One ticket for the 11 o’clock plane, please.\nAgent: Can you - - - -, please?\nCustomer: It’s Bridget Hopkins.",
+        "soru_metni": "Which of the following completes the conversation?",
+        "secenekler": {
+            "A": "repeat that again",
+            "B": "hold on a moment",
+            "C": "tell me your name",
+            "D": "spell your name"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 30,
+        "konu": "4. On The Phone",
+        "kontext": "Tom and Alice are talking about smartphones, but they have different opinions about them. Tom thinks that they are useful, while Alice believes that they are harmful.",
+        "soru_metni": "Which of the following is Tom’s speech bubble?",
+        "secenekler": {
+            "A": "Playing games on a bright screen causes eye diseases.",
+            "B": "Having a smartphone gives us a chance to connect quickly with emergency services.",
+            "C": "Buying a smartphone costs a lot of money.",
+            "D": "Constantly checking social media accounts creates concentration problems."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 31,
+        "konu": "4. On The Phone",
+        "kontext": "A research company asked 100 people about why they usually called customer services. Here are their answers:\n35 people called to change an item they bought. (Matches: return a product - Yellow)\n20 people called to make a reservation for transportation. (Matches: book a flight ticket - Blue)\n15 people called to learn something new. (Matches: get information - Red)\nThe rest of them called when their products didn't reach them on time. (Matches: report late arriving products - Orange)\n(Calculation: \"The rest\" = 100 - (35 + 20 + 15) = 30 people)\n[LEGEND COLORS]\nYellow: return a product\nBlue: book a flight ticket\nRed: get information\nOrange: report late arriving products",
+        "soru_metni": "Which of the following shows the results of the research?",
+        "secenekler": {
+            "A": "Graph A",
+            "B": "Graph B",
+            "C": "Graph C",
+            "D": "Graph D"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 32,
+        "konu": "4. On The Phone",
+        "kontext": "Mr. Black asked 100 students about their mobile phone usage habits. Here are the results:\nMore than half of the students use it to keep in touch with their friends.\nThe number of the students who use mobile phones to find articles related to their lessons is less than all others.\nPlaying online games using mobile phones is as popular as buying things from the Internet.\n[LEGEND]\nWhite area: communication\nPink area: doing research\nYellow area: fun\nStriped area: online shopping\n[CHARTS IN OPTIONS]\nA) Com: 60%, Res: 10%, Fun: 15%, Shop: 15%\nB) Com: 65%, Res: 15%, Fun: 10%, Shop: 10%\nC) Com: 55%, Res: 5%, Fun: 30%, Shop: 10%\nD) Com: 45%, Res: 15%, Fun: 20%, Shop: 20%",
+        "soru_metni": "According to the results of the survey, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Chart A",
+            "B": "Chart B",
+            "C": "Chart C",
+            "D": "Chart D"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 33,
+        "konu": "4. On The Phone",
+        "kontext": "Susan organizes a birthday party at 8 pm on Monday and calls Mary to invite her. However, Mary doesn’t answer the\nphone, so Susan leaves a message.",
+        "soru_metni": "Which of the following is Susan’s message?",
+        "secenekler": {
+            "A": "I think you’re not available now, I’ll call you in the evening.",
+            "B": "I’m busy now, I’ll get back to you as soon as possible.",
+            "C": "It’s a bad line. Could you get back to me later?",
+            "D": "I’m not at home right now, I’ll talk to you soon."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 34,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nCustomer Service: Hello, how can I help you?\nAlice: Hi, I want to book a flight ticket from London to New York.\nCustomer Service: Sure. One way or return?\nAlice: Return.\nCustomer Service: Can you tell me the dates on which you want to travel?\nAlice: June 15th and June 26th.\nCustomer Service: Can I have your name and phone number, please?\nAlice: Alice Black, 09502345678.\nCustomer Service: Your flight is reserved. Have a good flight.",
+        "soru_metni": "Which of the following does NOT have an answer in the conversation above?",
+        "secenekler": {
+            "A": "What is the phone conversation about?",
+            "B": "What is the destination of the flight?",
+            "C": "What are the dates of the flights?",
+            "D": "What is Alice's reason for travelling?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 35,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nScott: Hello, Scott is speaking. How may I help you?\nTina: Hi! I’d like to book a ticket for a jazz concert.\nScott: Sure. Which one do you prefer, August 21st or August 25th?\nTina: August 25th, please.\nScott: Could I have your name and phone number, please?\nTina: Tina White. My phone number is 48978565. Can I learn when the concert starts?\nScott: It starts at 7 pm and it is 3 hours long. It is at the Woods Centre.\nTina: Thank you.\nScott: You’re welcome. Please get your ticket before the concert.\n[IMAGE: CONCERT TICKET]\nDate: 25 August\nTime: 7-11 pm\nEvent: JAZZ Concert\nLocation: Woods Centre",
+        "soru_metni": "Which information on the ticket is NOT correct according to the conversation above?",
+        "secenekler": {
+            "A": "genre",
+            "B": "time",
+            "C": "date",
+            "D": "place"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 36,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nJohn: Hi, Nick. How are you?\nNick: Not bad bro, you?\nJohn: Fine, we are organizing a football match on Wednesday evening. Do you want to come and play with us?\nNick: What time?\nJohn: I’m not sure but it can be at 8 or 10 pm.\nNick: OK, call me when you know, and I will decide then.\nJohn: Alright, I will let you know.",
+        "soru_metni": "Which of the following is CORRECT according to the conversation?",
+        "secenekler": {
+            "A": "John does not tell Nick the exact time.",
+            "B": "John and Nick are not close friends.",
+            "C": "The match will be at the weekend.",
+            "D": "Nick refuses John’s invitation."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 37,
+        "konu": "4. On The Phone",
+        "kontext": "Tim, Richard, Emily, and Helen want to leave a message for the people they are trying to reach, and they have different excuses:\n[SITUATIONS]\nTim: \"I have lost my keys and called my mum, but she doesn't answer my call.\"\nRichard: \"I am going to meet a friend for dinner, but I won't arrive on time. I can't reach him.\"\nEmily: \"I have an important exam in English class today, but I don't feel well. I'll leave a message for my teacher.\"\nHelen: \"I will see my doctor, but I am afraid I will be late. I have to call the hospital and leave a message for him.\"",
+        "soru_metni": "Whose message does NOT reflect his/her excuse correctly?",
+        "secenekler": {
+            "A": "Tim: I am waiting for you to come home because I cannot get in.",
+            "B": "Richard: Hey, buddy. There is too much traffic on the road. Sorry, I will be a bit late.",
+            "C": "Emily: I have a cold and feel bad. I have to see a doctor, so I can't come to school today.",
+            "D": "Helen: Hi, I have an appointment at the hospital. Can you pick Lisa up from school?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 38,
+        "konu": "4. On The Phone",
+        "kontext": "[BROCHURE: ONLINE COMPUTER CLASSES]\nSchedule: Every day except Saturday and Sunday\nTime: At 7 pm\nContact Info: 4567899797 | maggie@computer.house\n[CONVERSATION]\nClaire: I saw a brochure about computer classes on the Internet, and I am planning to join one of them. Would you also like to try it?\nGloria: That sounds nice. Can I learn the day of the class?\nClaire: - - - -.\nGloria: How much should we pay for the class?\nClaire: There is no information about it.\nGloria: Well, I'll make my decision after I learn it.",
+        "soru_metni": "Keeping in mind the brochure, which of the following completes the conversation above?",
+        "secenekler": {
+            "A": "We can attend it at the weekend if you like",
+            "B": "There are only morning classes every day",
+            "C": "It is in the evening on weekdays",
+            "D": "You can join it at any time of day"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 39,
+        "konu": "4. On The Phone",
+        "kontext": "The students below are talking about the reasons for using smartphones.\n[STATEMENTS]\nJack: I always buy something using my smartphone.\nJulia: Mostly, I use it to practice my foreign language.\nTim: I usually use it to keep in touch with my friends.\nMaggy: I use it to follow the news online every day.",
+        "soru_metni": "Which of the following is NOT correct according to the statements above?",
+        "secenekler": {
+            "A": "Jack does his shopping online.",
+            "B": "Julia improves her science knowledge.",
+            "C": "Tim uses his smartphone for communication.",
+            "D": "Maggy reads magazines and newspapers on the Net."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 40,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nCall Center : World Line Airways, how may I help you?\nCustomer : Hello, I’d like to make a flight reservation from Athens to Paris.\nCall Center : I see. Single or return?\nCustomer : Single, please.\nCall Center : When do you want to fly?\nCustomer : On March 10.\nCall Center : Let me check. We have two flights then, at 09.30 am and 4.30 pm. Which one do you prefer?\nCustomer : The one at 4.30 pm, please.\nCall Center : All right. What is your name, sir?\nCustomer : Brian Parker.\nCall Center : Thanks for the information. Your flight is reserved. Have a nice flight.\n[TICKET IMAGE: WORLD LINE AIRWAYS]\nName: BRIAN PARKER\nFlight: WOLN 13\nDate: 10 MAY 22\nTime: 16.30\nRoute: From ATHENS To PARIS",
+        "soru_metni": "According to the information above, which of the following is NOT correct on the ticket?",
+        "secenekler": {
+            "A": "Place",
+            "B": "Date",
+            "C": "Time",
+            "D": "Name"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 41,
+        "konu": "4. On The Phone",
+        "kontext": "Eric and his friends spoke to different call centres last\nweek. Eric bought a flight ticket, Alan had problems with\nhis new dishwasher, Billy wanted to send his shoes back,\nand Scott reserved a table at a restaurant.",
+        "soru_metni": "Which of the following reasons is NOT listed in the text above?",
+        "secenekler": {
+            "A": "Making a complaint",
+            "B": "Getting something",
+            "C": "Returning a product",
+            "D": "Booking a hotel room"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 42,
+        "konu": "4. On The Phone",
+        "kontext": "Emily asks her classmates how they celebrate their friends' special days. Below are her classmates' answers:\n[SURVEY RESULTS]\nSending postcards: Jeffrey (1 person)\nSending text messages: Virginia, Adam, Linda, Bobby, and Richard (5 people)\nMeeting friends: Alice and Ralph (2 people)\nCalling friends: Betty, Mark, and Jeremy (3 people)\nWriting letters: Diana (1 person)",
+        "soru_metni": "According to the information above, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "Jeffrey and Diana like using traditional ways to communicate.",
+            "B": "Writing a message is the most preferred way to celebrate a special day.",
+            "C": "Alice and Ralph prefer face-to-face communication.",
+            "D": "Making a phone call is as popular as writing letters in this group."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 43,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nGloria : Hello, it is Gloria’s Flowers. How can I help you?\nLinda : I’d like to order a bunch of roses for my sister.\nGloria : When and what time do you want me to send the flowers?\nLinda : Can you send them at 2 pm on 7 March, please?\nGloria : Of course, could you tell me your sister’s full name and address, please?\nLinda : Yes, Sally Johnson, 75 Green Street, London.\nGloria : Do you want to add a special note?\nLinda : Yes, it will be her first day at work. So, I want you to write a note celebrating it.\nGloria : OK, the flowers will cost $15.\nLinda : Thanks a lot, I will pay by credit card.\nGloria : Thanks for choosing us.",
+        "soru_metni": "According to the information above, which of the following cards shows Gloria’s notes?",
+        "secenekler": {
+            "A": "Name: Sally Johnson | Date/Time: 4 pm / 9 March | Address: 75 Green Street New York | Note: Have fun at your new company!",
+            "B": "Name: Sally Johnson | Date/Time: 2 pm / 7 March | Address: 75 Green Street London | Note: Sorry for breaking your heart honey!",
+            "C": "Name: Sally Johnson | Date/Time: 2 pm / 7 March | Address: 75 Green Street New York | Note: Thank you for all the beautiful experiences!",
+            "D": "Name: Sally Johnson | Date/Time: 2 pm / 7 March | Address: 75 Green Street London | Note: Best of luck to you in your new job!"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 44,
+        "konu": "4. On The Phone",
+        "kontext": "You must write a text message to your friend because you want to change the time of the meeting at the café.",
+        "soru_metni": "Which of the following is the message you will send in that situation?",
+        "secenekler": {
+            "A": "Hi Daniel, I have an appointment with my doctor.\nSorry, I can’t meet you.",
+            "B": "Hi Daniel. Can we meet an hour later?\nI am so sorry for that. I could not finish\nmy project, and I need a bit of extra time.",
+            "C": "Hey Daniel, I cannot remember our meeting\nplace for today. Can you send me the café’s\nname once again?",
+            "D": "Hi Daniel, there were too many people,\nso I have left the café. Find me in front of the\ncinema."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 45,
+        "konu": "4. On The Phone",
+        "kontext": "Martin takes an exam about how to answer the phone. Here are his answers:\n[EXAM QUESTIONS]\n1) Mrs. Hopkins calls your father, but he is not available. What would you say?\n(a) I’m afraid he has gone out. (Martin's Choice - Correct)\n(b) I will put you through to him.\n2) You are talking to a friend, but you didn’t understand what she said. What would you say?\n(a) Call me when you are available.\n(b) What do you mean? (Martin's Choice - Correct)\n3) You call a customer service to complain about your smartphone. What would you say?\n(a) My smartphone isn’t working. Can you help?\n(b) I don’t use a smartphone any more. (Martin's Choice - Incorrect. The correct phrase for a complaint is option A.)\n4) One of your classmates calls you, but your mother answers the phone. You are at home. What would your mother say to your friend?\n(a) Hang on a minute. I will get him. (Martin's Choice - Correct)\n(b) Call me as soon as possible.",
+        "soru_metni": "How many of Martin’s answers are correct?",
+        "secenekler": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4"
+        },
+        "dogru_cevap": "C"
+    }
+]
