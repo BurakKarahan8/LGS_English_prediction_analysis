@@ -4,7 +4,7 @@ import json
 import os
 
 # Dosya adı
-FILENAME = "lgs_veri_seti_v4.json"
+FILENAME = "lgs_veri_seti_v7.json"
 
 class LGSLabeler:
     def __init__(self, root):
