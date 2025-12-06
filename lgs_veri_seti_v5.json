@@ -1,0 +1,1042 @@
+[
+    {
+        "id": 1,
+        "konu": "9. Science",
+        "kontext": "Aziz Sancar was born in Savur, Mardin in 1946. He had four brothers and three sisters. His parents were not rich and all the children including Aziz helped them with their work. He worked hard to be a doctor. He has conducted a lot of research on medicine. Today, he is a world famous scientist who has the Nobel Prize in chemistry.",
+        "soru_metni": "What is the main idea of the text?",
+        "secenekler": {
+            "A": "Famous scientists have Nobel prizes.",
+            "B": "He had many brothers and sisters.",
+            "C": "Hard work brings success.",
+            "D": "It was difficult to be a doctor."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 2,
+        "konu": "9. Science",
+        "kontext": "[GRAPH: Who does the chores in your house?]\nThe visuals show the distribution of household chores among family members.\nPie Chart Results (Overall Percentage):\nMothers: 42%\nFathers: 42%\nChildren: 16%\nBar Chart Details:\nVacuuming: Mothers and Fathers are equal (High), Children are low.\nSetting the table: Fathers do it the most.\nMaking the beds: Mothers do it the most.\nCooking: Mothers and Fathers are equal.\nShopping: Mothers and Fathers are equal.",
+        "soru_metni": "Fill in the blank according to the information above.\n.... do most of the chores in the house.",
+        "secenekler": {
+            "A": "Mothers",
+            "B": "Parents",
+            "C": "Children",
+            "D": "Fathers"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 3,
+        "konu": "9. Science",
+        "kontext": "[GRAPH: Who does the chores in your house?]\nThe visuals show the distribution of household chores among family members.\nPie Chart Results (Overall Percentage):\nMothers: 42%\nFathers: 42%\nChildren: 16%\nBar Chart Details:\nVacuuming: Mothers and Fathers are equal (High), Children are low.\nSetting the table: Fathers do it the most.\nMaking the beds: Mothers do it the most.\nCooking: Mothers and Fathers are equal.\nShopping: Mothers and Fathers are equal.",
+        "soru_metni": "Which of the following is CORRECT according to the information?",
+        "secenekler": {
+            "A": "Every member of the family takes part in all the household chores",
+            "B": "Fathers spend more time on cooking than mothers and children do.",
+            "C": "Mothers are in charge of making the beds less than other members of the family.",
+            "D": "The number of mothers vacuuming the house is the same as the number of fathers."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 4,
+        "konu": "8. Chores",
+        "kontext": "[POSTER: Student Responsibilities]\nAs a student of class 3 – A, I accept to obey all the rules in my classroom.\nStudy hard and do all my homework.\nDress appropriately.\nRespect all students and teachers.\nCome to class on time.\nHelp other students.\nListen carefully to my teacher.\nKeep the classroom clean and tidy.\nName: Susan Bell\nSignature: Susan",
+        "soru_metni": "A student in this class should - - - -.",
+        "secenekler": {
+            "A": "hit their friends",
+            "B": "be late for the lesson",
+            "C": "not do their homework",
+            "D": "not throw garbage on floor"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 5,
+        "konu": "10. Natural Forces",
+        "kontext": "[NOTE: DISASTERS IN HISTORY]\nDISASTER : - - - -\nDATE : March 2, 1933\nLOCATION : Japan\nMAGNITUDE : 8.4",
+        "soru_metni": "Which of the following completes the gap in the visual?",
+        "secenekler": {
+            "A": "Earthquake",
+            "B": "Forest fire",
+            "C": "Drought",
+            "D": "Flood"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 6,
+        "konu": "2. Teen Life",
+        "kontext": "Tony and Julia are school friends. They have similar and different interests and responsibilities. The table below shows how they spend their free time and the activities they enjoy doing.\n[BAR CHART: How do Julia and Tony spend their free time?]\nVisual Data Summary:\nCultural activities: Julia (High ~33%) / Tony (None)\nDoing chores: Julia (Medium) / Tony (Low)\nDoing homework: Tony (Medium) / Julia (Low)\nFriends: Julia (Medium) / Tony (Low)\nFamily: Julia (Medium) / Tony (Low)\nThe Internet: Tony (Very High ~35%) / Julia (None)\nDoing Sports: Julia and Tony are equal (~25%)",
+        "soru_metni": "Which of the following is NOT correct according to the information?",
+        "secenekler": {
+            "A": "Both Tony and Julia like physical exercise.",
+            "B": "They spend same amount of time helping housework.",
+            "C": "Julia spends more time with her friends than Tony.",
+            "D": "Tony enjoys spending time online most."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 7,
+        "konu": "5. The Internet",
+        "kontext": "People use the Internet for different reasons. A research compared what happens on the Internet in 60 seconds. The research looked at the years 2018 and 2019.\n[CHARTS: Internet in 60 seconds]\n2018:\nLogged in to social media accounts: 973.000\nMessages sent: 38.000.000\nVideos seen: 4.300.000\nPhotos uploaded: 2.400.000\nApps downloaded: 375.000\nE-mails sent: 187.000.000\n2019:\nLogged in to social media accounts: 1.000.000\nMessages sent: 41.600.000\nVideos seen: 4.500.000\nPhotos uploaded: 2.300.000\nApps downloaded: 390.030\nE-mails sent: 188.000.000",
+        "soru_metni": "Complete the sentence.\n.... in 2019 than they did in 2018.",
+        "secenekler": {
+            "A": "Less people logged in to their social media account",
+            "B": "More people downloaded photos",
+            "C": "People watched more videos",
+            "D": "People wrote less e-mails"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 8,
+        "konu": "6. Adventures",
+        "kontext": "An extreme sports complex conducted a research on what people think about extreme sports. Here are some of the answers:\n[OPINIONS]\nAndy: \"I love extreme sports. I prefer climbing. I go climbing with my friends about three times a year.\"\nJessica: \"I love doing water extreme sports not the others. I am in love with sea. My favourite is exploring fish under water.\"\nAmelie: \"I am afraid of extreme sports so I prefer indoor exercises. I do sports three or four times a week.\"\nJason: \"I love nature so I like sports such as trekking and canoeing. With the school trekking club, we try a new route every month.\"",
+        "soru_metni": "Which of the following CANNOT be correct according to the people’s answers?",
+        "secenekler": {
+            "A": "Amelie loves sports like bungee jumping.",
+            "B": "Jessica enjoys the scuba diving most.",
+            "C": "Andy likes camping in the mountains.",
+            "D": "Jason is an eco-friendly person."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 9,
+        "konu": "7. Tourism",
+        "kontext": "The website helps tourists to plan their trip according to their interests. First, write where you are going. Then, choose the topics you are interested in. The website finds the appropriate places or activities for you.\n[WEBSITE INTERFACE: PLAN YOUR TRIP]\nDestination input field\nDate / Adult / Child selectors\nChoose Interests:\nCulture\nMuseum\nFood and Drink\nFun\nWildlife\nBeaches\nShopping\nHistoric Sites",
+        "soru_metni": "If you are interested in eating local food, going to concerts and swimming, which options should you choose?",
+        "secenekler": {
+            "A": "Culture, Wildlife and Fun",
+            "B": "Beaches, Fun, and Food & Drink",
+            "C": "Historic Sites, Beaches and Wildlife",
+            "D": "Food & Drink, Shopping and Museum"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 10,
+        "konu": "8. Chores",
+        "kontext": "Emily Jones is our teacher. Every week, she gives rewards to the students who has the most smiling faces for each title on the table. Last week, Jack got a book for keeping the class clean because he had the most smiling faces.\n[TABLE: Responsibilities in Class]\nTitles:\nComing to class on time\nHelping other students\nDoing your homework\nKeeping the class clean\nScores (Smileys):\nMark: 3, 3, 4, 2\nLily: 5 (Winner of 'Coming on time'), 2, 3, 2\nJennifer: 2, 5 (Winner of 'Helping others'), 3, 1\nAmelie: 4, 3, 5 (Winner of 'Doing homework'), 3\nJack: 3, 4, 3, 5 (Winner of 'Keeping clean')",
+        "soru_metni": "Unfortunately, - - - - could not get any prize last week.",
+        "secenekler": {
+            "A": "Jennifer",
+            "B": "Amelie",
+            "C": "Lily",
+            "D": "Mark"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 11,
+        "konu": "7. Tourism",
+        "kontext": "[CHARACTER: Fiona]\nI work in a big city so holidays are important for me. I prefer summer holidays. I love the sea and the beach but historic places attract me most. I have exciting plans for next summer. First, I am going to visit an ancient city because I like walking through old cities and learning about different cultures. Then, I will go to a beautiful hotel by the beach and swim every day.",
+        "soru_metni": "Where is she going to start her holiday?",
+        "secenekler": {
+            "A": "Image of a beach",
+            "B": "Image of an ancient city",
+            "C": "Image of a hot air balloon",
+            "D": "Image of a modern city"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 12,
+        "konu": "7. Tourism",
+        "kontext": "[BROCHURE: TRAVEL TO TURKEY]\nBALIKESİR: It’s famous for Mount Ida (Kazdağı), special desserts, seafood and local bazaars. You can enjoy swimming and the beautiful beaches.\nRİZE: Rize is famous for its natural beauties. Its most important features are: tea gardens, fish (hamsi) and local folk dance (horon). There are so many routes to go trekking.\nADIYAMAN: It is a city of culture and ancient cities. Mount Nemrut is on the World Heritage List. It is also worth going for its local bazaars and of course its delicious food, especially meatballs (çiğ köfte).\nVAN: Van is not by the sea, but it has Turkey’s biggest lake. It is one of the best places for rafting and paragliding. Local bazaars and its famous breakfast attract many local and foreign tourists.\n[SCENARIO]\nAfter Andrew saw the brochure, he decided to go to Turkey because he studies history at university. He thinks this trip will be useful for his lessons.",
+        "soru_metni": "Which city should he go?",
+        "secenekler": {
+            "A": "Adıyaman",
+            "B": "Balıkesir",
+            "C": "Rize",
+            "D": "Van"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 13,
+        "konu": "7. Tourism",
+        "kontext": "[BROCHURE: TRAVEL TO TURKEY]\nBALIKESİR: It’s famous for Mount Ida (Kazdağı), special desserts, seafood and local bazaars. You can enjoy swimming and the beautiful beaches.\nRİZE: Rize is famous for its natural beauties. Its most important features are: tea gardens, fish (hamsi) and local folk dance (horon). There are so many routes to go trekking.\nADIYAMAN: It is a city of culture and ancient cities. Mount Nemrut is on the World Heritage List. It is also worth going for its local bazaars and of course its delicious food, especially meatballs (çiğ köfte).\nVAN: Van is not by the sea, but it has Turkey’s biggest lake. It is one of the best places for rafting and paragliding. Local bazaars and its famous breakfast attract many local and foreign tourists.\n[SCENARIO]\nAfter Andrew saw the brochure, he decided to go to Turkey because he studies history at university. He thinks this trip will be useful for his lessons.",
+        "soru_metni": "Complete the sentence.\nIn all the cities, a tourist can - - - -.",
+        "secenekler": {
+            "A": "enjoy extreme sports",
+            "B": "see an ancient city",
+            "C": "do water sports",
+            "D": "taste local food"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 14,
+        "konu": "7. Tourism",
+        "kontext": "[WEBSITE: ITALY TRAVEL GUIDE]\nHow To Travel: Around the city: Travelling by bus is cheap, but it isn't the fastest way.\nWhat to do: Explore Ancient Rome, Enjoy the countryside, Try different types of pasta, Attend a traditional food festival.\nWhere to stay: Choose a hotel around the places you will go, so you can walk and enjoy the streets in the city. Try staying in the countryside.\nWhen to visit: There’s really no “bad” time to visit Italy. You can enjoy Italy the whole year. Especially in April to July.",
+        "soru_metni": "On the website, you can find information about - - - -.",
+        "secenekler": {
+            "A": "cheaper accommodation tips",
+            "B": "appropriate months to go to Italy",
+            "C": "activities that local people enjoy most",
+            "D": "fastest transportation way to the countryside"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 15,
+        "konu": "6. Adventures",
+        "kontext": "[TEXT: CANOEING TIPS]\nCanoeing is a very exciting experience, but you must plan your trip very carefully...\nTake a course because you need to learn safety rules.\nGet appropriate things to wear for all weather conditions.\nDon’t forget to take food and water with you.\nThe trip starts with choosing the right place.\nChoose the right kind of boat.\nYou are ready for\na wonderful experience.",
+        "soru_metni": "There is no information about - - - -.",
+        "secenekler": {
+            "A": "clothes",
+            "B": "equipment",
+            "C": "climate",
+            "D": "training"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 16,
+        "konu": "9. Science",
+        "kontext": "[IMAGES: Mark Twain and Nikola Tesla]\nDo you know Mark Twain and Nikola Tesla? I'm sure you do!\nMark Twain (1835-1910) wrote many books and Nikola Tesla (1856-1943) was a famous scientist. They met in New York in 1880s. They spent a lot of time together and they shared a lot of ideas. When they were in different countries, they wrote letters to each other to keep in touch.\nTesla loved Twain’s books and Twain respected Tesla’s scientific work. Tesla invited Twain to his lab for a special day when he conducted an important experiment.",
+        "soru_metni": "We can understand from the text that Mark Twain and Nikola Tesla - - - -.",
+        "secenekler": {
+            "A": "had the same jobs",
+            "B": "were good friends",
+            "C": "usually argued",
+            "D": "rarely met"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 17,
+        "konu": "5. The Internet",
+        "kontext": "[IMAGE: SMARTPHONE SCREEN]\nTitle: Help\nMenu Options:\nNetworks (Icon: Wi-Fi symbol)\nSounds (Icon: Speaker)\nDate and time (Icon: Calendar/Clock)\nPasswords (Icon: Lock)",
+        "soru_metni": "Frank has a new telephone. He wants to join the Internet. Which icon should Frank click?",
+        "secenekler": {
+            "A": "Icon of Wi-Fi (Networks)",
+            "B": "Icon of Speaker (Sounds)",
+            "C": "Icon of Calendar/Clock (Date and time)",
+            "D": "Icon of Lock (Passwords)"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 18,
+        "konu": "5. The Internet",
+        "kontext": "[TEXT: A Safari Tour in Africa]\nA safari tour is an amazing experience that you will never forget. You will see the wild animals you have seen on TV in their natural environment. If you want to enjoy the safari, you should be careful. First, you should prefer appropriate clothes. Your clothes will protect you both from the heat and mosquitos. Then, you should always listen to the tour guides. They will always help you. Also, you should never leave the car or go near the animals. Don’t forget that animals look amazing, but they are wild. Finally, don’t forget that you are tourists, so you shouldn’t disturb the animals while you take photos.",
+        "soru_metni": "If you want to have a safe and amusing safari tour, you should - - - -.",
+        "secenekler": {
+            "A": "wear comfortable clothes",
+            "B": "be close to the animals",
+            "C": "not stay in the tour car",
+            "D": "not take any photos"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 19,
+        "konu": "5. The Internet",
+        "kontext": "[TEXT: A Safari Tour in Africa]\nA safari tour is an amazing experience that you will never forget. You will see the wild animals you have seen on TV in their natural environment. If you want to enjoy the safari, you should be careful. First, you should prefer appropriate clothes. Your clothes will protect you both from the heat and mosquitos. Then, you should always listen to the tour guides. They will always help you. Also, you should never leave the car or go near the animals. Don’t forget that animals look amazing, but they are wild. Finally, don’t forget that you are tourists, so you shouldn’t disturb the animals while you take photos.",
+        "soru_metni": "- - - - will help you during the safari.",
+        "secenekler": {
+            "A": "Heat",
+            "B": "Mosquitos",
+            "C": "Tour guides",
+            "D": "Wild animals"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 20,
+        "konu": "6. Adventures",
+        "kontext": "[Martin's Speech]\nExtreme sports are popular all over the world. People enjoy the adventure and fun. I am one of them. I like extreme sports because they are exciting. I tried paragliding before and I enjoyed it. Then, I tried water extreme sports such as diving, kayaking and rafting. They are all exciting, but I enjoy exploring the fish and sea animals the most. I think it is more amusing than all other sports. I also take photos of different kinds of fish.",
+        "soru_metni": "What is Martin’s favorite extreme sport?",
+        "secenekler": {
+            "A": "Paragliding",
+            "B": "Kayaking",
+            "C": "Rafting",
+            "D": "Diving"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 21,
+        "konu": "1. Friendship",
+        "kontext": "[INVITATION CARD: CLASS OF 2019]\nWe are leaving school and organizing a great event.\nWe hope to see all of you there!\nThere is food, music, dance and lots of fun!\nDate: Sunday, July 7\nTime: 9 p.m. to 11 p.m.\nLocation: City Hotel, Bridge Street\nContact person: Jack Smith (jack_smith@jmail.com)\nTicket price: 25 $ per person",
+        "soru_metni": "Complete the sentence.\nThe invitation card is for a/an - - - -.",
+        "secenekler": {
+            "A": "school lunch",
+            "B": "birthday party",
+            "C": "graduation party",
+            "D": "online exhibition"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 22,
+        "konu": "1. Friendship",
+        "kontext": "[INVITATION CARD: CLASS OF 2019]\nWe are leaving school and organizing a great event.\nWe hope to see all of you there!\nThere is food, music, dance and lots of fun!\nDate: Sunday, July 7\nTime: 9 p.m. to 11 p.m.\nLocation: City Hotel, Bridge Street\nContact person: Jack Smith (jack_smith@jmail.com)\nTicket price: 25 $ per person",
+        "soru_metni": "Complete the sentence.\nThe event will be - - - -.",
+        "secenekler": {
+            "A": "in the afternoon",
+            "B": "at the weekend",
+            "C": "$ 25 for 2 students",
+            "D": "in the school garden"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 23,
+        "konu": "1. Friendship",
+        "kontext": "[INVITATION CARD: CLASS OF 2019]\nWe are leaving school and organizing a great event.\nWe hope to see all of you there!\nThere is food, music, dance and lots of fun!\nDate: Sunday, July 7\nTime: 9 p.m. to 11 p.m.\nLocation: City Hotel, Bridge Street\nContact person: Jack Smith (jack_smith@jmail.com)\nTicket price: 25 $ per person",
+        "soru_metni": "Complete the sentence.\nIf students want to ask for more information, they should - - - -.",
+        "secenekler": {
+            "A": "call Jack by phone",
+            "B": "meet Jack on July 7",
+            "C": "visit Jack at the Hotel",
+            "D": "send an e-mail to Jack"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 24,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nAgent: This is Angela speaking. How can I help you?\nCustomer: I would like to make a reservation from Germany to Turkey on August 3.\nAgent: There is a flight at 11 o’clock in the morning and one at 2 o’clock in the afternoon.\nCustomer: One ticket for the 11 o’clock plane, please.\nAgent: Can you - - - -, please?\nCustomer: It’s Bridget Hopkins.",
+        "soru_metni": "Fill in the blank.",
+        "secenekler": {
+            "A": "repeat that again",
+            "B": "hold on a moment",
+            "C": "tell me your name",
+            "D": "spell your name"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 25,
+        "konu": "5. The Internet",
+        "kontext": "[IMAGE: COMPUTER SCREEN WITH SECURITY ICONS]\nThe image shows a computer screen with icons representing a user profile, a lock (security), email, camera, clock, and globe.\n[DIALOGUE]\nJeremy: You should be careful about the things you share on the Internet.\nPaul: What do you mean?\nJeremy: I mean don't - - - -.",
+        "soru_metni": "Complete the sentence.",
+        "secenekler": {
+            "A": "give personal information on the Internet",
+            "B": "shop from the websites you trust",
+            "C": "believe everything you read",
+            "D": "meet your online friends"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 26,
+        "konu": "3. In The Kitchen",
+        "kontext": "[INTERVIEW: Jack from Radio News & Carlos from Brazil]\nJack: I am Jack from Radio News. We are with Carlos from Brazil. What does a traditional breakfast include in Brazil, Carlos?\nCarlos: Well! Bread, fruit and some milk.\nJack: Sounds healthy! - - - - (1)?\nCarlos: It's Japanese food, especially Sushi.\nJack: - - - - (2)?\nCarlos: Twice a week.\nJack: And one last question! - - - - (3)?\nCarlos: Not me, definitely! It is my sister.",
+        "soru_metni": "Which question DOES NOT Jack ask Carlos?",
+        "secenekler": {
+            "A": "How often do you eat Japanese food?",
+            "B": "Why do Japanese people like Sushi?",
+            "C": "Who cooks well in your family?",
+            "D": "What is your favorite food?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 27,
+        "konu": "5. The Internet",
+        "kontext": "[CORKBOARD: TIPS FOR STAYING SAFE ONLINE]\nDon’t post any personal information online – like your address, e-mail or phone number.\nUse safe websites for online shopping.\nCreate strong passwords. They should be difficult to guess.\nDon’t open e-mails or files from people you don’t know.\nDon’t meet with people you have met online.",
+        "soru_metni": "Which option best completes the sentence?\nIf you want to be safe online, you should - - - -.",
+        "secenekler": {
+            "A": "invite people you met online to your house",
+            "B": "create a password such as your birthday",
+            "C": "buy things from websites you trust",
+            "D": "tell the place of your school"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 28,
+        "konu": "5. The Internet",
+        "kontext": "[NEWSPAPER CLIP]\nThe Internet has harmful effects, especially on young people. It can damage their social life, education and physical health. Firstly, young people don’t have many real friends, just online ones. Also, they get bad grades. Many students play computer games, but they don't do their homework. Another bad effect is on their physical health. For example, young people can have problems with their eyes because they look at the screen for a long time. So, young people should spend less time on the Internet.",
+        "soru_metni": "What can be the best title for the text?",
+        "secenekler": {
+            "A": "Dangerous Effects of Internet on Physical Health",
+            "B": "Disadvantages of Internet on Young People",
+            "C": "Social Life, Online Friends and Internet",
+            "D": "Internet: Bad for Teen’s Education"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 29,
+        "konu": "5. The Internet",
+        "kontext": "[NEWSPAPER CLIP]\nThe Internet has harmful effects, especially on young people. It can damage their social life, education and physical health. Firstly, young people don’t have many real friends, just online ones. Also, they get bad grades. Many students play computer games, but they don't do their homework. Another bad effect is on their physical health. For example, young people can have problems with their eyes because they look at the screen for a long time. So, young people should spend less time on the Internet.",
+        "soru_metni": "Complete the sentence.\nIf young people want to have better grades, they should - - - -.",
+        "secenekler": {
+            "A": "have real friends",
+            "B": "sit far away from the screen",
+            "C": "study more for their lessons",
+            "D": "play online games with their friends"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 30,
+        "konu": "6. Adventures",
+        "kontext": "[POSTER 1: PARAGLIDING]\nDate: 28th May\nCost: $ 50 for each person\nFeatures: Free food, Free bus service\nExtra Note: Paragliding parachute needs $ 30.\n[POSTER 2: SCUBA DIVING]\nDate: 17th April\nCost: $ 50 for each person\nFeatures: Free transportation, Equipment included, Free sandwiches for lunch.\n[SCENARIO]\nSteve loves extreme sports a lot. So far, he has tried several activities such as rafting and rock climbing. He wants to try a different sport, but he doesn’t have much money. He has two options. He prefers going scuba diving because - - - -.",
+        "soru_metni": "Which option completes the sentence?",
+        "secenekler": {
+            "A": "it is on April 17",
+            "B": "he doesn't like free food",
+            "C": "it offers free transportation",
+            "D": "he won't pay for equipment"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 31,
+        "konu": "3. In The Kitchen",
+        "kontext": "Charlotte is baking a brownie today. Here is her recipe:\nFirst, mix ½ cup of oil, 1 cup of sugar, and 1 teaspoon of vanilla in a bowl.\nSecond, add some flour, 1/3 cup of cocoa and ¼ teaspoon of baking powder into mixture.\nThen, whisk 2 eggs, and pour it into the bowl.\nMix all the ingredients (I use a mixer. It is easier ☺) and then, pour it into the cake pan.\nFinally, bake it in a preheated oven to 250 °C about 20 minutes.\nLet it cool before cutting into slices. Enjoy it!\nP.s.: Use eggs in room-temperature for better taste.",
+        "soru_metni": "Which tool will NOT Charlotte use while baking the brownie?",
+        "secenekler": {
+            "A": "A metal spatula",
+            "B": "A spoon",
+            "C": "An electric mixer",
+            "D": "A cake pan"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 32,
+        "konu": "3. In The Kitchen",
+        "kontext": "Charlotte is baking a brownie today. Here is her recipe:\nFirst, mix ½ cup of oil, 1 cup of sugar, and 1 teaspoon of vanilla in a bowl.\nSecond, add some flour, 1/3 cup of cocoa and ¼ teaspoon of baking powder into mixture.\nThen, whisk 2 eggs, and pour it into the bowl.\nMix all the ingredients (I use a mixer. It is easier ☺) and then, pour it into the cake pan.\nFinally, bake it in a preheated oven to 250 °C about 20 minutes.\nLet it cool before cutting into slices. Enjoy it!\nP.s.: Use eggs in room-temperature for better taste.",
+        "soru_metni": "You will have a more delicious cake if you - - - -.",
+        "secenekler": {
+            "A": "don't bake it in an oven you heated before",
+            "B": "break the eggs into the baking powder",
+            "C": "cut it into the slices after it cools",
+            "D": "don't use cold eggs"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 33,
+        "konu": "2. Teen Life",
+        "kontext": "The researcher, Professor Barclay, conducts research about teenagers’ daily routines. He compared young people in England and Korea. He asked young people about their habits.\n[ICONS & CATEGORIES]\nBlue Icon: Computer / Internet\nYellow Icon: Sports (Basketball, treadmill)\nGreen Icon: Arts (Theater, music, cinema)\nPink Icon: Books / Studying\n[RESULTS GRAPH]\nEnglish Teenagers (Total 12):\nInternet (Blue): 6 people\nSports (Yellow): 4 people\nStudy (Pink): 2 people\nArts (Green): 0 people\nKorean Teenagers (Total 12):\nInternet (Blue): 2 people\nSports (Yellow): 3 people\nStudy (Pink): 6 people\nArts (Green): 1 person",
+        "soru_metni": "Which sentence can be CORRECT according to the research results?",
+        "secenekler": {
+            "A": "Korean teens are more interested in sports than English teens are.",
+            "B": "Korean teens spend less time studying than English teens.",
+            "C": "English teens’ favorite activity is going online.",
+            "D": "English teens prefer artistic activities."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 34,
+        "konu": "2. Teen Life",
+        "kontext": "The researcher, Professor Barclay, conducts research about teenagers’ daily routines. He compared young people in England and Korea. He asked young people about their habits.\n[ICONS & CATEGORIES]\nBlue Icon: Computer / Internet\nYellow Icon: Sports (Basketball, treadmill)\nGreen Icon: Arts (Theater, music, cinema)\nPink Icon: Books / Studying\n[RESULTS GRAPH]\nEnglish Teenagers (Total 12):\nInternet (Blue): 6 people\nSports (Yellow): 4 people\nStudy (Pink): 2 people\nArts (Green): 0 people\nKorean Teenagers (Total 12):\nInternet (Blue): 2 people\nSports (Yellow): 3 people\nStudy (Pink): 6 people\nArts (Green): 1 person",
+        "soru_metni": "Which can NOT be one of the questions in the questionnaire?",
+        "secenekler": {
+            "A": "What do you do on the weekends?",
+            "B": "Why do you like going to the movies?",
+            "C": "What is your favorite free-time activity?",
+            "D": "Which activities do you do on the Internet?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 35,
+        "konu": "4. On The Phone",
+        "kontext": "[VISUAL: A mechanic on the phone and a man with a broken car]\n[DIALOGUE]\nMr. Cullingham: Hello, Mr. Archlair. My car is not working. I don’t know the problem.\nMr. Archlair: Hi, Mr. Cullingham. Oh, I am sorry to hear that.\nMr. Cullingham: And I have a meeting at ten o’clock.\nMr. Archlair: OK. Tell me where you are and - - - -.",
+        "soru_metni": "Choose the correct option to complete the dialogue.",
+        "secenekler": {
+            "A": "I hope you will be more careful when you drive",
+            "B": "I will send someone to take you and your car",
+            "C": "I will see your car if you come to the garage",
+            "D": "I will go to the meeting if you really want"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 36,
+        "konu": "1. Friendship",
+        "kontext": "[INVITATION CARD: HAPPY FRIENDSHIP DAY]\n\"A best friend backs you up, gets on well with you and loves you all the time.\"\nWe are organizing a meeting for Friendship Day. It is very exciting because friends will be together. We will have a lot of fun. Join us!!\nContact: Sophia Bandley (Maths Teacher) - 05011234567\nLocation: Future Schools\nDate: Tuesday, July 30\nTime: 5:00 p.m. to 8:00 p.m.",
+        "soru_metni": "Classmates come together on July 30 because - - - -.",
+        "secenekler": {
+            "A": "some of them like activities",
+            "B": "they like playing games together",
+            "C": "their teachers want to organize a party",
+            "D": "there is an organization on Friendship Day"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 37,
+        "konu": "1. Friendship",
+        "kontext": "[INVITATION CARD: HAPPY FRIENDSHIP DAY]\n\"A best friend backs you up, gets on well with you and loves you all the time.\"\nWe are organizing a meeting for Friendship Day. It is very exciting because friends will be together. We will have a lot of fun. Join us!!\nContact: Sophia Bandley (Maths Teacher) - 05011234567\nLocation: Future Schools\nDate: Tuesday, July 30\nTime: 5:00 p.m. to 8:00 p.m.",
+        "soru_metni": "According to the saying on the card, your best friend can count on you because - - - -.",
+        "secenekler": {
+            "A": "you always support him/her",
+            "B": "you can organize a meeting together",
+            "C": "you have a lot of fun with your teachers",
+            "D": "your friends come together on Friendship Day"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 38,
+        "konu": "3. In The Kitchen",
+        "kontext": "[RECIPE: How to Make a Cupcake]\nFirst, heat the oven at 200 °C.\nMix two eggs with a cup of sugar.\nNext, add some milk, flour, oil and powder.\nThen, mix all the ingredients and pour the mixture into the cups.\nFinally, put the cups into the oven and bake for 30 minutes.\nCupcakes are ready. Enjoy.",
+        "soru_metni": "Which picture shows the step after mixing the ingredients?",
+        "secenekler": {
+            "A": "Image of whisking eggs",
+            "B": "Image of pouring mixture",
+            "C": "Image of baking in oven",
+            "D": "Image of ready cupcakes"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 39,
+        "konu": "1. Friendship",
+        "kontext": "[LARISSA'S WEEKLY PLANS]\nMonday: Shopping with my sister\nTuesday: Watching a movie\nWednesday: Going to the concert \"Beyoncé\"\nThursday: Meeting with friends\nFriday: Visiting the library\nSaturday: Swimming\nSunday: Helping mother with the housework\n[DIALOGUE]\nWendy: Hey Larissa. It's Wendy. Are you free this weekend?\nLarissa: Hi Wendy! Why are you asking?\nWendy: I want to go to the new Chinese restaurant with you in the afternoon.\nLarissa: - - - -.",
+        "soru_metni": "Which of the followings completes the dialogue?",
+        "secenekler": {
+            "A": "My sister and I will go shopping together",
+            "B": "I'm sorry, I have to finish my homework",
+            "C": "I'd love to, but I have things to do",
+            "D": "Of course, I will be there on time"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 40,
+        "konu": "7. Tourism",
+        "kontext": "[BROCHURE]\nAre you interested in nature?\nWould you like to take a balloon tour?\nWhat about trying horse riding or paragliding?\nThen, take a trip to Göreme between August 28-30.\nEnjoy a two-night stay at a five-star hotel.\nFor more information call: 0 500 123 45 67\n[IMAGES]\nVisuals of Fairy Chimneys (Peri Bacaları) and Hot Air Balloons in Cappadocia.",
+        "soru_metni": "Which question is NOT answered in the text?",
+        "secenekler": {
+            "A": "What do we eat?",
+            "B": "How long is the trip?",
+            "C": "What activities do you offer?",
+            "D": "Where do we stay during the trip?"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 41,
+        "konu": "1. Friendship",
+        "kontext": "Alice invites her friends for some activities. Here is some information about the invitation and answers:\n[TABLE: INVITATIONS]\nActivity: Going trekking | Day: Monday | Invitee: Sally | Answer: \"I’d love to but I can’t.\"\nActivity: Cycling | Day: Wednesday | Invitee: Jane | Answer: \"Yeah, why not?\"\nActivity: Drinking something at a cafe | Day: Saturday | Invitee: Mary | Answer: \"Sure, it sounds great.\"",
+        "soru_metni": "Which of the following does NOT have an answer in the table above?",
+        "secenekler": {
+            "A": "Which activity is at the weekend?",
+            "B": "When does Alice want to ride a bike?",
+            "C": "Who refuses the offer giving a reason?",
+            "D": "How many people accept the invitation?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 42,
+        "konu": "2. Teen Life",
+        "kontext": "[TEXT]\nTim: I have to stay home to be safe because of COVID-19. Being at home is a bit difficult, so I am trying to do different things every day. Here are my favourite activities for each day:\n[CALENDAR]\nMonday: Listening to my favourite band\nTuesday: Practising my French\nWednesday: Trying new recipes with my mum\nThursday: Playing chess with my dad\nFriday: Watching a pop concert\nSaturday: Joining an online drawing course\nSunday: Painting",
+        "soru_metni": "Tim - - - -.",
+        "secenekler": {
+            "A": "spends time only with his mum",
+            "B": "listens to music only once a week",
+            "C": "studies two different languages",
+            "D": "does art at the weekend"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 43,
+        "konu": "3. In The Kitchen",
+        "kontext": "Amy and Pam want to join a cooking course together. They both like preparing different desserts and salads. Both of them want to spend less than 70$ for the course. Amy is available between 5th and 12th July. Pam has to be at school on 10th July.\n[TABLE: KITCHEN SKILLS]\nCourse 1: Ice Cream Master | 75$ | July 3-7\nCourse 2: Pasta House | 50$ | July 5-9\nCourse 3: Chocolate World | 40$ | July 6-8\nCourse 4: Vegetable Garden | 60$ | July 7-11",
+        "soru_metni": "According to the information above, which of the following should they choose?",
+        "secenekler": {
+            "A": "Course 1",
+            "B": "Course 2",
+            "C": "Course 3",
+            "D": "Course 4"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 44,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nScott: Hello, Scott is speaking. How may I help you?\nTina: Hi! I’d like to book a ticket for a jazz concert.\nScott: Sure. Which one do you prefer, August 21st or August 25th?\nTina: August 25th, please.\nScott: Could I have your name and phone number, please?\nTina: Tina White. My phone number is 48978565. Can I learn when the concert starts?\nScott: It starts at 7 pm and it is 3 hours long. It is at the Woods Centre.\nTina: Thank you.\nScott: You’re welcome. Please get your ticket before the concert.\n[IMAGE: TICKET]\nDate: 25 August\nTime: 7-11 pm\nEvent: JAZZ Concert\nLocation: Woods Centre",
+        "soru_metni": "Which information on the ticket is NOT correct according to the conversation above?",
+        "secenekler": {
+            "A": "genre",
+            "B": "time",
+            "C": "date",
+            "D": "place"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 45,
+        "konu": "5. The Internet",
+        "kontext": "Mary and her friends spend most of their free time on the Net at weekends. Here is some information about what they do when they are online:\nMary keeps in touch with her friends on the Net.\nOne of them takes an online foreign language course.\nTwo of them use the Net for the same purpose.",
+        "soru_metni": "According to the information above, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Mary: Sending e-mails | Julia: Doing research | Rose: Downloading articles | Ashley: Chess training",
+            "B": "Mary: Following her favourite series | Julia: Watching movies | Rose: Having video chats | Ashley: Practising Italian",
+            "C": "Mary: Using social networking sites | Julia: Learning French | Rose: Reading e-books | Ashley: Checking bank accounts",
+            "D": "Mary: Chatting online | Julia: Doing online shopping | Rose: Studying Spanish | Ashley: Ordering what she needs"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 46,
+        "konu": "2. Teen Life",
+        "kontext": "[CONVERSATION]\nDaisy: What do you like doing in your free time?\nJanet: I don’t miss any plays. I am also fond of jazz and pop, but I dislike playing an instrument and playing team sports.\nSam: I enjoy buying new things. I also like doing sports. However, painting and seeing a play are unbearable for me.",
+        "soru_metni": "According to the conversation above, which of the following are the most appropriate activities for Janet and Sam?",
+        "secenekler": {
+            "A": "Janet: playing volleyball, joining a guitar course / Sam: going to the shopping mall, doing basketball training",
+            "B": "Janet: watching a play, going to a concert / Sam: going to the theatre, joining a drawing course",
+            "C": "Janet: swimming, playing the piano / Sam: watching a play, visiting an art exhibition",
+            "D": "Janet: listening to music, going to the theatre / Sam: cycling, going shopping"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 47,
+        "konu": "1. Friendship",
+        "kontext": "Simon is planning to go to a book fair on Saturday afternoon with his friends. He sends his friends a message to invite them to the fair. The table below shows his friends’ plans for Saturday:\n[TABLE: PLANS FOR SATURDAY]\nBetty: going to a concert with Jane (4 pm - 7 pm)\nCarl: visiting grandparents (10 am - 1 pm)\nTom: doing sports (9 am - 12 pm)\nLily: seeing a new play (3 pm - 7 pm)",
+        "soru_metni": "According to the information above, which of the following is NOT an appropriate reply to Simon’s invitation?",
+        "secenekler": {
+            "A": "Hi, buddy. That’s a good idea. I can join you after my football training.",
+            "B": "Simon, the activity sounds a bit boring, but I will be there after our family breakfast.",
+            "C": "Hello, Simon. That’s really awesome but I will go to the cinema with my sister.",
+            "D": "Hey, that’s cool but in the afternoon I will go and listen to my favourite band."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 48,
+        "konu": "3. In The Kitchen",
+        "kontext": "[VISUAL: A boy talking about party preparations]\nMy parents are going to have some guests for a party at home tonight. We are all very excited. All of us are doing something. We are helping each other. My mother is baking the chicken and my father is preparing the salad. I am making the desserts and my sister is setting the table.",
+        "soru_metni": "Which of the following has an answer in the text?",
+        "secenekler": {
+            "A": "Why are they having a party?",
+            "B": "When is the party going to be?",
+            "C": "Who is preparing the drinks?",
+            "D": "Which desserts is Mike making?"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 49,
+        "konu": "4. On The Phone",
+        "kontext": "[PHONE CONVERSATION]\nCustomer Service: Hello, how can I help you?\nAlice: Hi, I want to book a flight ticket from London to New York.\nCustomer Service: Sure. One way or return?\nAlice: Return.\nCustomer Service: Can you tell me the dates on which you want to travel?\nAlice: June 15th and June 26th.\nCustomer Service: Can I have your name and phone number, please?\nAlice: Alice Black, 09502345678.\nCustomer Service: Your flight is reserved. Have a good flight.",
+        "soru_metni": "Which of the following does NOT have an answer in the conversation above?",
+        "secenekler": {
+            "A": "What is the phone conversation about?",
+            "B": "What is the destination of the flight?",
+            "C": "What are the dates of the flights?",
+            "D": "What is Alice's reason for travelling?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 50,
+        "konu": "5. The Internet",
+        "kontext": "Sally and her friends answered a survey to learn if they are Internet addicts. Here are their answers:\n[SURVEY: ARE YOU AN INTERNET ADDICT?]\nQuestions:\n1.Do you play online games every day?\n2.Do you use the Internet to do your homework?\n3.Do you have more than two social media accounts?\n4.Do you comment on all of your friends’ photos?\n5.Do you spend more than three hours online every day?\nNote: If you have answered more than three of the questions with YES, you are an Internet addict.\n[RESULTS]\nSally: Yes to Q2, Q3, Q4, Q5 (4 Yes) -> Addict\nTom: Yes to Q1, Q3, Q4 (3 Yes) -> Not addict (Needs more than 3)\nMaria: Yes to Q2, Q4 (2 Yes) -> Not addict\nJack: Yes to Q1, Q3, Q4, Q5 (4 Yes) -> Addict",
+        "soru_metni": "Which of the following is NOT correct according to the results of the survey?",
+        "secenekler": {
+            "A": "Sally and Maria use the Internet to get help for their lessons.",
+            "B": "Tom and Jack spend more time on the Net than the others.",
+            "C": "All of them share their opinions about their friends online.",
+            "D": "Two people are Internet addicts according to the results."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 51,
+        "konu": "6. Adventures",
+        "kontext": "[POSTER: SUMMER CAMP]\nDate: 3-12 July\nSlogan: Great Fun • For Ages 7-14\nRequirement: Bring your compass!\nActivities:\n\tTrekking\n\tFishing\n\tSitting around the fire\nPlaying board games\nVisuals: Tents, mountains, compass, kids fishing and playing chess.",
+        "soru_metni": "Which of the following does NOT have an answer in the poster?",
+        "secenekler": {
+            "A": "Which equipment do we need?",
+            "B": "Which activities can we do?",
+            "C": "Where do we meet?",
+            "D": "How long is the camp?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 52,
+        "konu": "2. Teen Life",
+        "kontext": "[TEXT: Frank's Daily Routine]\nHello. My name is Frank. I’m 14 years old and a student in 8th grade. On weekdays, I get up at 7:30. I wash my hands and face before I have breakfast with my family. I go to school at 8:40. After school, I like reading books and playing chess with my brother, David. I usually read detective books. I don’t like biographical books. My friends and I play basketball on Saturday afternoons. We have lots of fun together. I do my homework on Sunday mornings and help my mother in the kitchen. On Sunday afternoons, I like drawing pictures and spending time on the Internet.",
+        "soru_metni": "Which of the following does NOT have an answer in the text?",
+        "secenekler": {
+            "A": "What kind of games does Frank like playing?",
+            "B": "What time does he get up on Tuesdays?",
+            "C": "What does he do before the breakfast?",
+            "D": "Where does he play basketball?"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 53,
+        "konu": "3. In The Kitchen",
+        "kontext": "[RECIPE: Vegetable Soup]\nVegetable soup is very healthy and easy to prepare. You can make it at home in nearly 40 minutes.\nFirst, peel an onion, two carrots, a potato and rinse them under water. Then, rinse a red pepper and broccoli under water. Second, chop the onion and dice the other vegetables.\nPut four tablespoons of olive oil in a large pot and heat it for half a minute. Then, add the onion and carrots. After cooking them for 5 minutes, add half a cup of flour and stir them for 2 minutes. Then, add the other vegetables and 5 glasses of water. After that, sprinkle a teaspoon of salt and cook for around 20 minutes over low heat. Finally, add 1/2 teaspoon of black pepper and your vegetable soup is ready to eat. Serve it hot.\nGood appetite!",
+        "soru_metni": "According to the text, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Making vegetable soup takes less than an hour.",
+            "B": "Adding some milk to the soup makes it tastier.",
+            "C": "There is sugar and honey in the soup.",
+            "D": "We don’t need any onions for the soup."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 54,
+        "konu": "4. On The Phone",
+        "kontext": "[SCENARIO]\nSusan organizes a birthday party at 8 pm on Monday and calls Mary to invite her. However, Mary doesn't answer the phone, so Susan leaves a message.",
+        "soru_metni": "Which of the following is Susan’s message?",
+        "secenekler": {
+            "A": "I think you’re not available now, I’ll call you in the evening.",
+            "B": "I’m busy now, I’ll get back to you as soon as possible.",
+            "C": "It’s a bad line. Could you get back to me later?",
+            "D": "I’m not at home right now, I’ll talk to you soon."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 55,
+        "konu": "5. The Internet",
+        "kontext": "A teacher asks 100 students why they use the Internet. Here are their answers:\n12 students use the Internet to chat.\n24 students use the Internet to share their photos.\n42 students use the Internet to learn something new.\n22 students use the Internet to follow their favourite series.",
+        "soru_metni": "Which of the following is CORRECT according to the information above?",
+        "secenekler": {
+            "A": "Only a few students search new things on the Internet.",
+            "B": "Nearly 25% of the students post photos on the Internet.",
+            "C": "Half of the students prefer watching something on the Internet.",
+            "D": "20% of the students use the Internet for communication."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 56,
+        "konu": "2. Teen Life",
+        "kontext": "Sarah likes comedy films and science fiction movies. However, she finds dramas unbearable. Her 14 year old son, Tim, is fond of watching action movies and comedies. He also thinks science fiction movies are interesting. Sarah wants to go to the cinema on Sunday morning with her son. She wants to find a movie that is appropriate for both of their preferences.\n[WEBSITE: DIMPLE CINEMAS]\nRidiculous Man: Comedy | Age: 6+ | 10:30 am / 9 pm\nOut of the World: Science fiction | Age: 10+ | 4 pm / 11 pm\nImpressive Life: Drama | Age: 13+ | 10 am / 10 pm\nLast Two Hours: Action | Age: 16+ | 10:30 am / 11:30 pm",
+        "soru_metni": "According to the information above, which of the following is an appropriate movie for Sarah and Tim?",
+        "secenekler": {
+            "A": "Ridiculous Man",
+            "B": "Out of the World",
+            "C": "Impressive Life",
+            "D": "Last Two Hours"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 57,
+        "konu": "2. Teen Life",
+        "kontext": "Alice, David, Mary and Tom are planning different free time activities for this week.\n[PLANS]\nAlice is going to go to the cinema with her friends.\nTom is going to go to the café with his buddies.\nDavid is going to ride a bike in the morning.\nMary is going to play bowling after school.\n[TABLE: WEEKLY SCHEDULE]\nMonday: Doing sports (Bowling fits here -> Mary)\nThursday: Meeting friends (Café fits here -> Tom)\nSaturday: Cycling (Riding a bike fits here -> David)\nSunday: Watching a movie (Cinema fits here -> Alice)",
+        "soru_metni": "According to the information above, who is NOT planning an activity for the weekend?",
+        "secenekler": {
+            "A": "Mary and Alice",
+            "B": "Mary and Tom",
+            "C": "David and Tom",
+            "D": "David and Alice"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 58,
+        "konu": "3. In The Kitchen",
+        "kontext": "Sam invites his friend, Tom, to dinner. He wants to prepare meals according to Tom’s preferences. Here is some information about Tom’s food preferences:\nTom prefers meat to fish.\nHe dislikes green vegetables.\nHe isn’t keen on cold desserts.",
+        "soru_metni": "According to the information above, which of the following is the most appropriate menu for Tom?",
+        "secenekler": {
+            "A": "Potato Soup, Meatball, Ice Cream",
+            "B": "Parsley Soup, Grilled Chicken, Cake",
+            "C": "Lentil Soup, Fish, Pudding",
+            "D": "Tomato Soup, Steak, Hot Cocoa Rolls"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 59,
+        "konu": "5. The Internet",
+        "kontext": "Mr. Black asked 100 students about their mobile phone usage habits. Here are the results:\nMore than half of the students use it to keep in touch with their friends. (Communication > 50%)\nThe number of the students who use mobile phones to find articles related to their lessons is less than all others. (Doing research < Communication, Fun, Online Shopping)\nPlaying online games using mobile phones is as popular as buying things from the Internet. (Fun = Online shopping)\n[GRAPH LEGEND]\nWhite: Communication\nPink: Doing research\nYellow: Fun\nStriped: Online shopping",
+        "soru_metni": "According to the results of the survey, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Chart A (Communication 60%, Research 10%, Fun 15%, Shopping 15%)",
+            "B": "Chart B (Communication 65%, Research 15%, Fun 10%, Shopping 10%)",
+            "C": "Chart C (Communication 55%, Research 5%, Fun 30%, Shopping 10%)",
+            "D": "Chart D (Communication 45%, Research 15%, Fun 20%, Shopping 20%)"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 60,
+        "konu": "5. The Internet",
+        "kontext": "[TEXT]\nOnline games are very popular among young people. Lots of children are becoming addicted to the Internet and online games. They play online games on their tablets or smartphones. These children spend 6-10 hours online and they rarely have face-to-face communication with their families. Some of them refuse to go to school because they want to stay at home and play games. Parents are not happy about their children.",
+        "soru_metni": "Which of the following does NOT have an answer in the text above?",
+        "secenekler": {
+            "A": "What kind of devices can children use to play online games?",
+            "B": "How much time do the addicted children spend online?",
+            "C": "What are the reasons for online game addiction?",
+            "D": "How do parents feel about their children’s habits?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 61,
+        "konu": "3. In The Kitchen",
+        "kontext": "[DIALOGUE]\nPhilip: Hi, mom. I need your help. - - - - (1)?\nMom: Sure, honey.\nPhilip: - - - - (2)?\nMom: You need a cup of red lentil, a carrot, a potato, an onion, a tablespoon of olive oil, four cups of water and a pinch of salt.\nPhilip: They’re ready. - - - - (3)?\nMom: First, peel and cut the carrot, potato and onion. Second, wash the lentil. Put all of them into a pot. Then add water and cook them. After that, mix it with a blender. Finally, add olive oil and salt.\nPhilip: Thanks mom.",
+        "soru_metni": "Which of the following does NOT complete the conversation?",
+        "secenekler": {
+            "A": "Can you give me a recipe for lentil soup",
+            "B": "How long does it take to cook",
+            "C": "What are the preparation steps",
+            "D": "What are the ingredients"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 62,
+        "konu": "5. The Internet",
+        "kontext": "[DIALOGUE]\nTommy: Hey, there is an online course about Internet habits. - - - - (1)?\nLilly: That would be great. Because I often go online. - - - - (2)?\nTommy: I am sending you the link. Create an account, then register and log in. It will start at 9 p.m. tomorrow evening.\nLilly: - - - - (3). However, I will try to join it.",
+        "soru_metni": "Which of the following does NOT complete the conversation above?",
+        "secenekler": {
+            "A": "Would you like to register?",
+            "B": "My Internet is not working properly.",
+            "C": "What is the web address of the course?",
+            "D": "I am bad at face-to-face communication."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 63,
+        "konu": "6. Adventures",
+        "kontext": "[TEXT: Nick's Speech]\nWhen I go on a holiday, I try different sports. I tried skydiving last summer. It requires a lot of courage and it is really exciting. You jump from a plane with a parachute. I have also done rafting and it was awesome. You travel down the river and try to stay on the boat. It is challenging and dangerous but I would like to do it again. If you ask me which sport I liked more, I would say skydiving.",
+        "soru_metni": "The text above is mainly about Nick’s - - - -.",
+        "secenekler": {
+            "A": "plans about future holidays",
+            "B": "experiences with extreme sports",
+            "C": "preferences of equipment for skydiving",
+            "D": "thoughts about transportation options"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 64,
+        "konu": "1. Friendship",
+        "kontext": "Dean is organizing a chess tournament on Sunday. He sent messages to his friends to invite them. Here are their responses:\nTina: I will definitely be there. You have no chance to win.\nSam: That sounds great, but I will be out of the town at the weekend.\nClark: That’s a good idea. Text me about the time.\nPeter: I’d love to join, but I have football training. I can join you after it.",
+        "soru_metni": "According to the conversation above, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Tina isn’t interested in playing chess.",
+            "B": "Sam has to attend a course, so he can't join the tournament.",
+            "C": "Clark needs extra information about the event.",
+            "D": "Peter is available all day on Sunday."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 65,
+        "konu": "2. Teen Life",
+        "kontext": "Brian and Jenny want to do something different this weekend. Here is the list of their types of interests:\n[TABLE: INTERESTS]\nBRIAN: Technology, Books, Paintings\nJENNY: Sculpture, Sports, Fashion",
+        "soru_metni": "According to the table, which of the following is an appropriate place for them to go?",
+        "secenekler": {
+            "A": "Art exhibition",
+            "B": "Book fair",
+            "C": "Amusement park",
+            "D": "Cinema"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 66,
+        "konu": "6. Adventures",
+        "kontext": "Emily, Sandra and Sally want to try extreme sports together. However, they like doing different kinds of activities.\nEmily: enjoys being in the air.\nSandra: is interested in underwater sports.\nSally: is keen on speed.\n[SCHEDULE: ADRENALINE LOVERS]\nMonday: Wind-surfing, Skydiving, Paragliding\nTuesday: Archery, Skateboarding, Hot-air balloon\nWednesday: Skydiving, Motor racing, Scuba diving\nThursday: Wind-surfing, Skateboarding, Rafting",
+        "soru_metni": "According to the information above, which of the following is a suitable day for all of them?",
+        "secenekler": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Thursday"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 67,
+        "konu": "6. Adventures",
+        "kontext": "[TEXT: RAFTING ON ÇORUH RIVER]\nWould you like to try rafting on Çoruh River?\nÇoruh River is in the northeast of Turkey. It is one of the top ten white-water rivers in the world. Because of the water level, the best months for rafting here are May and June. Many travel companies organize rafting holidays on Çoruh River. They provide wet suits, helmets, life jackets and the other necessary things for rafting. While on a rafting holiday, you can camp by the river or you can stay in hotels or village houses.",
+        "soru_metni": "Which of the following is CORRECT according to the text?",
+        "secenekler": {
+            "A": "People have to bring their own rafting equipment.",
+            "B": "If you want to try rafting on Çoruh, go there in the winter.",
+            "C": "Çoruh is the most popular white-water river in the world.",
+            "D": "There are various accommodation options for rafting lovers."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 68,
+        "konu": "5. The Internet",
+        "kontext": "Here is Mike’s search history in the last two weeks:\n[BROWSER HISTORY LIST]\nFacts about websites\nOnline courses\nSocial media addiction\nInternet safety rules",
+        "soru_metni": "Which of the following is NOT related to Mike’s search history?",
+        "secenekler": {
+            "A": "The exact number of active Internet sites is unknown.",
+            "B": "New generation smart phone war takes new shape.",
+            "C": "92% of teens go online daily and 24% say they are always online.",
+            "D": "Many people practice a foreign language by using the Internet."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 69,
+        "konu": "7. Tourism",
+        "kontext": "Terry asked some of his friends about their holiday plans and wrote down their answers. Here are his notes:\n[TABLE: HOLIDAY PLANS]\nLily: She likes water sports, so she is going to swim and go scuba diving. | Dates: 13 - 20 June\nMary: She likes extreme sports. Therefore, she is going to do mountain biking and skydiving. | Dates: 18 - 22 May\nTom: He is going to a summer camp because many people from different nationalities are going to be there. He is going to learn more about their cultures. | Dates: 21 - 23 August\nDave: He is interested in history. Therefore, he is going to visit Göbeklitepe, Şanlıurfa which is nearly 12000 years old. | Dates: 22 - 24 April",
+        "soru_metni": "Which of the following is NOT correct according to the information above?",
+        "secenekler": {
+            "A": "Lily is planning a seaside holiday for the summer.",
+            "B": "Mary and Dave prefer different kinds of holidays.",
+            "C": "Lily's and Tom's holidays have the same duration.",
+            "D": "Dave is going to visit an ancient site."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 70,
+        "konu": "7. Tourism",
+        "kontext": "Terry asked some of his friends about their holiday plans and wrote down their answers. Here are his notes:\n[TABLE: HOLIDAY PLANS]\nLily: She likes water sports, so she is going to swim and go scuba diving. | Dates: 13 - 20 June\nMary: She likes extreme sports. Therefore, she is going to do mountain biking and skydiving. | Dates: 18 - 22 May\nTom: He is going to a summer camp because many people from different nationalities are going to be there. He is going to learn more about their cultures. | Dates: 21 - 23 August\nDave: He is interested in history. Therefore, he is going to visit Göbeklitepe, Şanlıurfa which is nearly 12000 years old. | Dates: 22 - 24 April",
+        "soru_metni": "Which of the following does NOT have an answer in the text above?",
+        "secenekler": {
+            "A": "Which equipment do they need on their holidays?",
+            "B": "Who prefers going on an adventure holiday?",
+            "C": "When are they going to have their holidays?",
+            "D": "Why are they going on such holidays?"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 71,
+        "konu": "3. In The Kitchen",
+        "kontext": "Mary, Tom, Lisa and John met at a restaurant. They all ordered what they like most.\n[PREFERENCES]\nMary: never eats meat.\nTom: prefers eating only vegetables.\nLisa: enjoys eating sweets with fruit.\nJohn: likes white meat and cold desserts.",
+        "soru_metni": "According to the information above, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "Mary ordered pasta as a main course.",
+            "B": "Tom chose salad and meatballs.",
+            "C": "Lisa ate a slice of strawberry cake.",
+            "D": "John had both grilled chicken and ice cream."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 72,
+        "konu": "5. The Internet",
+        "kontext": "Jack wants to create a password for his account and reads the rules below.\n[BOX: HOW TO CREATE STRONG PASSWORDS]\nUse at least ten characters.\nUse a mixture of letters, numbers and punctuation.\nDo not use ordered letters and numbers (e.g. abcde, 12345).\nDo not use personal information such as names, birth dates or phone numbers.",
+        "soru_metni": "Which of the following is an appropriate password for Jack?",
+        "secenekler": {
+            "A": "3.qa!iwf2m",
+            "B": "2007jack_7",
+            "C": "123123abc+",
+            "D": "5552660912"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 73,
+        "konu": "4. On The Phone",
+        "kontext": "A research company asked 100 people about why they usually called customer services. Here are their answers:\n35 people called to change an item they bought. (Matches: return a product - Yellow)\n20 people called to make a reservation for transportation. (Matches: book a flight ticket - Blue)\n15 people called to learn something new. (Matches: get information - Red)\nThe rest of them called when their products didn't reach them on time. (Matches: report late arriving products - Orange)",
+        "soru_metni": "Which of the following shows the results of the research?",
+        "secenekler": {
+            "A": "Get info: 15% | Return product: 30% | Book flight: 20% | Report late: 35%",
+            "B": "Get info: 15% | Return product: 35% | Book flight: 30% | Report late: 20%",
+            "C": "Get info: 15% | Return product: 35% | Book flight: 20% | Report late: 30%",
+            "D": "Get info: 15% | Return product: 20% | Book flight: 35% | Report late: 30%"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 74,
+        "konu": "5. The Internet",
+        "kontext": "[RULES FOR USING SOCIAL MEDIA SAFELY]\nDo not believe any information without confirming it.\nUse private settings to control your account.\nBe sure that you want to post a photo/video.\nDo not talk about your private life.\n[STATEMENTS]\nTom: In the evenings, I surf the Internet. When I see interesting news, I try to find out its source. (Follows Rule 1)\nSally: I am very careful before I post a photo or video online. (Follows Rule 3)\nChris: When I sign up to a social media site, I make sure that only my friends see what I post. (Follows Rule 2)\nEmily: When I am online, I tell everybody my birthday, where I live and what I like. (Violates Rule 4)",
+        "soru_metni": "Who does NOT follow the rules for using social media safely?",
+        "secenekler": {
+            "A": "Tom",
+            "B": "Sally",
+            "C": "Chris",
+            "D": "Emily"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 75,
+        "konu": "5. The Internet",
+        "kontext": "The visuals below show what kind of activities people did on the Net in a minute in 2018 and 2019.\n[2018]\nShared photos: 174.000\nDownloaded applications: 375.000\nSearched for information: 3.7 million\nWatched videos: 4.3 million\n[2019]\nShared photos: 347.222\nDownloaded applications: 390.030\nSearched for information: 3.8 million\nWatched videos: 4.5 million",
+        "soru_metni": "According to the results above, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "In 2018, people shared less photos than in 2019.",
+            "B": "More people watched videos on the Net in 2018 than in 2019.",
+            "C": "People downloaded more applications from the stores in 2019.",
+            "D": "About four million people used search engines both in 2018 and 2019."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 76,
+        "konu": "3. In The Kitchen",
+        "kontext": "Kingston family is in the kitchen. They are talking about their dinner. They want to eat chicken.\n[DIALOGUE]\nDaughter: I don’t like fatty food. I think it is unhealthy.\nFather: We can’t have a barbecue because it is rainy outside.\nSon: I don’t like baked chicken. It is too dry.\nMother: OK, I know how to cook it. Don’t worry.",
+        "soru_metni": "Which of the following cooking methods is suitable for all the family members?",
+        "secenekler": {
+            "A": "roasting",
+            "B": "grilling",
+            "C": "boiling",
+            "D": "frying"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 77,
+        "konu": "3. In The Kitchen",
+        "kontext": "Claire is a chef at a famous restaurant. It is not suitable for the people who like meat and pasta. Today, Claire is cooking the speciality of the restaurant.\nHere is the recipe: First, heat the oil in a large pot. Then, chop the onion, the carrot and some garlic. Next, fry them and add sliced tomatoes and potatoes. After that, pour two glasses of water into the pot and boil them. Cook the mixture for 5 minutes after boiling. Finally, put a leaf of basil in it. Serve hot. Enjoy!",
+        "soru_metni": "According to the recipe above, in which restaurant does Claire work as a chef?",
+        "secenekler": {
+            "A": "SPAGHETTI HOUSE",
+            "B": "CITY OF FISH",
+            "C": "TACOS KITCHEN",
+            "D": "VEGETABLE WORLD"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 78,
+        "konu": "3. In The Kitchen",
+        "kontext": "Nick is playing a game. He should choose the correct moves and find Mary’s favorite food.\n[FLOWCHART]\nSTART: Mary likes homemade food because she thinks it is good for her body.\nPath 1 (Fast Food): She would like to eat fried vegetables. -> (Sausages / Potato Chips)\nPath 2 (Healthy Food): She would rather eat baked food. -> (Lentil Soup / Fish)",
+        "soru_metni": "Mary’s favourite food is - - - -.",
+        "secenekler": {
+            "A": "fish",
+            "B": "lentil soup",
+            "C": "potato chips",
+            "D": "sausages"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 79,
+        "konu": "4. On The Phone",
+        "kontext": "Tom and Alice are talking about smartphones but they have different opinions about them. Tom thinks that they are useful while Alice believes that they are harmful.",
+        "soru_metni": "Which of the following is Tom’s speech bubble?",
+        "secenekler": {
+            "A": "Playing games on a bright screen causes eye diseases.",
+            "B": "Having a smartphone gives us a chance to connect quickly with emergency services.",
+            "C": "Buying a smartphone costs a lot of money.",
+            "D": "Constantly checking social media accounts creates concentration problems."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 80,
+        "konu": "5. The Internet",
+        "kontext": "The students below are talking about the reasons for using smartphones.\nJack: I always buy something using my smartphone.\nJulia: Mostly, I use it to practice my foreign language.\nTim: I usually use it to keep in touch with my friends.\nMaggy: I use it to follow the news online every day.",
+        "soru_metni": "Which of the following IS NOT correct according to the conversation above?",
+        "secenekler": {
+            "A": "Jack does his shopping online.",
+            "B": "Julia improves her science knowledge.",
+            "C": "Tim uses his smartphone for communication.",
+            "D": "Maggy reads magazines and newspapers on the Net."
+        },
+        "dogru_cevap": "B"
+    }
+]
