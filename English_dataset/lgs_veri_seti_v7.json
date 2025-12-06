@@ -1,0 +1,262 @@
+[
+    {
+        "id": 1,
+        "konu": "4. On The Phone",
+        "kontext": "Clara calls the call center of the Internet company “FastConnect”.\n\n[CALL CENTER MENU]\nStep 1: Press 1 for connection problems, press 2 for bills, press 3 for customer services.\nStep 2 (If pressed 2): Press 1 to pay your bills, press 2 to change bill address.\nStep 3 (If pressed 1): Press 1 to pay your current bill now, press 2 to pay your old bills.\nResult: \"You have paid your current bill.\"",
+        "soru_metni": "Find the correct order of the numbers Clara pressed.",
+        "secenekler": {
+            "A": "3 - 2 - 1",
+            "B": "2 - 1 - 1",
+            "C": "3 - 1 - 2",
+            "D": "2 - 2 - 2"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 2,
+        "konu": "5. The Internet",
+        "kontext": "[SURVEY TEXT]\nThe latest survey shows that both teens and adults use the Internet to keep in touch with their friends. Adults also pay the bills, read the news and make reservations. Children and teens usually do their homework and play online games, too.",
+        "soru_metni": "Which of the following is an appropriate title for the text above?",
+        "secenekler": {
+            "A": "How Different Age Groups Use the Internet",
+            "B": "Latest Development Related to the Internet",
+            "C": "The History of the Internet",
+            "D": "How to Improve Internet Safety"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 3,
+        "konu": "5. The Internet",
+        "kontext": "Below, you can see the activities Rose and Richard like doing.\n\n[ROSE'S ACTIVITIES]\n- playing football\n- swimming\n- watching movies\n- playing basketball\n- paragliding\n\n[RICHARD'S ACTIVITIES]\n- rafting\n- playing basketball\n- paragliding\n- swimming\n- scuba diving",
+        "soru_metni": "According to the information above, which of the following is FALSE?",
+        "secenekler": {
+            "A": "Richard likes doing extreme sports.",
+            "B": "Rose has never tried an extreme sport before.",
+            "C": "Rose and Richard have some common interests.",
+            "D": "Rose enjoys both team sports and extreme sports."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 4,
+        "konu": "7. Tourism",
+        "kontext": "[BROCHURE: ASPENDOS]\nPlace: Aspendos, Antalya / Türkiye\nNumber of tourists per year: More than 35.000\nTicket prices: Pupils: 70 TL, Adults: 100 TL\nOpening Hours: It is open 365 days a year from 10 a.m. to 4 p.m.",
+        "soru_metni": "According to the brochure above, which of the following is FALSE?",
+        "secenekler": {
+            "A": "Thousands of people come to Aspendos every year.",
+            "B": "You can go and see Aspendos both in winter and summer.",
+            "C": "People can visit Aspendos only in the mornings.",
+            "D": "Children pay less to visit Aspendos"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 5,
+        "konu": "7. Tourism",
+        "kontext": "Jane’s friends want to prepare dinner for Jane and they are talking about what she likes and dislikes.\n\n[FRIENDS' NOTES]\n- Mandy: \"Jane never eats meat.\"\n- Barney: \"She likes soup and vegetables.\"\n- Kate: \"Jane hates desserts and hot beverages.\"",
+        "soru_metni": "According to the information above, which of the following would Jane’s friends prepare for her?",
+        "secenekler": {
+            "A": "Carrot salad, Tomato soup, Chocolate cake",
+            "B": "Meatballs, Chocolate cookies, Fruit juice",
+            "C": "Tomato salad, Chicken, Coffee",
+            "D": "Lentil soup, Potato salad, Lemonade"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 6,
+        "konu": "2. Teen Life",
+        "kontext": "Jack answers a survey.\n\n[QUESTIONS & ANSWERS]\n1. Q: When do you ride a bike? -> A: Three times a week. (Mistake)\n2. Q: How often do you go swimming? -> A: Next week. (Mistake)\n3. Q: What sports do you like watching? -> A: Basketball and tennis.\n4. Q: Who is your best friend? -> A: Alex.",
+        "soru_metni": "To which two questions did NOT Jack give appropriate answers?",
+        "secenekler": {
+            "A": "1 - 2",
+            "B": "1 - 4",
+            "C": "2 - 3",
+            "D": "3 - 4"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 7,
+        "konu": "4. On The Phone",
+        "kontext": "You are a secretary at Mr. Smith’s office.\n\n[SITUATIONS]\na) Someone wants to leave a message but you can't understand him.\nb) Someone wants to talk to Mr. Smith and you are putting him through.\nc) Mr. Smith is in his office but he is busy.\n\n[RESPONSES]\nI. \"Sorry, but Mr. Smith is not available at the moment.\"\nII. \"I'm sorry, could you repeat what you said, please?\"\nIII. \"Alright. Call 123456 for more information.\"\nIV. \"Hang on a minute please, I'll get him.\"",
+        "soru_metni": "Which of the following is the correct option that shows the reasons why people call the office and the appropriate responses to them?",
+        "secenekler": {
+            "A": "a-I, b-III, c-II",
+            "B": "a-II, b-IV, c-III",
+            "C": "a-II, b-IV, c-I",
+            "D": "a-II, b-III, c-I"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 8,
+        "konu": "6. Adventures",
+        "kontext": "[BROCHURE: A Wonderful Weekend]\n1. Rafting: 1000 TL, starts at 10 a.m., 8 people on each boat.\n2. Safari: 1500 TL, starts at 6.30 a.m., 4 people in each car.\n3. Paragliding: 2500 TL, starts at 3 p.m.",
+        "soru_metni": "Which of the following is correct according to the brochure above?",
+        "secenekler": {
+            "A": "Safari is the most expensive activity.",
+            "B": "Rafting starts earlier than safari tour.",
+            "C": "You have more than one option if you want a group activity.",
+            "D": "Paragliding is an early-morning activity."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 9,
+        "konu": "8. Chores",
+        "kontext": "Look at Jane’s kitchen below. Today, she is planning to do some chores. But she cannot do one of them because she does not have the necessary equipment.\n\n[KITCHEN ITEMS VISIBLE]\n- Oven / Cooker\n- Washing machine (for clothes)\n- Plates, glasses, cutlery\n- Clock",
+        "soru_metni": "Which of the following is the chore that Jane CANNOT do?",
+        "secenekler": {
+            "A": "cooking the meal",
+            "B": "doing the laundry",
+            "C": "setting the table",
+            "D": "loading the dishwasher"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 10,
+        "konu": "10. Natural Forces",
+        "kontext": "[POSTER: STOP DEFORESTATION!]\nPicture 1: A campfire (Risk of fire).\nPicture 2: Planting a tree.\nPicture 3: Cutting down a tree (Prohibited).\nPicture 4: Rubbish/Pollution in the forest.",
+        "soru_metni": "Which of the following is NOT related to one of the pictures in Tim’s poster?",
+        "secenekler": {
+            "A": "Don’t cut down trees!",
+            "B": "Stop wasting water!",
+            "C": "Plant more trees!",
+            "D": "Don’t cause forest fires!"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 11,
+        "konu": "1. Friendship",
+        "kontext": "Tom: Hello friends! I’m having a party for my brother on Sunday. Would you like to come?\n\n[RESPONSES]\n- Lisa: \"I have lots of homework to do, but I will come.\"\n- Sandy: \"I’d love to, but I must finish my project.\"\n- Max: \"I love parties, but I have other plans on Sunday.\"\n- John: \"I am busy this week, but I will come to your party.\"",
+        "soru_metni": "According to the conversation above, which two people accept the invitation?",
+        "secenekler": {
+            "A": "John and Lisa",
+            "B": "Lisa and Sandy",
+            "C": "Max and John",
+            "D": "Sandy and Max"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 12,
+        "konu": "5. The Internet",
+        "kontext": "Nancy wants to create a password.\n[RULES]\n1. Use more than three letters.\n2. Use punctuation.\n3. DO NOT USE your name.\n4. DO NOT USE more than two numbers.\n\n[NANCY'S PASSWORD]\ndgcb-4585",
+        "soru_metni": "Which of the rules did Nancy NOT obey when she tried to create her password?",
+        "secenekler": {
+            "A": "Rule 1",
+            "B": "Rule 2",
+            "C": "Rule 3",
+            "D": "Rule 4"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 13,
+        "konu": "3. In The Kitchen",
+        "kontext": "[RECIPE STEPS]\n- Put the flour into a bowl.\n- Add water and salt to the flour.\n- Cut the dough into small pieces.\n- Bake the pieces.",
+        "soru_metni": "Which of the following pictures does NOT match with any of the steps above?",
+        "secenekler": {
+            "A": "Picture A (Putting flour)",
+            "B": "Picture B (Brushing oil)",
+            "C": "Picture C (Cutting dough)",
+            "D": "Picture D (Baking in oven)"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 14,
+        "konu": "7. Tourism",
+        "kontext": "Mandy and her family live in Istanbul. They are going to Antalya on November 4 and fly back home on November 9. Mandy is searching for flight tickets on a website. She is going to buy four tickets for herself, her husband and their children.",
+        "soru_metni": "Which of the following websites shows all the correct information in the text above?",
+        "secenekler": {
+            "A": "Website A (Wrong Destination)",
+            "B": "Website B (Wrong Number of People)",
+            "C": "Website C (Correct Info)",
+            "D": "Website D (Wrong Destination)"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 15,
+        "konu": "9. Science",
+        "kontext": "[EXPERIMENT STEPS]\nStep 1: Pour some water into the cups.\nStep 2: Add chemical substances (dye) into the cups.\nStep 3: Put the flowers in the cups.\nStep 4: Put the cups with flowers in front of the window.\nResult: The flowers change color.",
+        "soru_metni": "After Step 3, you should - - - -.",
+        "secenekler": {
+            "A": "put the flowers in the cups",
+            "B": "pour some water into the cups",
+            "C": "put the cups with the flowers in front of the window",
+            "D": "add the chemical substances into the cups"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 16,
+        "konu": "5. The Internet",
+        "kontext": "The visual shows Joseph’s Internet habits.\n\n[DO YOU USE THE INTERNET TO...?]\n- Join language courses: YES\n- Play games: NO\n- Keep in touch with friends: YES\n- Buy what you need: NO\n- Do research and homework: YES",
+        "soru_metni": "Which of the following is NOT one of the reasons for Joseph’s Internet use?",
+        "secenekler": {
+            "A": "Studying for school subjects",
+            "B": "Doing the shopping",
+            "C": "Communicating with others",
+            "D": "Improving language skills"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 17,
+        "konu": "7. Tourism",
+        "kontext": "Wendy searched the Internet to plan a holiday.\n[WENDY'S PREFERENCES]\n- Destination: Germany\n- Accommodation: A guesthouse OR A bed and breakfast\n- Duration: At least three days\n- Expectation: Best price OR Activities",
+        "soru_metni": "Which of the following shows the email that Wendy received from the trip planner?",
+        "secenekler": {
+            "A": "Email A (Wrong Hotel Type)",
+            "B": "Email B (Wrong Country)",
+            "C": "Email C (Wrong Duration)",
+            "D": "Email D (Matches All Preferences)"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 18,
+        "konu": "8. Chores",
+        "kontext": "Tina did all the INDOOR chores (except cooking). Sam did all the OUTDOOR chores.\n\n[CHORES & POINTS]\n- Wash the dishes (Indoor): 10\n- Sweep the leaves (Outdoor): 10\n- Prepare the meals (Indoor - Cooking): 20\n- Go shopping (Outdoor): 15\n- Water the plants (Outdoor): 10\n- Do the laundry (Indoor): 15\n\n[REWARDS]\n- Concert: 70 points\n- Art gallery: 50 points\n- Theater: 35 points\n- Cinema: 25 points",
+        "soru_metni": "Which tickets did Tina and Sam have last month?",
+        "secenekler": {
+            "A": "Concert - Art gallery",
+            "B": "Cinema - Theater",
+            "C": "Theater - Concert",
+            "D": "Art gallery - Cinema"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 19,
+        "konu": "9. Science",
+        "kontext": "[POSTER: DICTIONARYWONDER DAY]\nSubject: Dīwān Lughāt al-Turk (The first dictionary of Turkic languages)\nWritten by: Mahmud Kashgari\nDate: Between 1072 and 1074\nContent: 7500 words, observations about social, political life and geography.",
+        "soru_metni": "According to the poster, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "It is the oldest dictionary in Turkic history.",
+            "B": "It includes information about a wide variety of subjects.",
+            "C": "Mahmud Kashgari completed it in five years.",
+            "D": "There are seven thousand and five hundred words in the dictionary."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 20,
+        "konu": "9. Science",
+        "kontext": "[UNESCO 2024 CELEBRATIONS]\n1. Ali Kuşçu: Astronomer, mathematician. His works made learning astronomy and mathematics easier both in the Islamic World and Europe.\n2. Fuat Sezgin: Scientist. Thanks to his works, people in different countries learned more about the achievements of Islamic scientists.",
+        "soru_metni": "According to the information above, both Ali Kuşçu and Fuat Sezgin - - - -.",
+        "secenekler": {
+            "A": "produced their works in the same century",
+            "B": "examined the movements of planets and stars",
+            "C": "were skilled at using more than twenty languages",
+            "D": "created an international effect with their works"
+        },
+        "dogru_cevap": "D"
+    }
+]
