@@ -1,0 +1,756 @@
+[
+    {
+        "id": 1,
+        "konu": "5. The Internet",
+        "kontext": "TIPS FOR STAYING SAFE ONLINE\nDon’t post any personal information online like your address, e-mail or phone number.\nUse safe websites for online shopping.\nCreate strong passwords. They should be difficult to guess.\nDon’t open e-mails or files from people you don’t know.\nDon’t meet people you have met online.",
+        "soru_metni": "If you want to be safe online, you should - - - -.",
+        "secenekler": {
+            "A": "invite people you met online to your house",
+            "B": "create a password such as your birthday",
+            "C": "buy things from websites you trust",
+            "D": "tell the place of your school"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 2,
+        "konu": "5. The Internet",
+        "kontext": "The Internet has harmful effects, especially on young people. It can damage their social life, education, and physical health. Firstly, young people don’t have many real friends, just online ones. Also, they get bad grades. Many students play computer games, but they don’t do their homework. Another bad effect is on their physical health. For example, young people can have problems with their eyes because they look at the screen for a long time. So, young people should spend less time on the Internet.",
+        "soru_metni": "What can be the best title for the text?",
+        "secenekler": {
+            "A": "Dangerous Effects of Internet on Physical Health",
+            "B": "Disadvantages of Internet on Young People",
+            "C": "Social Life, Online Friends, and Internet",
+            "D": "Internet: Bad for Teen’s Education"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 3,
+        "konu": "5. The Internet",
+        "kontext": "The Internet has harmful effects, especially on young people. It can damage their social life, education, and physical health. Firstly, young people don’t have many real friends, just online ones. Also, they get bad grades. Many students play computer games, but they don’t do their homework. Another bad effect is on their physical health. For example, young people can have problems with their eyes because they look at the screen for a long time. So, young people should spend less time on the Internet.",
+        "soru_metni": "If young people want to have better grades, they should - - - -. Complete the sentence.",
+        "secenekler": {
+            "A": "have real friends",
+            "B": "sit far away from the screen",
+            "C": "study more for their lessons",
+            "D": "play online games with their friends"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 4,
+        "konu": "5. The Internet",
+        "kontext": "Jeremy : You should be careful about the things you share on the Internet.\nPaul : What do you mean?\nJeremy : I mean, don't - - - -.",
+        "soru_metni": "Which of the following completes the conversation?",
+        "secenekler": {
+            "A": "give personal information on the Internet",
+            "B": "shop from the websites you trust",
+            "C": "believe everything you read",
+            "D": "meet your online friends"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 5,
+        "konu": "5. The Internet",
+        "kontext": "People use the Internet for different reasons. A research compared what happens on the Internet in 60 seconds. The research looked at the years 2018 and 2019.\n[2018 Statistics]\n973.000 logged in to social media accounts\n38.000.000 messages sent\n4.300.000 videos seen\n2.400.000 photos uploaded\n375.000 apps downloaded\n187.000.000 e-mails sent\n[2019 Statistics]\n1.000.000 logged in to social media accounts\n41.600.000 messages sent\n4.500.000 videos seen\n2.300.000 photos uploaded\n390.030 apps downloaded\n188.000.000 e-mails sent",
+        "soru_metni": "------in 2019 than they did in 2018.",
+        "secenekler": {
+            "A": "Fewer people logged in to their social media account",
+            "B": "More people downloaded photos",
+            "C": "People watched more videos",
+            "D": "People wrote less e-mails"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 6,
+        "konu": "5. The Internet",
+        "kontext": "A smartphone screen displays a \"Help\" menu with four options, each with a corresponding icon:\nNetworks (Wi-Fi icon)\nSounds (Speaker icon)\nDate and time (Calendar/Clock icon)\nPasswords (Lock icon)",
+        "soru_metni": "Frank has a new telephone. He wants to join the Internet.\nWhich icon should Frank click?",
+        "secenekler": {
+            "A": "The Networks icon (Wi-Fi symbol)",
+            "B": "The Sounds icon (Speaker symbol)",
+            "C": "The Date and time icon (Calendar/Clock symbol)",
+            "D": "The Passwords icon (Lock symbol)"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 7,
+        "konu": "5. The Internet",
+        "kontext": "Mary and her friends spend most of their free time on the Net at weekends. Here is some information about what they do when they are online:\nMary keeps in touch with her friends on the Net.\nOne of them takes an online foreign language course.\nTwo of them use the Net for the same purpose.",
+        "soru_metni": "According to the information above, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Mary: Sending e-mails | Julia: Doing research | Rose: Downloading articles | Ashley: Chess training",
+            "B": "Mary: Following her favourite series | Julia: Watching movies | Rose: Having video chats | Ashley: Practising Italian",
+            "C": "Mary: Using social networking sites | Julia: Learning French | Rose: Reading e-books | Ashley: Checking bank accounts",
+            "D": "Mary: Chatting online | Julia: Doing online shopping | Rose: Studying Spanish | Ashley: Ordering what she needs"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 8,
+        "konu": "5. The Internet",
+        "kontext": "Jack wants to create a password for his account and reads the rules below.\nHOW TO CREATE STRONG PASSWORDS\nUse at least ten characters.\nUse a mixture of letters, numbers and punctuation.\nDo not use ordered letters and numbers (e.g. abcde,12345).\nDo not use personal information such as names, birth dates or phone numbers.",
+        "soru_metni": "Which of the following is an appropriate password for Jack?",
+        "secenekler": {
+            "A": "3.qa!iwf2m",
+            "B": "2007jack_7",
+            "C": "123123abc+",
+            "D": "5552660912"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 9,
+        "konu": "5. The Internet",
+        "kontext": "RULES FOR USING SOCIAL MEDIA SAFELY\nDo not believe any information without confirming it.\nUse private settings to control your account.\nBe sure that you want to post a photo/ video.\nDo not talk about your private life.\nTom: In the evenings, I surf the Internet. When I see interesting news, I try to find out its source.\nSally: I am very careful before I post a photo or video online.\nChris: When I sign up to a social media site, I make sure that only my friends see what I post.\nEmily: When I am online, I tell everybody my birthday, where I live and what I like.",
+        "soru_metni": "Who does NOT follow the rules for using social media safely?",
+        "secenekler": {
+            "A": "Tom",
+            "B": "Sally",
+            "C": "Chris",
+            "D": "Emily"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 10,
+        "konu": "5. The Internet",
+        "kontext": "The visuals below show what kind of activities people did on the Net in a minute in 2018 and 2019.\n[2018 Statistics]\n174.000 shared photos\n3.7 million searched for information\n375.000 downloaded applications\n4.3 million watched videos\n[2019 Statistics]\n347.222 shared photos\n3.8 million searched for information\n390.030 downloaded applications\n4.5 million watched videos",
+        "soru_metni": "According to the results above, which of the following is NOT correct?",
+        "secenekler": {
+            "A": "In 2018, people shared fewer photos than in 2019.",
+            "B": "More people watched videos on the Net in 2018 than in 2019.",
+            "C": "People downloaded more applications from the stores in 2019.",
+            "D": "About four million people used search engines both in 2018 and 2019."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 11,
+        "konu": "5. The Internet",
+        "kontext": "Tommy: Hey, there is an online course about Internet habits. - - - -\nLilly: That would be great. Because I often go online. - - - -\nTommy: I am sending you the link. Create an account, then register and log in. It will start at 9 p.m. tomorrow evening.\nLilly: - - - - However, I will try to join it.",
+        "soru_metni": "Which of the following does NOT complete the conversation above?",
+        "secenekler": {
+            "A": "Would you like to register?",
+            "B": "My Internet is not working properly.",
+            "C": "What is the web address of the course?",
+            "D": "I am bad at face-to-face communication."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 12,
+        "konu": "5. The Internet",
+        "kontext": "Here is Mike’s search history in the last two weeks:\n[Browser History]\nFacts about websites\nOnline courses\nSocial media addiction\nInternet safety rules",
+        "soru_metni": "Which of the following is NOT related to Mike’s search history?",
+        "secenekler": {
+            "A": "The exact number of active Internet sites is unknown.",
+            "B": "New generation smartphone war takes new shape.",
+            "C": "92% of teens go online daily and 24% say they are always online.",
+            "D": "Many people practice a foreign language by using the Internet."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 13,
+        "konu": "5. The Internet",
+        "kontext": "Online games are very popular among young people. Lots of children are becoming addicted to the Internet and online games. They play online games on their tablets or smartphones. These children spend 6-10 hours online and they rarely have face-to-face communication with their families. Some of them refuse to go to school because they want to stay at home and play games. Parents are not happy about their children.",
+        "soru_metni": "Which of the following does NOT have an answer in the text above?",
+        "secenekler": {
+            "A": "What kind of devices can children use to play online games?",
+            "B": "How much time do the addicted children spend online?",
+            "C": "What are the reasons for online game addiction?",
+            "D": "How do parents feel about their children’s habits?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 14,
+        "konu": "5. The Internet",
+        "kontext": "A teacher asks 100 students why they use the Internet. Here are their answers:\n12 students use the Internet to chat.\n24 students use the Internet to share their photos.\n42 students use the Internet to learn something new.\n22 students use the Internet to follow their favourite series.",
+        "soru_metni": "Which of the following is CORRECT according to the information above?",
+        "secenekler": {
+            "A": "Only a few students search new things on the Internet.",
+            "B": "Nearly 25% of the students post photos on the Internet.",
+            "C": "Half of the students prefer watching something on the Internet.",
+            "D": "20% of the students use the Internet for communication."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 15,
+        "konu": "5. The Internet",
+        "kontext": "Sally and her friends answered a survey to learn if they are Internet addicts. Here are their answers:\n[Survey Questions]\nDo you play online games every day?\nDo you use the Internet to do your homework?\nDo you have more than two social media accounts?\nDo you comment on all of your friends’ photos?\nDo you spend more than three hours online every day?\nIf you have answered more than three of the questions with YES, you are an Internet addict.\n[Results (Yes/No)]\nSally: 1.No, 2.Yes, 3.Yes, 4.Yes, 5.Yes\nTom: 1.Yes, 2.No, 3.Yes, 4.Yes, 5.No\nMaria: 1.No, 2.Yes, 3.No, 4.Yes, 5.No\nJack: 1.Yes, 2.No, 3.Yes, 4.Yes, 5.Yes",
+        "soru_metni": "Which of the following is NOT correct according to the results of the survey?",
+        "secenekler": {
+            "A": "Sally and Maria use the Internet to get help for their lessons.",
+            "B": "Tom and Jack spend more time on the Net than the others.",
+            "C": "All of them share their opinions about their friends online.",
+            "D": "Two people are Internet addicts according to the results."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 16,
+        "konu": "5. The Internet",
+        "kontext": "People can use the Internet to do different things. For example, they:\nhave fun,\ncommunicate with others,\nsearch for information and learn new things.",
+        "soru_metni": "Whose purpose of using the Internet does NOT match the examples in the text above?",
+        "secenekler": {
+            "A": "Mary: I often look for different recipes on the Internet.",
+            "B": "Tom: I use the Internet to send emails and chat with my friends.",
+            "C": "Sam: I use the Internet to watch movies and play games.",
+            "D": "Sophie: I generally buy what I need on the Internet."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 17,
+        "konu": "5. The Internet",
+        "kontext": "Mr. Aslan, an English teacher, creates a discussion topic on EBA and asks his students to share their opinions about the Internet.\n[Muharrem ASLAN - Teacher]: What do you think about the advantages and disadvantages of the Internet?\nAsya: In my opinion, the Internet improves our digital performances and helps us reach the information more effectively.\nHakan: Some teenagers sit in front of the screen and surf on the Net for long hours. I think this may cause some concentration and health problems.\nUmut: People can do a lot of things online such as paying the bills and doing the shopping, so I think it is time-saving and more comfortable.\nGülce: Many students prefer staying at home and playing online games to going out and spending time with their real friends and so, they are getting worse at face-to-face communication.",
+        "soru_metni": "According to the information above, which two students are talking about the positive sides of the Internet?",
+        "secenekler": {
+            "A": "Asya and Hakan",
+            "B": "Hakan and Gülce",
+            "C": "Umut and Asya",
+            "D": "Gülce and Umut"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 18,
+        "konu": "5. The Internet",
+        "kontext": "Thirty-six students answered a survey about their use of the Internet. Here are the results:\n[The number of students | Why they use the Internet]\n12 | to translate texts\n10 | to find different recipes\n8 | to order food from a restaurant\n6 | to solve puzzles",
+        "soru_metni": "According to the information above, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Eight students use the Internet to learn something in a foreign language.",
+            "B": "The least popular use of the Internet is playing educational games.",
+            "C": "Most of the students use the Internet to buy something to eat.",
+            "D": "Half of the students learn how to cook something using the Internet."
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 19,
+        "konu": "5. The Internet",
+        "kontext": "Chloe and her friends are talking about how they spent time on different websites yesterday.\nChloe: I watched movies and studied Italian.\nRuby: I searched for tips about different recipes.\nLucy: I learned about the latest events in the world.",
+        "soru_metni": "According to the information above, which of the following is NOT one of the websites they visited?",
+        "secenekler": {
+            "A": "www.film-choices.com",
+            "B": "www.extreme-sports.com",
+            "C": "www.easy-cooking.com",
+            "D": "www.news-around.com"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 20,
+        "konu": "5. The Internet",
+        "kontext": "Ms. Hopkins wants her students to talk about their Internet habits. Here is what they said:\nJohn: I only use the Internet to get help for my homework.\nSally: I rarely surf on the Internet because looking at a screen damages my eyes.\nJessica: The Internet is my whole life. I am online at least 7 hours a day.\nMartin: I sometimes read the latest news and search information for my projects online. That’s all.\nTom: I can say that I do everything via the Internet. I even have a blog.",
+        "soru_metni": "According to the statements above, which two people spend most of their time online?",
+        "secenekler": {
+            "A": "John and Jessica",
+            "B": "Sally and Martin",
+            "C": "Jessica and Tom",
+            "D": "Martin and Tom"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 21,
+        "konu": "5. The Internet",
+        "kontext": "Dean prepares an advertisement to sell his computer and asks his friends if they would like to buy it or not. Below are the advertisement and his friends’ answers:\n[Computer Advertisement]\nPrice: $250\nneeds a new camera\n11 months virus programme as a gift\n7 years old\nCarl: I need a new computer with a camera because I am going to use it for my video classes.\nJack: I am searching for a new computer nowadays, but I have only two hundred dollars.\nBobby: I want to buy a computer to play online games, so I need a computer that has the latest equipment.\nSam: I need to buy a computer to finish my school project. The computer should have a virus programme.",
+        "soru_metni": "Looking at the information above, who can buy Dean’s computer?",
+        "secenekler": {
+            "A": "Carl",
+            "B": "Jack",
+            "C": "Bobby",
+            "D": "Sam"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 22,
+        "konu": "5. The Internet",
+        "kontext": "Billy reads an article about the Internet habits of 100 teens in Turkey. According to the article,\n• Half of the teenagers use the Internet to contact their friends through social media.\n• Fewer than ten teens use the Internet only for their homework.\n• The number of online gamers among teenagers is higher than the number of online shoppers.",
+        "soru_metni": "Which one of the following graphs shows the results of the article?",
+        "secenekler": {
+            "A": "Graph A",
+            "B": "Graph B",
+            "C": "Graph C",
+            "D": "Graph D"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 23,
+        "konu": "6. Adventures",
+        "kontext": "Read the brochures below and complete the sentence.\n[PARAGLIDING Brochure]\nAre you an adventurer?\nDo you enjoy watching the view over the sky?\nWhat about paragliding together?\nDate: 28th May\n$50 for each person\nFree food\nFree bus service\nParagliding parachute needs $ 30\n[SCUBA DIVING Brochure]\nAre you an adrenalin lover?\nDo you want to explore the world under water with professional trainers?\nThen, join us on 17th April.\n$50 for each person\nFree transportation\nEquipment included\nFree sandwiches for lunch",
+        "soru_metni": "Steve loves extreme sports a lot. So far, he has tried several activities such as rafting and rock climbing. He wants to try a different sport, but he doesn’t have much money. He has two options. He prefers going scuba diving because - - - -.",
+        "secenekler": {
+            "A": "it is on April 17",
+            "B": "he doesn’t like free food",
+            "C": "it offers free transportation",
+            "D": "he won’t pay for equipment"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 24,
+        "konu": "6. Adventures",
+        "kontext": "Extreme sports are popular all over the world. People enjoy the adventure and fun. I am one of them. I like extreme sports because they are exciting. I tried paragliding before, and I enjoyed it. Then, I tried water extreme sports such as diving, kayaking, and rafting. They are all exciting, but I enjoy exploring the fish and sea animals most. I think it is more amusing than all other sports. I also take photos of different kinds of fish.",
+        "soru_metni": "What is Martin’s favourite extreme sport?",
+        "secenekler": {
+            "A": "Paragliding",
+            "B": "Kayaking",
+            "C": "Rafting",
+            "D": "Diving"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 25,
+        "konu": "6. Adventures",
+        "kontext": "Canoeing is a very exciting experience, but you must plan your trip very carefully...\nTake a course because you need to learn safety rules.\nGet appropriate things to wear for all weather conditions.\nDon’t forget to take food and water with you.\nThe trip starts with choosing the right place.\nChoose the right kind of boat.\nYou are ready for a wonderful experience.",
+        "soru_metni": "There is no information about the - - - -.",
+        "secenekler": {
+            "A": "clothes",
+            "B": "equipment",
+            "C": "climate",
+            "D": "training"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 26,
+        "konu": "6. Adventures",
+        "kontext": "An extreme sports complex conducted a research on what people think about extreme sports. Here are some of the answers: ANDY: I love extreme sports. I prefer climbing. I go climbing with my friends about three times a year. JESSICA: I love doing water extreme sports not the others. I am in love with sea. My favourite is exploring fish underwater. AMELIE: I am afraid of extreme sports, so I prefer indoor exercises. I do sports three or four times a week. JASON: I love nature, so I like sports such as trekking and canoeimg. With the school trekking club, we try a new route every month.",
+        "soru_metni": "Which of the following is NOT correct according to the people's answers?",
+        "secenekler": {
+            "A": "Amelie loves sports like bungee jumping.",
+            "B": "Jessica enjoys the scuba diving most.",
+            "C": "Andy likes camping in the mountains.",
+            "D": "ason is an eco-friendly person."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 27,
+        "konu": "6. Adventures",
+        "kontext": "Emily, Sandra, and Sally want to try extreme sports together. However, they like doing different kinds of activities. Emily enjoys being in the air. Sandra is interested in underwater sports. Sally is keen on speed. ADRENALINE LOVERS SCHEDULE: MONDAY: Wind-surfing, Skydiving, Paragliding TUESDAY: Archery, Skateboarding, Hot-air balloon WEDNESDAY: Skydiving, Motor racing, Scuba diving THURSDAY: Wind-surfing, Skateboarding, Rafting",
+        "soru_metni": "According to the information above, which of the following is a suitable day for all of them?",
+        "secenekler": {
+            "A": "Monday",
+            "B": "Tuesday",
+            "C": "Wednesday",
+            "D": "Thursday"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 28,
+        "konu": "6. Adventures",
+        "kontext": "When I go on a holiday, I try different sports. I tried skydiving last summer. It requires a lot of courage and it is really exciting. You jump from a plane with a parachute. I have also done rafting and it was awesome. You travel down the river and try to stay on the boat. It is challenging and dangerous, but I would like to do it again. If you ask me which sport I liked more, I would say skydiving.",
+        "soru_metni": "The text above is mainly about Nick’s - - - -.",
+        "secenekler": {
+            "A": "plans about future holidays",
+            "B": "experiences with extreme sports",
+            "C": "preferences of equipment for skydiving",
+            "D": "thoughts about transportation options"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 29,
+        "konu": "6. Adventures",
+        "kontext": "RAFTING ON ÇORUH RIVER. Would you like to try rafting on Çoruh River? Çoruh River is in the northeast of Turkey. It is one of the top ten white-water rivers in the world. Because of the water level, the best months for rafting here are May and June. Many travel companies organize rafting holidays on Çoruh River. They provide wet suits, helmets, life jackets and the other necessary things for rafting. While on a rafting holiday, you can camp by the river or you can stay in hotels or village houses.",
+        "soru_metni": "Which of the following is CORRECT according to the text?",
+        "secenekler": {
+            "A": "People have to bring their own rafting equipment.",
+            "B": "If you want to try rafting on Çoruh, go there in the winter.",
+            "C": "Çoruh is the most popular white-water river in the world.",
+            "D": "There are various accommodation options for rafting lovers."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 30,
+        "konu": "6. Adventures",
+        "kontext": "Kevin: Exploring the underwater world is exciting and mysterious. I put on my special equipment and stay underwater for an hour. Angelina: The sky is my freedom. When I am in the sky, I forget all stressful things. Doing extreme sports is my lifestyle. Dave: I prefer being in nature. Exploring the mountains makes me happy because it is challenging. Watching wonderful views over high mountains is incredible. Patricia: Going on the water in a boat is exciting for me. I put on my equipment and clothing. I sometimes feel scared when we travel down the water too fast.",
+        "soru_metni": "Which of the following does NOT match any of the statements above?",
+        "secenekler": {
+            "A": "motor racing",
+            "B": "paragliding",
+            "C": "rafting",
+            "D": "scuba diving"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 31,
+        "konu": "6. Adventures",
+        "kontext": "Tom is planning to do something different on his off day. He would rather do indoor than outdoor activities. One of his friends offers him to look at the brochure of Sports Club. SPORTS CLUB EVENTS: DAY 1: Kayaking, Rafting. DAY 2: Trekking, Diving. DAY 3: Swimming, Bowling. DAY 4: Canoeing, Skydiving.",
+        "soru_metni": "Which of the following does NOT match any of the statements above?",
+        "secenekler": {
+            "A": "1st",
+            "B": "2nd",
+            "C": "3rd",
+            "D": "4th"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 32,
+        "konu": "6. Adventures",
+        "kontext": "A university club is organizing a five-day extreme sports camp for students. The club prepares a form to find out students’ preferences for the activities. Here is the form: Please tick the activities you want to join. Wednesday: Skydiving, Surfing Thursday: Mountain biking, Hang-gliding Friday: Bungee jumping, Rock climbing Saturday: Paragliding, Canoeing Sunday: Scuba diving, Kayaking",
+        "soru_metni": "According to the form, students can try - - - -.",
+        "secenekler": {
+            "A": "an air sport on each day except Sunday",
+            "B": "water sports on Thursday and Friday",
+            "C": "only team sports on Wednesday",
+            "D": "indoor sports at the weekend"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 33,
+        "konu": "6. Adventures",
+        "kontext": "Alan Hackett is the New Zealander who made bungee jumping a popular sport worldwide. To achieve it, he jumped from the Eiffel Tower in 1987, and Alan sees that as his greatest achievement. One year later, in 1988, he designed the first bungee jumping site, and more people learned about this new exciting activity. However, Alan thinks bungee jumping is a dangerous activity, and people should take all necessary safety precautions while doing it.",
+        "soru_metni": "Which question does NOT have an answer in the text?",
+        "secenekler": {
+            "A": "Where is Alan Hackett from?",
+            "B": "What did Alan do to make bungee jumping popular?",
+            "C": "Who thinks that bungee jumping is safe?",
+            "D": "When did he create the bungee jumping website?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 34,
+        "konu": "6. Adventures",
+        "kontext": "Tom and his sixteen-year-old daughter, Rachel, want to do exciting activities at the weekend. They both enjoy testing their limits in the air, but Tom doesn’t want to spend more than $150. Adventure World Options: Hang-gliding: Day: Saturday, Price per person: $50, Age: 15+ Skydiving: Day: Sunday, Price per person: $160, Age: 15+ Rafting: Day: Sunday, Price per person: $45, Age: 13+ Paragliding: Day: Thursday, Price per person: $70, Age: 18+",
+        "soru_metni": "According to the information above, which of the following sports are they going to choose?",
+        "secenekler": {
+            "A": "Hang-gliding",
+            "B": "Skydiving",
+            "C": "Rafting",
+            "D": "Paragliding"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 35,
+        "konu": "6. Adventures",
+        "kontext": "Jack invites his friends to go paragliding on Saturday. Here are some facts about his friends: Bob has some economic problems. Sam doesn’t have a parachute. Jane enjoys adventure. Mary has an appointment with her dentist.",
+        "soru_metni": "Which one of the following excuses does NOT reflect the truth about Jack’s friends?",
+        "secenekler": {
+            "A": "I’d love to but I have a health problem that I have to deal with.",
+            "B": "I am sorry, I can’t because I do not have the necessary equipment.",
+            "C": "I always wanted to try it, but it is too expensive for me.",
+            "D": "I am not interested in risky sports. They scare me."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 36,
+        "konu": "6. Adventures",
+        "kontext": "Happy Sports Club prepares a questionnaire for its new members to find the most appropriate sports for them. Here are the answers given by three new members:\nAre you an adventurous person? (Emily: Yes | George: No | Steve: Yes)\nAre you interested in outdoor activities? (Emily: Yes | George: Yes | Steve: Yes)\nAre you afraid of air sports? (Emily: No | George: Yes | Steve: Yes)\nDo you prefer water sports? (Emily: No | George: Yes | Steve: No)",
+        "soru_metni": "According to their answers, what is the best option for each new member?",
+        "secenekler": {
+            "A": "Emily: Bungee jumping, George: Rafting, Steve: Motor racing",
+            "B": "Emily: Skydiving, George: Swimming, Steve: Skateboarding",
+            "C": "Emily: Canoeing, George: Trekking, Steve: Mountain biking",
+            "D": "Emily: Hang-gliding, George: Cycling, Steve: Paragliding"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 37,
+        "konu": "6. Adventures",
+        "kontext": "Are you interested in nature? • Would you like to take a balloon tour? • What about trying horse-riding or paragliding? Then, take a trip to Göreme between August 28-30. Enjoy a two-night stay at a five-star hotel. For more information call: 0 500 123 45 67",
+        "soru_metni": "Which question is NOT answered in the text?",
+        "secenekler": {
+            "A": "What do we eat?",
+            "B": "How long is the trip?",
+            "C": "What activities do you offer?",
+            "D": "Where do we stay during the trip?"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 38,
+        "konu": "7. Tourism",
+        "kontext": "Fiona: I work in a big city, so holidays are important for me. I prefer summer holidays. I love the sea and the beach, but historic places attract me most. I have exciting plans for next summer. First, I am going to visit an ancient city because I like walking through old cities and learning about different cultures. Then, I will go to a beautiful hotel by the beach and swim every day.",
+        "soru_metni": "Where is she going to start her holiday?",
+        "secenekler": {
+            "A": "A tropical beach and sea view",
+            "B": "An ancient city with historic ruins",
+            "C": "A hot air balloon over sand dunes",
+            "D": "A modern city with skyscrapers"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 39,
+        "konu": "7. Tourism",
+        "kontext": "TRAVEL TO TURKEY BALIKESİR: It’s famous for Mount Ida (Kazdağı), special desserts, seafood, and local bazaars. You can enjoy swimming and going to the beautiful beaches. RİZE: Rize is famous for its natural beauties. Its most important features are: tea gardens, fish (hamsi), and local folk dance (horon). There are so many routes to go trekking. ADIYAMAN: It is a city of culture and ancient cities. Mount Nemrut is on the World Heritage List. It is also worth going for its local bazaars and of course its delicious food, especially meatballs (çiğ köfte). VAN: Van is not by the sea, but it has Turkey’s biggest lake. It is one of the best places for rafting and paragliding. Local bazaars and its famous breakfast attract many local and foreign tourists.",
+        "soru_metni": "After Andrew saw the brochure, he decided to go to Turkey because he studies history at university. He thinks this trip will be useful for his lessons. Which city should he go?",
+        "secenekler": {
+            "A": "Adıyaman",
+            "B": "Balıkesir",
+            "C": "Rize",
+            "D": "Van"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 40,
+        "konu": "7. Tourism",
+        "kontext": "TRAVEL TO TURKEY BALIKESİR: It’s famous for Mount Ida (Kazdağı), special desserts, seafood, and local bazaars. You can enjoy swimming and going to the beautiful beaches. RİZE: Rize is famous for its natural beauties. Its most important features are: tea gardens, fish (hamsi), and local folk dance (horon). There are so many routes to go trekking. ADIYAMAN: It is a city of culture and ancient cities. Mount Nemrut is on the World Heritage List. It is also worth going for its local bazaars and of course its delicious food, especially meatballs (çiğ köfte). VAN: Van is not by the sea, but it has Turkey’s biggest lake. It is one of the best places for rafting and paragliding. Local bazaars and its famous breakfast attract many local and foreign tourists.",
+        "soru_metni": "In all the cities, a tourist can - - - -. Complete the sentence.",
+        "secenekler": {
+            "A": "enjoy extreme sports",
+            "B": "see an ancient city",
+            "C": "do water sports",
+            "D": "taste local food"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 41,
+        "konu": "7. Tourism",
+        "kontext": "ITALY TRAVEL GUIDE\nHow To Travel: Around the city: Travelling by bus is cheap, but it isn’t the fastest way.\nWhat to do: Explore Ancient Rome, Enjoy the countryside, Try different types of pasta, Attend a traditional food festival.\nWhere to stay: Choose a hotel around the places you will go, so you can walk and enjoy the streets in the city. Try staying in the countryside.\nWhen to visit: There’s really no “bad” time to visit Italy. You can enjoy Italy the whole year. Especially between April and July.",
+        "soru_metni": "On the website, you can find information about - - - -.",
+        "secenekler": {
+            "A": "cheaper accommodation tips",
+            "B": "the most appropriate months to go to Italy",
+            "C": "the activities that local people enjoy most",
+            "D": "the fastest transportation way to the countryside"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 42,
+        "konu": "7. Tourism",
+        "kontext": "The website helps tourists to plan their trip according to their interests. First, write where you are going. Then, choose the topics you are interested in. The website finds the appropriate places or activities for you. [WEBSITE INTERFACE: PLAN YOUR TRIP] Enter your destination: country, region or city. +Add destination Date | Adult | Child Choose categories:Culture,Museum,Food and Drink,Fun,Wildlife,Beaches,Shopping,Historic Sites",
+        "soru_metni": "If you are interested in eating local food, going to concerts and swimming, which options should you choose?",
+        "secenekler": {
+            "A": "Culture, Wildlife, and Fun",
+            "B": "Beaches, Fun, and Food & Drink",
+            "C": "Historic Sites, Beaches, and Wildlife",
+            "D": "& Drink C: Historic Sites, Beaches, and Wildlife D:"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 43,
+        "konu": "7. Tourism",
+        "kontext": "erry asked some of his friends about their holiday plans and wrote down their answers. Here are his notes:\nLily: She likes water sports, so she is going to swim and go scuba diving. (Dates: 13 - 20 June)\nMary: She likes extreme sports. Therefore, she is going to do mountain biking and skydiving. (Dates: 18 - 22 May)\nTom: He is going to a summer camp because many people from different nationalities are going to be there. He is going to learn more about their cultures. (Dates: 21 - 23 August)\nDave: He is interested in history. Therefore, he is going to visit Göbeklitepe, Şanlıurfa which is nearly 12000 years old. (Dates: 22 - 24 April)",
+        "soru_metni": "Which of the following is NOT correct according to the information above?",
+        "secenekler": {
+            "A": "Lily is planning a seaside holiday for the summer.",
+            "B": "Mary and Dave prefer different kinds of holidays.",
+            "C": "Lily’s and Tom’s holidays have the same duration.",
+            "D": "Dave is going to visit an ancient site."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 44,
+        "konu": "7. Tourism",
+        "kontext": "Terry asked some of his friends about their holiday plans and wrote down their answers. Here are his notes:\nLily: She likes water sports, so she is going to swim and go scuba diving. (Dates: 13 - 20 June)\nMary: She likes extreme sports. Therefore, she is going to do mountain biking and skydiving. (Dates: 18 - 22 May)\nTom: He is going to a summer camp because many people from different nationalities are going to be there. He is going to learn more about their cultures. (Dates: 21 - 23 August)\nDave: He is interested in history. Therefore, he is going to visit Göbeklitepe, Şanlıurfa which is nearly 12000 years old. (Dates: 22 - 24 April)",
+        "soru_metni": "Which of the following does NOT have an answer in the text above?",
+        "secenekler": {
+            "A": "Which equipment do they need on their holidays?",
+            "B": "Who prefers going on an adventure holiday?",
+            "C": "When are they going to have their holidays?",
+            "D": "Why are they going on such holidays?"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 45,
+        "konu": "7. Tourism",
+        "kontext": "Mr. Black asked 100 students about their holiday preferences. Here are the results: More than half of the students prefer a holiday by the seaside. The number of students that are interested in wildlife is the least one. Visiting historic sites is as popular as ice-climbing.",
+        "soru_metni": "According to the results of the survey, which of the following is CORRECT?",
+        "secenekler": {
+            "A": "Beach holiday 60%, Safari 10%, Winter 15%, Cultural 15%",
+            "B": "Beach holiday 65%, Safari 15%, Winter 10%, Cultural 10%",
+            "C": "Beach holiday 55%, Safari 5%, Winter 30%, Cultural 10%",
+            "D": "Beach holiday 45%, Safari 15%, Winter 20%, Cultural 20%"
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 46,
+        "konu": "7. Tourism",
+        "kontext": "Mary is a sixteen-year-old girl, and she loves trying extreme sea sports. She also likes visiting ancient places, but she doesn’t find wildlife interesting. She has $750 and wants to buy a tour for herself. Here are the tour options on https://www.google.com/search?q=dimpletours.com:\nA nature tour: Walking on different coasts. Age: 15+. Price: $800.\nA historic tour: Best of Egypt. Age: 5+. Price: $700.\nA safari tour: Wildlife in Kenya. Age: 14+. Price: $500.\nA boat tour: Island Hopper, Learn to surf. Age: 18+. Price: $600.",
+        "soru_metni": "According to the information above, which of the following tours can Mary choose?",
+        "secenekler": {
+            "A": "A nature tour",
+            "B": "A historic tour",
+            "C": "A safari tour",
+            "D": "A boat tour"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 47,
+        "konu": "7. Tourism",
+        "kontext": "Mary and her friends are talking about their holiday preferences. Mary: For me, Manavgat is the most fascinating place in Antalya. Sally: I would like to stay at a bed and breakfast hotel because it is cheaper. Tom: I prefer going on a holiday in April because the weather is warmer at that time of the year. Barney: I enjoy swimming and scuba diving, so I would like to go on a seaside holiday.",
+        "soru_metni": "In their holiday preferences, Mary and her friends are NOT talking about - - - -.",
+        "secenekler": {
+            "A": "accommodation",
+            "B": "climate",
+            "C": "location",
+            "D": "transportation"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 48,
+        "konu": "7. Tourism",
+        "kontext": "A travel magazine asks 100 women and 100 men what they travel for and here are the results:\nDoing business: Women 40%, Men 55%\nVisiting family members: Women 25%, Men 20%\nSolving health problems: Women 20%, Men 15%\nExploring new countries: Women 15%, Men 10%",
+        "soru_metni": "Which of the following is CORRECT according the information given?",
+        "secenekler": {
+            "A": "Both women and men mostly travel for work.",
+            "B": "Men travel to see their relatives more than women do.",
+            "C": "Men travel as often as women for medical purposes.",
+            "D": "Women travel to learn about different cultures less than men do."
+        },
+        "dogru_cevap": "A"
+    },
+    {
+        "id": 49,
+        "konu": "7. Tourism",
+        "kontext": "Billy and his friends are talking about their holiday preferences: Billy : Having a historical vacation and seeing ancient places is the best holiday for me. Brian : I would rather go on a cruise holiday because I love travelling by sea. George : Going to the mountains and staying in a tent is, in my opinion, the best vacation. Harry : I prefer being in nature and going camping. I feel free while doing these activities.",
+        "soru_metni": "According to the information above, which two people can go on a vacation together?",
+        "secenekler": {
+            "A": "Billy and Brian",
+            "B": "Brian and George",
+            "C": "George and Harry",
+            "D": "Harry and Billy"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 50,
+        "konu": "8. Chores",
+        "kontext": "Emily Jones is our teacher. Every week, she gives rewards to the student who has most smiling faces for each title on the table. Last week, Jack got a book for keeping the class clean because he had most smiling faces. [Responsibilities in Class Table Results]\nMark: Coming to class on time (3), Helping other students (3), Doing your homework (4), Keeping the class clean (2).\nLily: Coming to class on time (5), Helping other students (2), Doing your homework (3), Keeping the class clean (2).\nJennifer: Coming to class on time (2), Helping other students (5), Doing your homework (3), Keeping the class clean (1).\nAmelie: Coming to class on time (4), Helping other students (3), Doing your homework (5), Keeping the class clean (3).\nJack: Coming to class on time (3), Helping other students (4), Doing your homework (3), Keeping the class clean (5).",
+        "soru_metni": "Unfortunately, - - - - could not get any prizes last week.",
+        "secenekler": {
+            "A": "Jennifer",
+            "B": "Amelie",
+            "C": "Lily",
+            "D": "Mark"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 51,
+        "konu": "8. Chores",
+        "kontext": "Who does the chores in your house? A study shows the percentage of chores done by family members:\nTotal Workload (Pie Chart): Mothers 42%, Fathers 42%, Children 16%.\nSpecific Chores (Bar Chart):\nVacuuming: Mothers and Fathers are equal (75%), Children are low (approx 15%).\nSetting the table: Fathers do it most (60%), followed by Mothers and Children (40%).\nMaking the beds: Mothers do it most (70%), followed by Fathers (50%) and Children (30%).\nCooking: Mothers and Fathers are equal (50%).\nShopping: Mothers and Fathers are equal (50%), Children are low (15%).",
+        "soru_metni": "----do most of the chores in the house. Complete the sentence according to the information above.",
+        "secenekler": {
+            "A": "Mothers",
+            "B": "Parents",
+            "C": "Children",
+            "D": "Fathers"
+        },
+        "dogru_cevap": "B"
+    },
+    {
+        "id": 52,
+        "konu": "8. Chores",
+        "kontext": "Who does the chores in your house? The charts show the distribution of chores among family members:\nPie Chart (Total Work): Mothers (42%), Fathers (42%), Children (16%).\nBar Chart (Specific Chores):\nVacuuming: Mothers and Fathers are equal (75%), Children are low.\nSetting the table: Fathers are the highest (60%). Mothers and Children are equal (40%).\nMaking the beds: Mothers are the highest (70%), followed by Fathers (50%) and Children (30%).\nCooking: Mothers and Fathers are equal (50%). Children do not cook.\nShopping: Mothers and Fathers are equal (50%), Children are low.",
+        "soru_metni": "Which of the following is CORRECT according to the information?",
+        "secenekler": {
+            "A": "Every member of the family takes part in all the household chores.",
+            "B": "Fathers spend more time on cooking than mothers and children do.",
+            "C": "Mothers are in charge of making the beds less than other members of the family are.",
+            "D": "he number of mothers vacuuming the house is the same as the number of fathers."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 53,
+        "konu": "8. Chores",
+        "kontext": "Student Responsibilities\nAs a student of class 3 – A, I accept to obey all the rules in my classroom.\n✓ Study hard and do all my homework.\n✓ Dress appropriately.\n✓ Respect all students and teachers.\n✓ Come to class on time.\n✓ Help other students.\n✓ Listen carefully to my teacher.\n✓ Keep the classroom clean and tidy.\nName: Susan Bell",
+        "soru_metni": "A student in this class should - - - -.",
+        "secenekler": {
+            "A": "hit their friends",
+            "B": "be late for the lesson",
+            "C": "not do their homework",
+            "D": "not throw garbage on floor"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 54,
+        "konu": "8. Chores",
+        "kontext": "Tom, David, Alice, and Mary are brothers and sisters who have different responsibilities at home on different days. Here is some information about their chores:\n• Tom has to prepare the meal.\n• David must wash the clothes.\n• Alice is responsible for outdoor chores.\n• Mary is in charge of cleaning the floors.\n[DAYS - CHORES]\nMonday: Doing the shopping\nThursday: Cooking\nFriday: Doing the laundry\nSunday: Vacuuming\nSoru Metni:",
+        "soru_metni": "According to the information above, who has a chore at the weekend?",
+        "secenekler": {
+            "A": "Tom",
+            "B": "David",
+            "C": "Alice",
+            "D": "Mary"
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 55,
+        "konu": "8. Chores",
+        "kontext": "In the table, you see the household chores Martin and his friends are responsible for.\n[Table of Chores]\nMartin: (On weekdays) Clean the bathroom, Take out the garbage | (At weekends) Do the grocery shopping, Sweep the leaves\nEllen: (On weekdays) Feed the dog, Do the ironing | (At weekends) Cook dinner, Feed the dog\nLucy: (On weekdays) Do the laundry, Cook dinner | (At weekends) Vacuum the floor, Do the laundry\nJason: (On weekdays) Water the flowers, Make the beds | (At weekends) Do the ironing, Clean the bathroom",
+        "soru_metni": "Which of the following questions CANNOT be answered using the information in the table?",
+        "secenekler": {
+            "A": "Who is responsible for watering the flowers on weekdays?",
+            "B": "What does Martin do in the garden at weekends?",
+            "C": "Which household chore does Lucy like doing most?",
+            "D": "Who has to do the same chore both on weekdays and at weekends?"
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 56,
+        "konu": "8. Chores",
+        "kontext": "Every morning, Mrs. Thompson gives each family member some duties. She writes notes and sticks them on the fridge.\n[Notes on the fridge]\nMr. Thompson: Do not forget to go to the butcher and do the grocery shopping.\nAlice: Today is laundry day. Put the clothes with similar colours together into the machine.\nMax: You are in charge of vacuuming the floors and dusting the shelves.\nSam: Your duty is to take out the garbage.\nSoru Metni:",
+        "soru_metni": "Which of the following is NOT correct according to the information above?",
+        "secenekler": {
+            "A": "Mr. Thompson must do some outdoor chores.",
+            "B": "Max has to clean the floors and the shelves.",
+            "C": "Alice is in charge of washing the clothes.",
+            "D": "Sam is responsible for taking care of the pet."
+        },
+        "dogru_cevap": "D"
+    },
+    {
+        "id": 57,
+        "konu": "9. Science",
+        "kontext": "Aziz Sancar was born in Savur, Mardin in 1946. He had four brothers and three sisters. His parents were not rich and all the children including Aziz helped them with their work. He worked hard to be a doctor. He has conducted a lot of research on medicine. Today, he is a world famous scientist who has the Nobel Prize in chemistry.",
+        "soru_metni": "What is the main idea of the text?",
+        "secenekler": {
+            "A": "Famous scientists have Nobel prizes.",
+            "B": "He had many brothers and sisters.",
+            "C": "Hard work brings success.",
+            "D": "It was difficult to be a doctor."
+        },
+        "dogru_cevap": "C"
+    },
+    {
+        "id": 58,
+        "konu": "10. Natural Forces",
+        "kontext": "DISASTERS IN HISTORY\nDISASTER : - - - -\nDATE : March 2, 1933\nLOCATION : Japan\nMAGNITUDE : 8.4",
+        "soru_metni": "Which of the following completes the blank above?",
+        "secenekler": {
+            "A": "Earthquake",
+            "B": "Forest fire",
+            "C": "Drought",
+            "D": "Flood"
+        },
+        "dogru_cevap": "A"
+    }
+]

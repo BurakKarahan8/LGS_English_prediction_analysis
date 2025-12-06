@@ -1,7 +1,8 @@
 [
     {
         "id": 1,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "George : I'm planning a surprise birthday party for mum. Hannah : I love surprise parties! I promise I won't tell it to anybody. George : Thanks. I know I can ---- you.",
         "secenekler": {
             "A": "back up",
@@ -13,7 +14,8 @@
     },
     {
         "id": 2,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "Ken : Amy and I are going to a concert tomorrow ----? Pete : Cool! I'd love to.",
         "secenekler": {
             "A": "Fancy joining us",
@@ -25,7 +27,8 @@
     },
     {
         "id": 3,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "Sam : What're you doing tonight? Would you like to drink something at a café? Carl :----. Sam : No matter. Well, maybe tomorrow.",
         "secenekler": {
             "A": "Yes, I'd like to.",
@@ -37,7 +40,8 @@
     },
     {
         "id": 4,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "Nina : My mom cooked some delicious chocolate cakes. Would you like to have some? Tom : Thanks, but - - - -.",
         "secenekler": {
             "A": "I'm really full",
@@ -49,7 +53,8 @@
     },
     {
         "id": 5,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "Jonathan: We're meeting with friends for a coffee at one o'clock tomorrow. Why don't you join us? Cindy : Sorry, - -- -. I have a tennis match then.",
         "secenekler": {
             "A": "I hope I'll",
@@ -61,7 +66,8 @@
     },
     {
         "id": 6,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "Ashley : What about watching a movie tonight? Ceren :----. Ashley : Yes, I bought a new comedy DVD.",
         "secenekler": {
             "A": "Great idea! Do you have something in your mind?",
@@ -73,7 +79,8 @@
     },
     {
         "id": 7,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "I. Would you like to join and have fun with us? II. Love, Lara. III. Dear friends, IV. I'm going to have a party tomorrow. Yukarıda karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "III-I-III-IV",
@@ -85,7 +92,8 @@
     },
     {
         "id": 8,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "A friend of yours invites you to dinner. What do you say to refuse the invitation?",
         "secenekler": {
             "A": "Yes. Sounds good.",
@@ -97,7 +105,8 @@
     },
     {
         "id": 9,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "What do you say to invite a friend to your house? Choose the correct option.",
         "secenekler": {
             "A": "Would you like to join us?",
@@ -109,7 +118,8 @@
     },
     {
         "id": 10,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "(I) Great buddies always back each other up. (II) They are always there when you are in trouble. (III) You have nothing in common. (IV) You count on him / her because they are reliable. Friendship is one mind in two bodies. Yukarıdaki paragrafta numaralanmış cümlelerden anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
         "secenekler": {
             "A": "I",
@@ -121,7 +131,7 @@
     },
     {
         "id": 11,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
         "kontext": "Dear Friends, I'm turning 15 and having a party at home. Would you like to join? It's on Tuesday, 29th September at 7 pm. I hope you know the address. (It's 22, Cornhill Street) Love Jane P.S: You can bring some music CDs you like.",
         "soru_metni": "What is the invitation about?",
         "secenekler": {
@@ -134,7 +144,7 @@
     },
     {
         "id": 12,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
         "kontext": "Dear Friends, I'm turning 15 and having a party at home. Would you like to join? It's on Tuesday, 29th September at 7 pm. I hope you know the address. (It's 22, Cornhill Street) Love Jane P.S: You can bring some music CDs you like.",
         "soru_metni": "When is the party?",
         "secenekler": {
@@ -147,8 +157,9 @@
     },
     {
         "id": 13,
-        "konu": "Friendship",
-        "soru_metni": "Nancy : Hey, Lydia. Why don't you ---- me if you aren't busy. I need your help. Lydia : All right. I'll come over in the afternoon. [cite: 1]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "Nancy : Hey, Lydia. Why don't you ---- me if you aren't busy. I need your help. Lydia : All right. I'll come over in the afternoon.",
         "secenekler": {
             "A": "invite",
             "B": "back up",
@@ -159,8 +170,9 @@
     },
     {
         "id": 14,
-        "konu": "Friendship",
-        "soru_metni": "Mike : Amy is coming tomorrow night. Would you like to come? Kate :----, thanks. Shall I bring some food. Mike : You don't need to bring anything. I'm going to make some sandwiches. [cite: 2]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "Mike : Amy is coming tomorrow night. Would you like to come? Kate :----, thanks. Shall I bring some food. Mike : You don't need to bring anything. I'm going to make some sandwiches.",
         "secenekler": {
             "A": "I'm sorry",
             "B": "I'd love to",
@@ -171,8 +183,9 @@
     },
     {
         "id": 15,
-        "konu": "Friendship",
-        "soru_metni": "Lily : There is a great movie on TV tonight. Would you like to see it with me? Mia : Oh, I love movies. - - - -? Lily : At 9 p.m. Come over at about half past eight. Mia : OK. So, see you in the evening. [cite: 3]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "Lily : There is a great movie on TV tonight. Would you like to see it with me? Mia : Oh, I love movies. - - - -? Lily : At 9 p.m. Come over at about half past eight. Mia : OK. So, see you in the evening.",
         "secenekler": {
             "A": "What time does it start",
             "B": "Why don't you come along",
@@ -183,8 +196,9 @@
     },
     {
         "id": 16,
-        "konu": "Friendship",
-        "soru_metni": "Janet : Would you like to come to my party on Saturday? Emma :----. I'll definitely be there. Janet : See you on Saturday then. [cite: 4]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "Janet : Would you like to come to my party on Saturday? Emma :----. I'll definitely be there. Janet : See you on Saturday then.",
         "secenekler": {
             "A": "I must help my dad",
             "B": "Thanks for inviting me",
@@ -195,8 +209,9 @@
     },
     {
         "id": 17,
-        "konu": "Friendship",
-        "soru_metni": "William :----? Mark : It's on 28th September. [cite: 5]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "William :----? Mark : It's on 28th September.",
         "secenekler": {
             "A": "Shall we go for a walk",
             "B": "How about a slumber party",
@@ -207,8 +222,9 @@
     },
     {
         "id": 18,
-        "konu": "Friendship",
-        "soru_metni": "Dear Thomas, I'm writing to invite you to my birthday party. It's on Sunday at 3 pm. Love, Anna. ---- [cite: 6]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "Dear Thomas, I'm writing to invite you to my birthday party. It's on Sunday at 3 pm. Love, Anna. ----",
         "secenekler": {
             "A": "We get on well",
             "B": "It's a chance for you",
@@ -219,8 +235,9 @@
     },
     {
         "id": 19,
-        "konu": "Friendship",
-        "soru_metni": "Sandra : We're watching a DVD at my house this evening. - - - -? Robert : Cool! That sounds great. Karşılıklı konuşmada boş bırakılan yere hangi seçenek getirilemez? [cite: 7]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "Sandra : We're watching a DVD at my house this evening. - - - -? Robert : Cool! That sounds great. Karşılıklı konuşmada boş bırakılan yere hangi seçenek getirilemez?",
         "secenekler": {
             "A": "What time is it",
             "B": "Fancy joining us",
@@ -231,8 +248,9 @@
     },
     {
         "id": 20,
-        "konu": "Friendship",
-        "soru_metni": "One of your friends has two tickets for a concert next Sunday. He invites you to the concert. What do you say to refuse politely? Choose the correct option. [cite: 8]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "One of your friends has two tickets for a concert next Sunday. He invites you to the concert. What do you say to refuse politely? Choose the correct option.",
         "secenekler": {
             "A": "Thanks. I'll definitely be there.",
             "B": "Yes, I'd love to. What time is it?",
@@ -243,8 +261,9 @@
     },
     {
         "id": 21,
-        "konu": "Friendship",
-        "soru_metni": "I. Nothing special. Why? II. Hey, Pete. What are you doing tonight? III. Yeah, I'd like to. IV. Would you like to come over for a drink? Yukarıda karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz. [cite: 11]",
+        "konu": "1. Friendship",
+        "kontext": "",
+        "soru_metni": "I. Nothing special. Why? II. Hey, Pete. What are you doing tonight? III. Yeah, I'd like to. IV. Would you like to come over for a drink? Yukarıda karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "IV-III-II-I",
             "B": "IV-III-I-II",
@@ -255,9 +274,9 @@
     },
     {
         "id": 22,
-        "konu": "Friendship",
-        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda [cite: 12]",
-        "soru_metni": "Who can't attend to the party? [cite: 12]",
+        "konu": "1. Friendship",
+        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda",
+        "soru_metni": "Who can't attend to the party?",
         "secenekler": {
             "A": "Sandra",
             "B": "Jessica",
@@ -268,9 +287,9 @@
     },
     {
         "id": 23,
-        "konu": "Friendship",
-        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda [cite: 13]",
-        "soru_metni": "---- because she isn't available then. [cite: 13]",
+        "konu": "1. Friendship",
+        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda",
+        "soru_metni": "---- because she isn't available then.",
         "secenekler": {
             "A": "Mandy will help Sandra",
             "B": "Betty isn't going to be there",
@@ -281,9 +300,9 @@
     },
     {
         "id": 24,
-        "konu": "Friendship",
-        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda [cite: 15]",
-        "soru_metni": "---- accepts the invitation. [cite: 15]",
+        "konu": "1. Friendship",
+        "kontext": "LIVE CHAT Hi, girls. I am giving a party after school on Friday. I expect to see you all. 14.32 Sandra Hello Sandra. In fact, I'll be very busy then. I should finish my project. 14.34 Jessica It sounds awesome. Do you need anything? Call me if you do. See you. 14.35 Mandy Hi, a party? Good idea! I'll be there. Thanks for the invitation. 14.39 Betty I'd love to but I have to help my brother with his homework. Another time, maybe. 14.41 Amanda",
+        "soru_metni": "---- accepts the invitation.",
         "secenekler": {
             "A": "Mandy",
             "B": "Sandra",
@@ -294,7 +313,8 @@
     },
     {
         "id": 25,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Alex : Cycling is a good exercise and it's my favourite sport. Brad :----. I think, it is healthy and exciting",
         "secenekler": {
             "A": "It is a good choice",
@@ -306,7 +326,8 @@
     },
     {
         "id": 26,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Lucy : How often do you play computer games? Sally : Never. --",
         "secenekler": {
             "A": "I don't think so",
@@ -318,7 +339,8 @@
     },
     {
         "id": 27,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Alex :----? Mark : Twice a day.",
         "secenekler": {
             "A": "How do you go to school",
@@ -330,7 +352,8 @@
     },
     {
         "id": 28,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Mary : There is a rock concert in the town. Would you like to come with me? Jack : I know but - - - -. Mary : Oh, come on. It's a famous band. Jack : Sorry, but I can't stand it. Mary : All right. Then I'm going alone.",
         "secenekler": {
             "A": "I love their songs",
@@ -342,7 +365,8 @@
     },
     {
         "id": 29,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Donna : What do you think of this dress? Carol :----. You can wear it for the party.",
         "secenekler": {
             "A": "It's very pretty and impressive",
@@ -354,7 +378,8 @@
     },
     {
         "id": 30,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Bill : Do you prefer wearing fashion clothes or casual clothes? Mike : I prefer casual clothes because .-. Bill : I agree with you. I always prefer jeans and a t-shirt.",
         "secenekler": {
             "A": "they are not popular clothes",
@@ -366,7 +391,8 @@
     },
     {
         "id": 31,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Jeremy spends a lot of money on clothes because - - - -.",
         "secenekler": {
             "A": "he likes being trendy",
@@ -378,7 +404,8 @@
     },
     {
         "id": 32,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "(I)I usually get up at 7 a.m. (II) We usually have cheese, olives, eggs and tea. (III) I have breakfast with my family at about 8 a.m. (IV) Then, I have a shower and brush my teeth. Yukarıdaki paragrafta hangi iki cümle yer değiştirirse anlam bütünlüğü sağlanmış olur?",
         "secenekler": {
             "A": "I-II",
@@ -390,7 +417,8 @@
     },
     {
         "id": 33,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "(I) Cycling is my favourite sport. (II) Mudguards protect you and your bike from mud and water. (III) I often go cycling to the riverside or to the park near my neighbourhood. (IV) I usually go with my brother or friends. Numaralanmış cümlelerden paragrafın anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
         "secenekler": {
             "A": "Ι.",
@@ -402,7 +430,7 @@
     },
     {
         "id": 34,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Hi, my name is Ali and I am fourteen. I always get up at 7 a.m. Then I wash my face and brush my teeth. I have breakfast at about 7.30. I usually have milk for breakfast. I usually take the bus to school but sometimes my parents take me, too. After school, I arrive home at about 3.30 pm. When I get home, I rest for a while. Then I usually do my homework or surf on the Net. We have dinner at about 7 pm. I often watch movies or listen to music in the evenings. I rarely stay up late and usually go to bed before 11 pm.",
         "soru_metni": "Ali comes home after school at - - - -.",
         "secenekler": {
@@ -415,7 +443,7 @@
     },
     {
         "id": 35,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Hi, my name is Ali and I am fourteen. I always get up at 7 a.m. Then I wash my face and brush my teeth. I have breakfast at about 7.30. I usually have milk for breakfast. I usually take the bus to school but sometimes my parents take me, too. After school, I arrive home at about 3.30 pm. When I get home, I rest for a while. Then I usually do my homework or surf on the Net. We have dinner at about 7 pm. I often watch movies or listen to music in the evenings. I rarely stay up late and usually go to bed before 11 pm.",
         "soru_metni": "Which one is false according to the text?",
         "secenekler": {
@@ -428,7 +456,7 @@
     },
     {
         "id": 36,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Hi, my name is Ali and I am fourteen. I always get up at 7 a.m. Then I wash my face and brush my teeth. I have breakfast at about 7.30. I usually have milk for breakfast. I usually take the bus to school but sometimes my parents take me, too. After school, I arrive home at about 3.30 pm. When I get home, I rest for a while. Then I usually do my homework or surf on the Net. We have dinner at about 7 pm. I often watch movies or listen to music in the evenings. I rarely stay up late and usually go to bed before 11 pm.",
         "soru_metni": "Aşağıdaki sorulardan hangisinin cevabı metinde yoktur?",
         "secenekler": {
@@ -441,7 +469,8 @@
     },
     {
         "id": 37,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "It will be a formal meeting. Don't wear - - - clothes.",
         "secenekler": {
             "A": "nerd",
@@ -453,7 +482,8 @@
     },
     {
         "id": 38,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Lisa : Do you like pop music? Paul :----. I prefer jazz.",
         "secenekler": {
             "A": "Not really",
@@ -465,7 +495,8 @@
     },
     {
         "id": 39,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Judy : What do you think about the movie, Adam? Adam :----. Thanks for inviting me. Judy : Good to hear that.",
         "secenekler": {
             "A": "A terrible performance",
@@ -477,7 +508,8 @@
     },
     {
         "id": 40,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Charles :----? Donna : Travelling by plane. It's faster and less tiring.",
         "secenekler": {
             "A": "Which one do you prefer",
@@ -489,7 +521,8 @@
     },
     {
         "id": 41,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Amelia :----? Olivia : Well, when I get home, I rest for a while. Then, I do my homework.",
         "secenekler": {
             "A": "What kind of sports do you do",
@@ -501,7 +534,8 @@
     },
     {
         "id": 42,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Mary :----? Patricia : It's very pretty. I love it.",
         "secenekler": {
             "A": "What do you think of this dress",
@@ -513,7 +547,8 @@
     },
     {
         "id": 43,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "One of your friends invites you to a rock concert. But you aren't into it. Because you think it's too loud. So you apologize to your friend and refuse it politely. What do you say?",
         "secenekler": {
             "A": "Sorry, but I can't hang out with you. Don't ask again.",
@@ -525,7 +560,8 @@
     },
     {
         "id": 44,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "Tim always gets up early. Tim never leaves room untidy. Tim sometimes reads a book. Tim never listens to music. Which one is false according to the table?",
         "secenekler": {
             "A": "Tim never gets up late.",
@@ -537,7 +573,8 @@
     },
     {
         "id": 45,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "I. In the afternoon, I usually do my homework. II. I always get up at 7 a.m. III. After dinner, I often listen to music or watch TV. IV. After breakfast, I go to school. Yukarıda karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "II-I-IV-III",
@@ -549,7 +586,7 @@
     },
     {
         "id": 46,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Hi, everybody! I'm Elliot. Saturday is my favourite day. I usually get up at 10 o'clock. I have a big breakfast with my family. Then I go to swimming pool. In the afternoon I always meet with friends and we have lunch at our favourite café. I usually have a cheese sandwich. After lunch, we usually go to the cinema. If the weather is bad we hang out at the mall. We love looking at the shop windows but we rarely do shopping together. I always stay at home on Saturday evenings and do my homework. After I finish my homework, I often watch a DVD with mum and dad. We like comedy movies. Before I go to bed I always listen to some relaxing music.",
         "soru_metni": "Elliot never ---",
         "secenekler": {
@@ -562,7 +599,7 @@
     },
     {
         "id": 47,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Hi, everybody! I'm Elliot. Saturday is my favourite day. I usually get up at 10 o'clock. I have a big breakfast with my family. Then I go to swimming pool. In the afternoon I always meet with friends and we have lunch at our favourite café. I usually have a cheese sandwich. After lunch, we usually go to the cinema. If the weather is bad we hang out at the mall. We love looking at the shop windows but we rarely do shopping together. I always stay atat home on Saturday evenings and do my homework. After I finish my homework, I often watch a DVD with mum and dad. We like comedy movies. Before I go to bed I always listen to some relaxing music.",
         "soru_metni": "What do Elliot and his friends do if the weather isn't good?",
         "secenekler": {
@@ -575,7 +612,7 @@
     },
     {
         "id": 48,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Hi, everybody! I'm Elliot. Saturday is my favourite day. I usually get up at 10 o'clock. I have a big breakfast with my family. Then I go to swimming pool. In the afternoon I always meet with friends and we have lunch at our favourite café. I usually have a cheese sandwich. After lunch, we usually go to the cinema. If the weather is bad we hang out at the mall. We love looking at the shop windows but we rarely do shopping together. I always stay at home on Saturday evenings and do my homework. After I finish my homework, I often watch a DVD with mum and dad. We like comedy movies. Before I go to bed I always listen to some relaxing music.",
         "soru_metni": "Metne göre doğru ifadeyi işaretleyiniz.",
         "secenekler": {
@@ -588,7 +625,8 @@
     },
     {
         "id": 49,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Beshbarmak is the national dish of Turkmenistan and it consists of",
         "secenekler": {
             "A": "country in the South Central Asia",
@@ -600,7 +638,8 @@
     },
     {
         "id": 50,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Deborah: How much sugar do you have in your tea? Kimberly I have some. ----? Deborah: I stopped taking sugar in my tea and coffee.",
         "secenekler": {
             "A": "What's in it",
@@ -612,7 +651,8 @@
     },
     {
         "id": 51,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Robert : Let me taste the sauce. Sue : Go ahead, honey. Robert : Mmm, it's very tasty. - - - -? Sue : Garlic, onion, tomato and some olive oil.",
         "secenekler": {
             "A": "Why do you put butter in the sauce",
@@ -624,7 +664,8 @@
     },
     {
         "id": 52,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Waiter : Hello. What would you like to have, sir? Customer: Steak with mushroom sauce, please. Waiter : How would you like to have your steak? Customer: Waiter : Alright, sir.",
         "secenekler": {
             "A": "Cook it well, please",
@@ -636,7 +677,8 @@
     },
     {
         "id": 53,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "John : Do you like eating out? Susan : Yeah. Why do you ask? John :----? Susan : That would be great.",
         "secenekler": {
             "A": "Are you good at cooking meals",
@@ -648,7 +690,8 @@
     },
     {
         "id": 54,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Steven : What's your favourite snack? Edward : It's toast. Steven :----? Edwar : Unfortunately not. My mom always makes it for me.",
         "secenekler": {
             "A": "How often do you have it",
@@ -660,7 +703,8 @@
     },
     {
         "id": 55,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Ernst : Do you often have fish and chips? Arnold : Yes, I often have it when I eat out. Ernst :----? Arnold : Really delicious.",
         "secenekler": {
             "A": "How does it taste",
@@ -672,7 +716,8 @@
     },
     {
         "id": 56,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Your mother will cook eggs for the breakfast. She asks how you want your egg. You'd like to have an omelette that morning. What do you say?",
         "secenekler": {
             "A": "I'm sorry, but I won't have breakfast today.",
@@ -684,7 +729,8 @@
     },
     {
         "id": 57,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "I. First, put 3 tablespoons of oil on the pan. II. Then, heat the oil. III. After that, keep shaking the pan to keep corns from burning. IV. Next, add the corns to the pan and cover it. V. Finally, wait for the final pops and pour the popcorns into a bowl. Verilen listede hangi iki cümle yer değiştirirse anlamlı bir tarif olur?",
         "secenekler": {
             "A": "II - IV",
@@ -696,7 +742,8 @@
     },
     {
         "id": 58,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "You should first - - - - after you pour the water into the pan.",
         "secenekler": {
             "A": "serve it hot and immediately",
@@ -708,7 +755,8 @@
     },
     {
         "id": 59,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Which is not an ingredient?",
         "secenekler": {
             "A": "carrot",
@@ -720,7 +768,8 @@
     },
     {
         "id": 60,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Metinde numaralanmış yerlere gelmesi gereken kelimeler hangi seçenekte doğru verilmiştir. | | | | | :-: | :-----: | :----: | | | 1 | 2 | | A) | Melt | fry | | B) | Boil | serve | | C) | Spread | beat | | D) | Knead | add |",
         "secenekler": {
             "A": "Melt, fry",
@@ -732,7 +781,8 @@
     },
     {
         "id": 61,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Sue : What should I do after I put orzo in a saucepan? Chef : Well, before the orzo turns brown, - - - -",
         "secenekler": {
             "A": "add the rice and cook for 2 minutes",
@@ -744,7 +794,8 @@
     },
     {
         "id": 62,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "George : A Turkish breakfast starts with a nice cup of tea, however - - - -",
         "secenekler": {
             "A": "it is a tasty choise for dinner",
@@ -756,7 +807,8 @@
     },
     {
         "id": 63,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Ruth : I'd like to cook a vegetable pizza but - - - -. Can you help me with it? Linda : Sure. I'm good at making it.",
         "secenekler": {
             "A": "there is nothing better to eat",
@@ -768,7 +820,8 @@
     },
     {
         "id": 64,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Sam : - - - -? Can : I usually roast it. I sometimes grill it, too.",
         "secenekler": {
             "A": "How do you usually cook meat",
@@ -780,7 +833,8 @@
     },
     {
         "id": 65,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Jack has a sweet tooth so he likes - - - -.",
         "secenekler": {
             "A": "pasta and rice",
@@ -792,7 +846,8 @@
     },
     {
         "id": 66,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Betty : Would you like to have a cup of tea? Helen : - - - -. Betty : What about orange juice then? Helen : That's better.",
         "secenekler": {
             "A": "No, thanks. I'm not hungry",
@@ -804,7 +859,8 @@
     },
     {
         "id": 67,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "I usually - - - - potatoes in a pan.",
         "secenekler": {
             "A": "bake",
@@ -816,7 +872,8 @@
     },
     {
         "id": 68,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "(I) Ashure (Turkish: Aşure or AşurA) is a traditional Turkish pudding. (II) Ashure consists of grains, dried fruits and nuts. (III) Pudding is a kind of dessert and it is easy to make. (IV) There are no animal products like butter, milk or cheese in it. Numaralanmış cümlelerden paragrafın anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
         "secenekler": {
             "A": "I",
@@ -828,7 +885,8 @@
     },
     {
         "id": 69,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "I. Next, melt some butter on a pan and pour the mixture. II. First, crack two eggs in a bowl. III. Here is an easy recipe for omelette. IV. Add some salt and beat them well. V. Finally, cook your omelette for 3-5 minutes. Karışık olarak verilmiş cümleleri anlamlı bir yemek tarifi oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "IV-I-V-III - II",
@@ -840,7 +898,8 @@
     },
     {
         "id": 70,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Take-away food means - - - -",
         "secenekler": {
             "A": "eating a meal at a restaurant or cafe",
@@ -852,7 +911,8 @@
     },
     {
         "id": 71,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "People can eat fish and chips - - - -",
         "secenekler": {
             "A": "with a little vinegar or salt",
@@ -864,7 +924,8 @@
     },
     {
         "id": 72,
-        "konu": "Cooking",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "Which one is false according to the text?",
         "secenekler": {
             "A": "The potatoes of fish and chips are larger than French fries.",
@@ -876,7 +937,8 @@
     },
     {
         "id": 73,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "I usually to my friends.",
         "secenekler": {
             "A": "speak face-to-face",
@@ -888,7 +950,8 @@
     },
     {
         "id": 74,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Teenagers usually use their PCs, tablets or smart phones to -- with their friends.",
         "secenekler": {
             "A": "keep in touch",
@@ -900,7 +963,8 @@
     },
     {
         "id": 75,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "is a way of communication by using hands and other parts of the body.",
         "secenekler": {
             "A": "Sign language",
@@ -912,7 +976,8 @@
     },
     {
         "id": 76,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Peter :----? Mr. Brown: No, son. I don't have any accounts. I prefer socializing with my friends.",
         "secenekler": {
             "A": "Do you have any plans for this afternoon",
@@ -924,7 +989,8 @@
     },
     {
         "id": 77,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Secretary: Hello, Mrs. Jones speaking. Judy : Hello, could I speak to Mr. Taylor, please? Secretary : Judy : Judy Roberts. Secretary: OK, Mrs Roberts, could you hold on a moment, please?",
         "secenekler": {
             "A": "I'll call back later.",
@@ -936,7 +1002,8 @@
     },
     {
         "id": 78,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Jack : Is Steve there? Carol :---- I can't hear you. Jack : Is Steve at home? I'm Steve's friend, Jack.",
         "secenekler": {
             "A": "He's not available at the moment.",
@@ -948,7 +1015,8 @@
     },
     {
         "id": 79,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Teens mostly write text messages by using short combinations of numbers, words and symbols. For example,",
         "secenekler": {
             "A": "they prefer talking on landlines",
@@ -960,7 +1028,8 @@
     },
     {
         "id": 80,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Carol : How about hanging out this evening? Doris : Carol : No matter. We'll meet up later.",
         "secenekler": {
             "A": "I hope you feel better soon",
@@ -972,7 +1041,8 @@
     },
     {
         "id": 81,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "You want to invite one of your friends to your party but she didn't answer the phone. So you'd like to leave a voicemail. What do you say?",
         "secenekler": {
             "A": "Hello, Sarah. This is Martin. I'm having a party tonight. Would you like to join us?",
@@ -984,7 +1054,7 @@
     },
     {
         "id": 82,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
         "kontext": "Hi, Helen Jeff and I are going to the bookstore on Sunday. You know we are learning computer programming and we are going to buy a book about it. I know you are also interested in computer programming. Would you like to join us? Let me know if you can make it. We are going to leave home at 10 a.m. We can go to the cinema or eat at a restaurant after shopping. I hope you can come. Donald",
         "soru_metni": "Yukarıdaki metinde aşağıdaki sorulardan hangisinin cevabı yoktur?",
         "secenekler": {
@@ -997,7 +1067,7 @@
     },
     {
         "id": 83,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
         "kontext": "Hi, Helen Jeff and I are going to the bookstore on Sunday. You know we are learning computer programming and we are going to buy a book about it. I know you are also interested in computer programming. Would you like to join us? Let me know if you can make it. We are going to leave home at 10 a.m. We can go to the cinema or eat at a restaurant after shopping. I hope you can come. Donald",
         "soru_metni": "Jeff and Donald want to buy a book about ----",
         "secenekler": {
@@ -1010,7 +1080,7 @@
     },
     {
         "id": 84,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
         "kontext": "Hi, Helen Jeff and I are going to the bookstore on Sunday. You know we are learning computer programming and we are going to buy a book about it. I know you are also interested in computer programming. Would you like to join us? Let me know if you can make it. We are going to leave home at 10 a.m. We can go to the cinema or eat at a restaurant after shopping. I hope you can come. Donald",
         "soru_metni": "Imagine that you are Helen. You can't join them and make an excuse. What do you say?",
         "secenekler": {
@@ -1023,7 +1093,8 @@
     },
     {
         "id": 85,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Paul : Hello, Paul speaking. I'm so busy now, TTYL. Sharon : Hi, Paul. This is Sharon. Can I talk to Betty? Paul :---- I'll get her. Sharon : Thanks, Paul.",
         "secenekler": {
             "A": "She isn't available now.",
@@ -1035,7 +1106,8 @@
     },
     {
         "id": 86,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Isla : Would you like to come to the cinema with me? Ava :----? Isla : We can meet at five in front of the shopping mall. Ava : OK.",
         "secenekler": {
             "A": "Maybe later. How about having dinner instead",
@@ -1047,7 +1119,8 @@
     },
     {
         "id": 87,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Many teachers are worried about the negative effects of text language and abbreviations, however - - - - .",
         "secenekler": {
             "A": "people mostly prefer face-to-face communication",
@@ -1059,7 +1132,8 @@
     },
     {
         "id": 88,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Jane : What does TTYL mean? Mary :---- Jane : Okay, dear. HAND",
         "secenekler": {
             "A": "Talk to you later",
@@ -1071,7 +1145,8 @@
     },
     {
         "id": 89,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "I. No, that's okay. I'll call back later. II. Hello, can I talk to Mr. Williams, please? III. OK. Bye for now. IV. I'm afraid, he's out. Would you like to leave a message? V. Hello, Mr. Williams office. Karışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "V-I-III-IV-II",
@@ -1083,7 +1158,8 @@
     },
     {
         "id": 90,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "(I) An SMS or short message service is a type of communication used in mobile phones. (II) They are usually called \"text messages\". (III) With SMS, someone can send a text message to another person. (IV) People communicate in many different ways. Verilen metinde anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
         "secenekler": {
             "A": "I",
@@ -1095,7 +1171,8 @@
     },
     {
         "id": 91,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Which one is true according to the chart?",
         "secenekler": {
             "A": "All teens enjoy exchanging emails daily.",
@@ -1107,7 +1184,8 @@
     },
     {
         "id": 92,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Your landline phone is ringing. You answered it. Someone wants to talk to your father but he's not at home. What do you say?",
         "secenekler": {
             "A": "I have another call coming through. I have to hang up the phone.",
@@ -1119,7 +1197,8 @@
     },
     {
         "id": 93,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "\"52% of teens use social networks to exchange messages daily.\" Verilen cümleye anlamca en yakın olan seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "More than half of the teens use social networks to exchange messages daily.",
@@ -1131,7 +1210,8 @@
     },
     {
         "id": 94,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "A smartphone - - - -.",
         "secenekler": {
             "A": "is bigger than a computer",
@@ -1143,7 +1223,8 @@
     },
     {
         "id": 95,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "The text is about the - - - - of smartphones.",
         "secenekler": {
             "A": "negative effects",
@@ -1155,7 +1236,8 @@
     },
     {
         "id": 96,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Which one is not mentioned in the text?",
         "secenekler": {
             "A": "You can send emails by using smartphones.",
@@ -1167,7 +1249,8 @@
     },
     {
         "id": 97,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Secretary: Hello, Mrs. Thomas speaking. Joseph : Hi, can I order two large pizzas, please? Secretary: -- Joseph : I'm really sorry. Bye.",
         "secenekler": {
             "A": "I'm sorry but here is a gym.",
@@ -1179,7 +1262,8 @@
     },
     {
         "id": 98,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Robert : Hello, Robert speaking. Sue : Hi, Robert, it's me Sue. Do you have any plans for tonight? Robert : Sorry, Sue. I'm at the office now. Can we talk after work? Sue : OK, no problem. - - - -",
         "secenekler": {
             "A": "Thanks for calling",
@@ -1191,7 +1275,8 @@
     },
     {
         "id": 99,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Tom : Hello, Tom speaking. Cathy : Hi, Tom, it's me Cathy. - - - -? Tom : Great. Thanks. Cathy : Are you at home tonight? Tom : Yeah. Why don't you come over here tonight?",
         "secenekler": {
             "A": "What is your plan for tonight",
@@ -1203,7 +1288,8 @@
     },
     {
         "id": 100,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Eric : Why don't you answer my voicemails, Jill? Jill : I'm sorry but ---- Eric : Then, I will send text messages to keep in touch with you.",
         "secenekler": {
             "A": "I never send text messages",
@@ -1215,7 +1301,8 @@
     },
     {
         "id": 101,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Tom : We are having a party tonight. Would you like to join us? Robin : I'm sorry but I can't. I don't feel well today. Tom : That's so bad. ---- . Robin : Thanks.",
         "secenekler": {
             "A": "I hope you enjoy it",
@@ -1227,7 +1314,8 @@
     },
     {
         "id": 102,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Michael : There is a great match tonight. Why don't we go and watch it at the stadium together? Edward : I'm afraid, I'm not available tonight. Michael : OK, no problem.",
         "secenekler": {
             "A": "My grandparents are going to visit me tonight",
@@ -1239,7 +1327,8 @@
     },
     {
         "id": 103,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Carol :----? Kaan : Almost everyday. Because I often use my mobile phone to keep in touch with friends.",
         "secenekler": {
             "A": "What is your favorite social network",
@@ -1251,7 +1340,8 @@
     },
     {
         "id": 104,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Jack : Don't forget to buy some meat and bread. You know ----.",
         "secenekler": {
             "A": "my friends often use abbreviations in text messages",
@@ -1263,7 +1353,8 @@
     },
     {
         "id": 105,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "I. Could I ask who's calling? II. Hello, Peter, is Mark there? III. I'm sorry, this is his friend William. IV. Hello, Peter speaking. V. I'm sorry William, but he is not at home now. Karışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralandığı seçeneği işaretleyi- niz.",
         "secenekler": {
             "A": "II-IV-I-III - V",
@@ -1275,7 +1366,8 @@
     },
     {
         "id": 106,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "You want to hang out with your best friend after school. You invite him but he doesn't accept your invitation because he doesn't feel well today. You want to express your sympathy and concern. What do you say?",
         "secenekler": {
             "A": "I think you are ill today.",
@@ -1287,7 +1379,8 @@
     },
     {
         "id": 107,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Smartphone Q1 ----.",
         "secenekler": {
             "A": "has 16 GB storage",
@@ -1299,7 +1392,8 @@
     },
     {
         "id": 108,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Which one is false about the gadget?",
         "secenekler": {
             "A": "You can take photos with its 16 megapixel camera",
@@ -1311,7 +1405,8 @@
     },
     {
         "id": 109,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Teens mostly prefer more than voice calls to communicate with each other because they are cheap and fast.",
         "secenekler": {
             "A": "writing invitations",
@@ -1323,7 +1418,8 @@
     },
     {
         "id": 110,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Mike : Hello, Daryl. We're going to the cinema tonight. Would you like to join us? Daryl : Hello, Mike. It would be great but my mom doesn't feel well and I have to stay with her today. Mike : I'm sorry to hear that. I hope - - - -. See you later, then. Daryl : Thanks for calling. See you.",
         "secenekler": {
             "A": "I can stay with you",
@@ -1335,7 +1431,8 @@
     },
     {
         "id": 111,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Frank : Hello, Frank speaking. Brad : Hello, Frank. This is Brad. Do you want to drink something at the café? Frank : I'm sorry, I feel tired. I'm going to rest all day. Brad : No matter.",
         "secenekler": {
             "A": "You can join me now",
@@ -1347,7 +1444,8 @@
     },
     {
         "id": 112,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Rosa : Hello, Rosa speaking. Kate : Hello, this is Kate. Can I speak to Jill, please? Rosa : Hello, Kate. I'm afraid, she is not in at the moment. She will be at home in the afternoon. Kate : - - - - Have a nice day. Rosa : Thanks. Bye.",
         "secenekler": {
             "A": "I will get her",
@@ -1359,7 +1457,8 @@
     },
     {
         "id": 113,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Secretary: Hello, Mrs. Peterson's office. Matt : Hello, could I speak to her, please? Secretary:----, please? Matt : It's Matt Brown, her friend.",
         "secenekler": {
             "A": "May I ask who is calling",
@@ -1371,7 +1470,8 @@
     },
     {
         "id": 114,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "Fred : Hello, Fred speaking. Sam : Hello, Fred. It's Sam. How are you? Fred : I'm fine, Sam. Thank you. Sam :----? We are going to watch a movie with Jason. Would you like to join us? Fred : Actually, not at all. I will be there.",
         "secenekler": {
             "A": "Are you going to join the party",
@@ -1383,7 +1483,8 @@
     },
     {
         "id": 115,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "I. Hello, could I speak to Mr. Harry, please? II. OK. I will inform him about your calling. III. I'm afraid he isn't available at the moment. IV. Could you tell him to contact with Mrs. Shine? V. Hello. Mr Harry's office Karışık olarak verilen cümlelerin anlamlı bir diyalog olacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "V-I-III IV - II",
@@ -1395,7 +1496,8 @@
     },
     {
         "id": 116,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "(I) Jeremy wants to buy a laptop. (II) He is going to buy a new laptop for his father as a birthday gift. (III) Jeremy likes playing computer games with friends. (IV) His father is going to be forty next Saturday. Verilen metinde anlam bütünlüğünü bozan cümle se- çeneklerden hangisidir?",
         "secenekler": {
             "A": "I",
@@ -1407,7 +1509,7 @@
     },
     {
         "id": 117,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
         "kontext": "Alice's weekend plans | What: Do sports | When: On Saturday | What time: At ten a.m. | Where: At the gym",
         "soru_metni": "Choose the incorrect option according to the table above?",
         "secenekler": {
@@ -1420,7 +1522,7 @@
     },
     {
         "id": 118,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
         "kontext": "Hi, girls. I'm having friends over tonight. Would you like to join us? We can sit and chit-chat. Mary I'd like to but I am not feeling well today. I'm sorry. Talk to you soon. Ruth Sure! That's a good idea. Tell me if you need anything. I can bring something to drink. Bye for now. Susan Hi. That would be great. My cousin is staying with us. Shall we come together? She is really a funny girl.",
         "soru_metni": "Which one is true about the messages above?",
         "secenekler": {
@@ -1433,7 +1535,7 @@
     },
     {
         "id": 119,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
         "kontext": "Hi, girls. I'm having friends over tonight. Would you like to join us? We can sit and chit-chat. Mary I'd like to but I am not feeling well today. I'm sorry. Talk to you soon. Ruth Sure! That's a good idea. Tell me if you need anything. I can bring something to drink. Bye for now. Susan Hi. That would be great. My cousin is staying with us. Shall we come together? She is really a funny girl.",
         "soru_metni": "---- wants to attend to the event with one of her relatives.",
         "secenekler": {
@@ -1446,7 +1548,7 @@
     },
     {
         "id": 120,
-        "konu": "Communication",
+        "konu": "4. On The Phone",
         "kontext": "Hi, girls. I'm having friends over tonight. Would you like to join us? We can sit and chit-chat. Mary I'd like to but I am not feeling well today. I'm sorry. Talk to you soon. Ruth Sure! That's a good idea. Tell me if you need anything. I can bring something to drink. Bye for now. Susan Hi. That would be great. My cousin is staying with us. Shall we come together? She is really a funny girl.",
         "soru_metni": "Who accepts the invitation according to the text?",
         "secenekler": {
@@ -1459,7 +1561,8 @@
     },
     {
         "id": 121,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "A is a computer hardware and it helps your computer to connect to the Net.",
         "secenekler": {
             "A": "modem",
@@ -1471,7 +1574,8 @@
     },
     {
         "id": 122,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Martin : Do you use social networking sites? Harry : Sure. Martin : What do you usually do on these sites? Harry : ----",
         "secenekler": {
             "A": "I always prefer using my desktop",
@@ -1483,7 +1587,8 @@
     },
     {
         "id": 123,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "A is a type of website that helps us find information on the Net.",
         "secenekler": {
             "A": "live chat",
@@ -1495,7 +1600,8 @@
     },
     {
         "id": 124,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Paul :----? Steven : I usually read newspaper or magazines. I sometimes communicate with friends, too.",
         "secenekler": {
             "A": "How often are you online",
@@ -1507,7 +1613,8 @@
     },
     {
         "id": 125,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Kimberly:----? Michelle: Certainly, my sister. She is a couch potato and nearly always online.",
         "secenekler": {
             "A": "How many hours a day do you spend on the Net",
@@ -1519,7 +1626,8 @@
     },
     {
         "id": 126,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Robert: I forgot my and can't log on my account.",
         "secenekler": {
             "A": "attachment",
@@ -1531,7 +1639,8 @@
     },
     {
         "id": 127,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "INTERNET SAFETY RULES: Choose strong passwords. Don't give your personal details to strangers. Use an antivirus program. ----",
         "secenekler": {
             "A": "Download files from any sites that you like",
@@ -1543,7 +1652,8 @@
     },
     {
         "id": 128,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Imagine that you have an Internet connection problem. You see that some of the lights on your modem are off. You call the customer service. What do you say?",
         "secenekler": {
             "A": "I have a cable modem and I want to replace it with a wireless one.",
@@ -1555,7 +1665,8 @@
     },
     {
         "id": 129,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "I. Really? Could you send them to me? II. Could you find any information on the Net about the conquest of İstanbul? III. Sure. I will attach them to the email. IV. Yes. I found some photos and maps. Karışık olarak verilen cümlelerin anlamlı bir diyalog oluşturacak şekilde sıralandığı seçeneği işaretleyi- niz.",
         "secenekler": {
             "A": "III-IV-I-II",
@@ -1567,7 +1678,8 @@
     },
     {
         "id": 130,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "According to the text, you should choose the right search engine ----",
         "secenekler": {
             "A": "because keywords help you get more specific results",
@@ -1579,7 +1691,8 @@
     },
     {
         "id": 131,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "According to the text, if you can't find information through a search engine, you can - .",
         "secenekler": {
             "A": "look it up in books or other materials",
@@ -1591,7 +1704,8 @@
     },
     {
         "id": 132,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "What can be the best title for the text?",
         "secenekler": {
             "A": "How to search on the Net?",
@@ -1603,7 +1717,8 @@
     },
     {
         "id": 133,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "If you want to listen to music while using your computer, you should buy some - - - -",
         "secenekler": {
             "A": "speakers",
@@ -1615,7 +1730,8 @@
     },
     {
         "id": 134,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "If you want to use safe sites on the Net, you - - - -.",
         "secenekler": {
             "A": "should have a social network account",
@@ -1627,7 +1743,8 @@
     },
     {
         "id": 135,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Everyone loves the Internet because - - - -",
         "secenekler": {
             "A": "you must be careful with strange e-mails.",
@@ -1639,7 +1756,8 @@
     },
     {
         "id": 136,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Sharon has many Internet friends but - - - -.",
         "secenekler": {
             "A": "they aren't members of social networking sites",
@@ -1651,7 +1769,8 @@
     },
     {
         "id": 137,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Noah : Do you have a social network account? Liam : Yeah. Noah : - - - -? Liam : Photos, songs, funny videos etc.",
         "secenekler": {
             "A": "Do you send e-mails",
@@ -1663,7 +1782,8 @@
     },
     {
         "id": 138,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "James : How about hanging out tonight? David : - - - - James : See you later, then. David : Take care, bye.",
         "secenekler": {
             "A": "Sounds good. What time shall we meet?",
@@ -1675,7 +1795,8 @@
     },
     {
         "id": 139,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "One of your friends invites you to the cinema. You accept the invitation and state that you love watching movies. What do you say?",
         "secenekler": {
             "A": "I'm afraid, I can't. My aunt is going to visit us today.",
@@ -1687,7 +1808,8 @@
     },
     {
         "id": 140,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "(I) A search engine is a type of website that helps someone find information on the Internet. (II) You must enter one or more words into the search engine. (III) Google is the most popular search engine website. (IV) When you finish your search, you see the results on the screen. Verilen metinde anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
         "secenekler": {
             "A": "I",
@@ -1699,7 +1821,8 @@
     },
     {
         "id": 141,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "I. Sure. What is the problem? II. I think I have a problem with my computer. Can you help me, please? III. Well, I can't open new pages on the Internet. IV. Close all the pages and then try to open a new one. Karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "II-I-III-IV",
@@ -1711,7 +1834,8 @@
     },
     {
         "id": 142,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "According to the text, one of the negative effects of social networks is - - - -.",
         "secenekler": {
             "A": "sharing photos",
@@ -1723,7 +1847,8 @@
     },
     {
         "id": 143,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Which one is false according to text?",
         "secenekler": {
             "A": "You can meet people with the same interests through social networking sites.",
@@ -1735,7 +1860,8 @@
     },
     {
         "id": 144,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Which can be the best title for the text?",
         "secenekler": {
             "A": "Making Friends Through Social Networks",
@@ -1747,7 +1873,8 @@
     },
     {
         "id": 145,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "I sometimes - - - - photos on social networks because I like reading my friends' ideas about them.",
         "secenekler": {
             "A": "connect",
@@ -1759,7 +1886,8 @@
     },
     {
         "id": 146,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "A computer - - - - shows pictures or information and it often looks similar to televisions.",
         "secenekler": {
             "A": "printer",
@@ -1771,7 +1899,8 @@
     },
     {
         "id": 147,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "A - - - - is a software for finding web pages with the information you want.",
         "secenekler": {
             "A": "search engine",
@@ -1783,7 +1912,8 @@
     },
     {
         "id": 148,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Isabel :----? Tilly : I usually use my mobile but I sometimes use my computer, too.",
         "secenekler": {
             "A": "What do you usually do on the Net",
@@ -1795,7 +1925,8 @@
     },
     {
         "id": 149,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Michelle : Do you do online shopping? Kimberly: No. I think, it isn't safe. Michelle :----. I think it's safe if you do shopping on safe sites.",
         "secenekler": {
             "A": "Thank you anyway",
@@ -1807,7 +1938,8 @@
     },
     {
         "id": 150,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Sam :----? Tim : Sure. Here you are. Sam : Thank you. Tim : You're welcome.",
         "secenekler": {
             "A": "Do you often listen to music",
@@ -1819,7 +1951,8 @@
     },
     {
         "id": 151,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Samuel : What is the best thing about the Internet? Natalie : To make new friends. Samuel :----? Natalie : Sure. I have two accounts.",
         "secenekler": {
             "A": "Are you a member of any social networks",
@@ -1831,7 +1964,8 @@
     },
     {
         "id": 152,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "I. I cannot connect to the Internet. II. Your modem may be offline. III. I have a problem with my computer. IV. What do you mean? Karışık olarak verilen cümlelerin anlamlı bir bütün oluşturacak şekilde sıralandığı seçeneği işaretleyiniz.",
         "secenekler": {
             "A": "II-I-III-IV",
@@ -1843,7 +1977,8 @@
     },
     {
         "id": 153,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "(I) Internet addicts think and talk about the Internet all the time and they cannot organize their lives. (II) The Internet is a term for the worldwide communication network of computers. (III) You can send information quickly between computers around the world. (IV) It's used for many things such as electronic mail, online chat, file transfer, web pages etc. Verilen metinde anlam bütünlüğünü bozan cümleyi işaretleyiniz.",
         "secenekler": {
             "A": "I",
@@ -1855,7 +1990,8 @@
     },
     {
         "id": 154,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "According to the text, if you spend too much time on the Internet, you - - - -",
         "secenekler": {
             "A": "can never access the Net",
@@ -1867,7 +2003,8 @@
     },
     {
         "id": 155,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "There is a lot of wrong information on the Net because - - - -",
         "secenekler": {
             "A": "it is easy to have a password",
@@ -1879,7 +2016,8 @@
     },
     {
         "id": 156,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Which one is false according to the text?",
         "secenekler": {
             "A": "People can get into your computer.",
@@ -1891,7 +2029,8 @@
     },
     {
         "id": 157,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "When there is a virus in your computer, it can destroy all your programs or delete information.",
         "secenekler": {
             "A": "virus",
@@ -1903,7 +2042,8 @@
     },
     {
         "id": 158,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "If you want to scan documents and photos into your computer, you need a scanner .",
         "secenekler": {
             "A": "modem",
@@ -1915,7 +2055,8 @@
     },
     {
         "id": 159,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "When William arrives at his office in the morning, he first starts up his computer.",
         "secenekler": {
             "A": "downloads",
@@ -1927,7 +2068,8 @@
     },
     {
         "id": 160,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "I can surf the Net when I want because I have the Internet on my mobile.",
         "secenekler": {
             "A": "print",
@@ -1939,7 +2081,8 @@
     },
     {
         "id": 161,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "I uploaded new photos and updated my profile last night.",
         "secenekler": {
             "A": "updated",
@@ -1951,7 +2094,8 @@
     },
     {
         "id": 162,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "You must visit safe websites to surf the Net safely",
         "secenekler": {
             "A": "visit safe websites",
@@ -1963,7 +2107,8 @@
     },
     {
         "id": 163,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Jeremy is a social networking site addict. He logs on to it every day to chat with his online friends .",
         "secenekler": {
             "A": "deactivated his accounts on those sites",
@@ -1975,7 +2120,8 @@
     },
     {
         "id": 164,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "If you don't want to be an Internet addict you must be careful about the time you spend online .",
         "secenekler": {
             "A": "you can use the Internet for fun and for your homework",
@@ -1987,7 +2133,8 @@
     },
     {
         "id": 165,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Sam: Why do you use the Internet ? Alicia: To search for information and to play online games.",
         "secenekler": {
             "A": "How often do you use the Internet",
@@ -1999,7 +2146,8 @@
     },
     {
         "id": 166,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Ann: How long do you use the Internet every day ? Tim: I spend about two hours a day on the Net.",
         "secenekler": {
             "A": "What do you like doing online most",
@@ -2011,7 +2159,8 @@
     },
     {
         "id": 167,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Ethan: Why don't we play online games tonight? Mell: I'm sorry, but I can't . I have a problem with the Internet.",
         "secenekler": {
             "A": "I'm sorry, but I can't",
@@ -2023,7 +2172,8 @@
     },
     {
         "id": 168,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "Gwen: I'm addicted to the Internet. Halle: What do you mean ? Gwen: Well, I have to surf the Internet every day for hours. I feel worried if I'm offline for more than a few hours.",
         "secenekler": {
             "A": "What time are you online",
@@ -2035,7 +2185,7 @@
     },
     {
         "id": 169,
-        "konu": "Friendship",
+        "konu": "1. Friendship",
         "kontext": "Read the opinions of four people about their friends. Alex: Tim doesn't forget to organize parties for my birthdays. Fred: I don't like spending time with Joe. Jill: I don't trust Betty, so I don't share my secrets with her. Sally: Ashley doesn't support me when I need her.",
         "soru_metni": "According to the information above, who says something positive about his/her friend?",
         "secenekler": {
@@ -2048,7 +2198,7 @@
     },
     {
         "id": 170,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Clara is going to buy some books for her friends. She knows that Robert loves reading about architecture. Lisa reads magazines about water sports. Mary usually buys books on health and Jack is interested in cooking.",
         "soru_metni": "According to the information above, which of the following books is Clara NOT going to buy?",
         "secenekler": {
@@ -2061,7 +2211,7 @@
     },
     {
         "id": 171,
-        "konu": "Chores",
+        "konu": "8. Chores",
         "kontext": "Keep your classroom tidy. SCHOOL RULES: Be quiet while your teacher is talking. Return the books to the library.",
         "soru_metni": "Which of the following does NOT fill in the blank above?",
         "secenekler": {
@@ -2100,7 +2250,7 @@
     },
     {
         "id": 174,
-        "konu": "Personal Life",
+        "konu": "9. Science",
         "kontext": "Prof. Gazi YAŞARGİL He was born in 1925 in Diyarbakır. He has two brothers and two sisters. He has three children: Leyla, Ceylan and Can. After his graduation from Ankara Atatürk High School, he studied medicine in Basel and Zurich. He developed new methods and special tools in medicine. He published lots of articles and he is the writer of many books. There is also a \"Yaşargil\" lab in Oxford.",
         "soru_metni": "Which of the following headings does NOT match with any of the three texts given above?",
         "secenekler": {
@@ -2113,7 +2263,7 @@
     },
     {
         "id": 175,
-        "konu": "Teen Life",
+        "konu": "2. Teen Life",
         "kontext": "Susan had some messages from her friends. Carol: I have two tickets for the concert at City Park. Why don't we go together? Jason: Hey, Susan! We are going on a picnic on Saturday. Would you like to come with us? Liz: Thanks for the invitation. 8 p.m. is okay for me, too. See you there. Mandy: Jane, Linda and I are having a movie night on Monday. It will be great if you join us.",
         "soru_metni": "According to the information above, who did NOT invite Susan to an event?",
         "secenekler": {
@@ -2126,7 +2276,7 @@
     },
     {
         "id": 176,
-        "konu": "The Internet",
+        "konu": "5. The Internet",
         "kontext": "Mike has written a new book about extreme sports. On the Internet, there are many comments about Mike's book. Below, you see four of them. Joe: Thanks to this book, I have learned a lot of interesting things about extreme sports. Kelly: The first part of the book especially includes some very important information. Mary: If you are interested in extreme sports, you should read this book. Nancy: If you really want to learn about extreme sports, go and buy another book.",
         "soru_metni": "Who does NOT think Mike's book is useful?",
         "secenekler": {
@@ -2139,7 +2289,7 @@
     },
     {
         "id": 177,
-        "konu": "Tourism",
+        "konu": "7. Tourism",
         "kontext": "Below, you see some information about different tourist destinations. The Romans built the Colosseum in Italy. Thousands of people went there to watch events. Babur Shah built the Taj Mahal in the city of Agra. You can enjoy its beautiful gardens when you visit it. Adrasan is a small town in Antalya, Türkiye. You can go there by car. You can go to Rize to try rafting on the River Fırtına.",
         "soru_metni": "Which of the following questions has the answer in all four texts above?",
         "secenekler": {
@@ -2152,7 +2302,7 @@
     },
     {
         "id": 178,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
         "kontext": "Below, you see the map of \"Cycling Tour August 2025\". Cycling Tour August 2025 - Start: Wednesday, 9 a.m. August 13 - Finish: Saturday, August 16 - Part 1: 20 km - Part 2: 10 km - Part 3: 15 km - Part 4: 15 km - Camping areas where you have to stay at night during the tour after you complete each part.",
         "soru_metni": "According to the map above, which of the following is false?",
         "secenekler": {
@@ -2165,7 +2315,8 @@
     },
     {
         "id": 179,
-        "konu": "Revision - 1",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "1. A set of clothes that we wear together is called - - - -.",
         "secenekler": {
             "A": "an outfit",
@@ -2177,7 +2328,8 @@
     },
     {
         "id": 180,
-        "konu": "Revision - 1",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "2. I'm on a diet. So I don't eat - - - - food. It's too fattening.",
         "secenekler": {
             "A": "burned",
@@ -2189,7 +2341,8 @@
     },
     {
         "id": 181,
-        "konu": "Revision - 1",
+        "konu": "3. In The Kitchen",
+        "kontext": "",
         "soru_metni": "3. We first need to - - - - bread to make a sandwich.",
         "secenekler": {
             "A": "melt",
@@ -2201,7 +2354,8 @@
     },
     {
         "id": 182,
-        "konu": "Revision - 1",
+        "konu": "5. The Internet",
+        "kontext": "",
         "soru_metni": "4. You should be careful when you download pictures and games. Because you can - - - -.",
         "secenekler": {
             "A": "get a virus",
@@ -2213,7 +2367,8 @@
     },
     {
         "id": 183,
-        "konu": "Revision - 1",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "5. - - - -. She stays at home all day and relax.",
         "secenekler": {
             "A": "Amanda always goes to the cinema on Sunday afternoon",
@@ -2225,7 +2380,8 @@
     },
     {
         "id": 184,
-        "konu": "Revision - 1",
+        "konu": "4. On The Phone",
+        "kontext": "",
         "soru_metni": "6. Susan : Hello, is George there? Michael : I'm not sure. - - - -, I'll check.",
         "secenekler": {
             "A": "hang up",
@@ -2237,7 +2393,8 @@
     },
     {
         "id": 185,
-        "konu": "Revision - 1",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "7. Clara : We're having a barbecue party at my house on Sunday. Tim : Yes. Sounds good.",
         "secenekler": {
             "A": "Why not?",
@@ -2249,7 +2406,8 @@
     },
     {
         "id": 186,
-        "konu": "Revision - 1",
+        "konu": "8. Chores",
+        "kontext": "",
         "soru_metni": "8. Janet : - - - -? Why don't you come along for a coffee? Anne : I'm sorry but I can't. I'm helping mum with the housework.",
         "secenekler": {
             "A": "How do you go to school",
@@ -2261,7 +2419,8 @@
     },
     {
         "id": 187,
-        "konu": "Revision - 1",
+        "konu": "1. Friendship",
+        "kontext": "",
         "soru_metni": "9. Amy : How about coming to my house tonight? Jennifer : - - - -. Shall I bring anything to eat? Amy : No, you don't need to. I'll get some pizzas and crisps.",
         "secenekler": {
             "A": "Sorry, but I can't make it",
@@ -2273,7 +2432,8 @@
     },
     {
         "id": 188,
-        "konu": "Revision - 1",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "10. Karen : - - - -? Timothy: I usually do my homework and read a book.",
         "secenekler": {
             "A": "How often do you go shopping",
@@ -2285,7 +2445,8 @@
     },
     {
         "id": 189,
-        "konu": "Revision - 1",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "11. - - - - sometimes goes shopping.",
         "secenekler": {
             "A": "Jack",
@@ -2297,7 +2458,8 @@
     },
     {
         "id": 190,
-        "konu": "Revision - 1",
+        "konu": "2. Teen Life",
+        "kontext": "",
         "soru_metni": "12. Tina never - - - -.",
         "secenekler": {
             "A": "plays computer games",
@@ -2309,7 +2471,8 @@
     },
     {
         "id": 191,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Adventure lovers prefer extreme sports because they are",
         "secenekler": {
             "A": "easy and embarrassing",
@@ -2321,7 +2484,8 @@
     },
     {
         "id": 192,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Martha :----? Darren : Three times a month.",
         "secenekler": {
             "A": "When do you go cycling",
@@ -2333,7 +2497,8 @@
     },
     {
         "id": 193,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Joe :----? Emily : Because it's fascinating and amusing.",
         "secenekler": {
             "A": "Why do you like motor racing",
@@ -2345,7 +2510,8 @@
     },
     {
         "id": 194,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Berth : In my opinion, canoeing is easier and more entertaining than rafting. Camilla : --. Berth : Let's do it next week! Camilla : Of course. I'd love to.",
         "secenekler": {
             "A": "I disagree with you",
@@ -2357,7 +2523,8 @@
     },
     {
         "id": 195,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "John : I think caving is boring. Sam :- -. John : Why? Sam : I tried and really enjoyed it.",
         "secenekler": {
             "A": "I don't think so",
@@ -2369,7 +2536,8 @@
     },
     {
         "id": 196,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Mustafa: Why don't we go and try skydiving at the weekend? Bruce : Well, it is really dangerous. - - - -. It's safer and fun.",
         "secenekler": {
             "A": "Skydiving always attracts me",
@@ -2381,7 +2549,8 @@
     },
     {
         "id": 197,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Kate : Which sports do you usually do during summer holidays? Ally :----. Kate : So, you are not into extreme sports like parachuting.",
         "secenekler": {
             "A": "I never miss joining in rafting activities in summer",
@@ -2393,7 +2562,8 @@
     },
     {
         "id": 198,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "I don't think of myself as an adrenalin junkie. Verilen cümleyi söyleyen bir kişinin hangi aktiviteyi yapması beklenemez?",
         "secenekler": {
             "A": "A",
@@ -2405,7 +2575,8 @@
     },
     {
         "id": 199,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": ".---- rafting is an entertaining sport. This summer, we are planning to go to Alanya to do rafting. Verilen cümle aşağıdaki ifadelerden hangisi ile tamamlanamaz?",
         "secenekler": {
             "A": "In my opinion",
@@ -2417,7 +2588,8 @@
     },
     {
         "id": 200,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Yasemin didn't like bungee jumping because it was",
         "secenekler": {
             "A": "dangerous",
@@ -2429,7 +2601,8 @@
     },
     {
         "id": 201,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "According to the text, Yasemin",
         "secenekler": {
             "A": "likes extreme sports",
@@ -2441,7 +2614,8 @@
     },
     {
         "id": 202,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "During her holiday, Yasemin didn't do any activities with her ----.",
         "secenekler": {
             "A": "brother",
@@ -2453,7 +2627,8 @@
     },
     {
         "id": 203,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Sam : Are you an adrenalin junkie? Tim : Yes, I'm. ----",
         "secenekler": {
             "A": "I'm crazy about extreme sports",
@@ -2465,7 +2640,8 @@
     },
     {
         "id": 204,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Jack : I think rafting is challenging and more entertaining than caving. - - - -? Jones : You're right. Rafting on the water is really enjoyable. You feel the freedom.",
         "secenekler": {
             "A": "Who are you talking to",
@@ -2477,7 +2653,8 @@
     },
     {
         "id": 205,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Brian : Do you love skateboarding? Nancy : Sure. -",
         "secenekler": {
             "A": "I think it's really fun",
@@ -2489,7 +2666,8 @@
     },
     {
         "id": 206,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Ahmet : I would like to try hang gliding this summer. Where should I go? Robert : I think Antalya ---- You can also find many other sports activities there.",
         "secenekler": {
             "A": "is the best place to try new dishes",
@@ -2501,7 +2679,8 @@
     },
     {
         "id": 207,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Tim : Why do adrenalin junkies prefer dangerous sports to others? Sue :---- because they enjoy forcing themselves.",
         "secenekler": {
             "A": "In my opinion dangerous sports are really boring",
@@ -2513,7 +2692,8 @@
     },
     {
         "id": 208,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Jack : Have you ever tried any extreme sports? Bill : Yeah. I went rafting last year. Jack :----? Bill : It was an amazing experience.",
         "secenekler": {
             "A": "What is the aim of it",
@@ -2525,7 +2705,8 @@
     },
     {
         "id": 209,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Pete : What do you need to do rafting safely? Dave : What do you mean? Pete : Well.-? Dave : Sure. We should wear a helmet.",
         "secenekler": {
             "A": "Do people prefer rafting to other sports",
@@ -2537,7 +2718,8 @@
     },
     {
         "id": 210,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Sam : I think rafting is easier than kayaking. Anna :----. To me, rafting is more difficult. Because it's faster and more dangerous.",
         "secenekler": {
             "A": "I don't think so",
@@ -2549,7 +2731,8 @@
     },
     {
         "id": 211,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "George :----? Sandra : I don't think I can do it. Because it's dangerous and risky. I prefer safer sports.",
         "secenekler": {
             "A": "Are you interested in jogging",
@@ -2561,7 +2744,8 @@
     },
     {
         "id": 212,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
+        "kontext": "",
         "soru_metni": "Verilen eşleştirmelerden yanlış olanı işaretleyiniz.",
         "secenekler": {
             "A": "Bungee Jumping",
@@ -2573,7 +2757,7 @@
     },
     {
         "id": 213,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
         "kontext": "•Are you an adrenalin junkie? •Do you like challenging and thrilling activities? •Do you want to see the wonderful view of Antalya from the sky? •This activity is definitely for you. You should try it. •Time: Every day from 10.00 to 17.00 •Price: $ 15",
         "soru_metni": "The sport in the text is ----.",
         "secenekler": {
@@ -2586,7 +2770,7 @@
     },
     {
         "id": 214,
-        "konu": "Adventures",
+        "konu": "6. Adventures",
         "kontext": "•Are you an adrenalin junkie? •Do you like challenging and thrilling activities? •Do you want to see the wonderful view of Antalya from the sky? •This activity is definitely for you. You should try it. •Time: Every day from 10.00 to 17.00 •Price: $ 15",
         "soru_metni": "Adrenalin junkies do this sport because",
         "secenekler": {
