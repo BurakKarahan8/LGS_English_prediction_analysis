@@ -5,7 +5,11 @@ import os
 
 # Dosya adı
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
 FILENAME = "lgs_veri_seti_v7.json"
+=======
+FILENAME = "lgs_veri_seti_v6.json"
+>>>>>>> Stashed changes
 =======
 FILENAME = "lgs_veri_seti_v6.json"
 >>>>>>> Stashed changes
